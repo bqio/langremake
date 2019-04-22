@@ -1,0 +1,10829 @@
+ID: 0
+Name: ダミー000
+Name2: ダミー
+Filename: 0
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 50
+MaxMP: 0
+Attack: 35
+Defense: 30
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 10
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ダミー
+
+ID: 1
+Name: シビリアン
+Name2: シビリアン
+Filename: 1
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 10
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: シビリアン
+
+ID: 2
+Name: ソルジャー
+Name2: ソルジャー
+Filename: 24
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 120
+MaxMP: 0
+Attack: 65
+Defense: 65
+Magic: 0
+Resistance: 39
+Dexterity: 55
+Agility: 55
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ソルジャー
+
+ID: 3
+Name: バーサーカー
+Name2: バーサーカー
+Filename: 25
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 200
+MaxMP: 0
+Attack: 109
+Defense: 98
+Magic: 0
+Resistance: 33
+Dexterity: 70
+Agility: 70
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: バーサーカー
+
+ID: 4
+Name: ダークガード
+Name2: ダークガード
+Filename: 22
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 220
+MaxMP: 0
+Attack: 119
+Defense: 115
+Magic: 0
+Resistance: 69
+Dexterity: 75
+Agility: 75
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ダークガード
+
+ID: 5
+Name: グレナディーア
+Name2: グレナディーア
+Filename: 23
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 220
+MaxMP: 0
+Attack: 117
+Defense: 117
+Magic: 0
+Resistance: 69
+Dexterity: 75
+Agility: 75
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: グレナディーア
+
+ID: 6
+Name: オーガー
+Name2: オーガー
+Filename: 45
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 200
+MaxMP: 0
+Attack: 107
+Defense: 105
+Magic: 0
+Resistance: 57
+Dexterity: 70
+Agility: 70
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: オーガー
+
+ID: 7
+Name: パイク
+Name2: パイク
+Filename: 6
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 120
+MaxMP: 0
+Attack: 62
+Defense: 70
+Magic: 0
+Resistance: 39
+Dexterity: 55
+Agility: 55
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: パイク
+
+ID: 8
+Name: ファランクス
+Name2: ファランクス
+Filename: 7
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 180
+MaxMP: 0
+Attack: 85
+Defense: 99
+Magic: 0
+Resistance: 71
+Dexterity: 65
+Agility: 65
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ファランクス
+
+ID: 9
+Name: ゴーレム
+Name2: ゴーレム
+Filename: 27
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 240
+MaxMP: 0
+Attack: 122
+Defense: 125
+Magic: 0
+Resistance: 28
+Dexterity: 75
+Agility: 75
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ゴーレム
+
+ID: 10
+Name: ランサー
+Name2: ランサー
+Filename: 14
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 120
+MaxMP: 0
+Attack: 69
+Defense: 69
+Magic: 0
+Resistance: 26
+Dexterity: 55
+Agility: 55
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ランサー
+
+ID: 11
+Name: トルーパー
+Name2: トルーパー
+Filename: 13
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 150
+MaxMP: 0
+Attack: 81
+Defense: 84
+Magic: 0
+Resistance: 37
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: トルーパー
+
+ID: 12
+Name: ドラグーン
+Name2: ドラグーン
+Filename: 12
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 170
+MaxMP: 0
+Attack: 96
+Defense: 96
+Magic: 0
+Resistance: 46
+Dexterity: 65
+Agility: 65
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ドラグーン
+
+ID: 13
+Name: ロイヤルランサー
+Name2: ロイヤルランサー
+Filename: 15
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 220
+MaxMP: 0
+Attack: 122
+Defense: 124
+Magic: 0
+Resistance: 60
+Dexterity: 75
+Agility: 75
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ロイヤルランサー
+
+ID: 14
+Name: ウルフマン
+Name2: ウルフマン
+Filename: 34
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 120
+MaxMP: 0
+Attack: 67
+Defense: 67
+Magic: 0
+Resistance: 39
+Dexterity: 55
+Agility: 55
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ウルフマン
+
+ID: 15
+Name: フェアリー
+Name2: フェアリー
+Filename: 4
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 120
+MaxMP: 0
+Attack: 72
+Defense: 62
+Magic: 0
+Resistance: 57
+Dexterity: 55
+Agility: 55
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: フェアリー
+
+ID: 16
+Name: ハーピー
+Name2: ハーピー
+Filename: 39
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 140
+MaxMP: 0
+Attack: 86
+Defense: 75
+Magic: 0
+Resistance: 21
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ハーピー
+
+ID: 17
+Name: ガーゴイル
+Name2: ガーゴイル
+Filename: 38
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 200
+MaxMP: 0
+Attack: 114
+Defense: 98
+Magic: 0
+Resistance: 57
+Dexterity: 70
+Agility: 70
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ガーゴイル
+
+ID: 18
+Name: エンジェル
+Name2: エンジェル
+Filename: 3
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 160
+MaxMP: 0
+Attack: 100
+Defense: 86
+Magic: 0
+Resistance: 104
+Dexterity: 65
+Agility: 65
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: エンジェル
+
+ID: 19
+Name: グリフォン
+Name2: グリフォン
+Filename: 5
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 210
+MaxMP: 0
+Attack: 133
+Defense: 107
+Magic: 0
+Resistance: 58
+Dexterity: 75
+Agility: 75
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: グリフォン
+
+ID: 20
+Name: マーマン
+Name2: マーマン
+Filename: 17
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 140
+MaxMP: 0
+Attack: 73
+Defense: 82
+Magic: 0
+Resistance: 51
+Dexterity: 57
+Agility: 57
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: マーマン
+
+ID: 21
+Name: リザードマン
+Name2: リザードマン
+Filename: 44
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 170
+MaxMP: 0
+Attack: 92
+Defense: 93
+Magic: 0
+Resistance: 71
+Dexterity: 65
+Agility: 65
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: リザードマン
+
+ID: 22
+Name: ニクシー
+Name2: ニクシー
+Filename: 16
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 220
+MaxMP: 0
+Attack: 115
+Defense: 122
+Magic: 0
+Resistance: 102
+Dexterity: 75
+Agility: 75
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ニクシー
+
+ID: 23
+Name: モンク
+Name2: モンク
+Filename: 19
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 120
+MaxMP: 0
+Attack: 61
+Defense: 71
+Magic: 0
+Resistance: 57
+Dexterity: 55
+Agility: 55
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: モンク
+
+ID: 24
+Name: クルセイダー
+Name2: クルセイダー
+Filename: 18
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 170
+MaxMP: 0
+Attack: 93
+Defense: 90
+Magic: 0
+Resistance: 84
+Dexterity: 65
+Agility: 65
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: クルセイダー
+
+ID: 25
+Name: バーバリアン
+Name2: バーバリアン
+Filename: 20
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 120
+MaxMP: 0
+Attack: 68
+Defense: 46
+Magic: 0
+Resistance: 15
+Dexterity: 55
+Agility: 55
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: バーバリアン
+
+ID: 26
+Name: バンディット
+Name2: バンディット
+Filename: 21
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 160
+MaxMP: 0
+Attack: 81
+Defense: 78
+Magic: 0
+Resistance: 21
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: バンディット
+
+ID: 27
+Name: エルフ
+Name2: エルフ
+Filename: 9
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 80
+MaxMP: 0
+Attack: 60
+Defense: 60
+Magic: 0
+Resistance: 43
+Dexterity: 55
+Agility: 55
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: エルフ
+
+ID: 28
+Name: ダークエルフ
+Name2: ダークエルフ
+Filename: 10
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 100
+MaxMP: 0
+Attack: 72
+Defense: 72
+Magic: 0
+Resistance: 67
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ダークエルフ
+
+ID: 29
+Name: ウィッチ
+Name2: ウィッチ
+Filename: 8
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 90
+MaxMP: 0
+Attack: 78
+Defense: 70
+Magic: 0
+Resistance: 100
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ウィッチ
+
+ID: 30
+Name: ハイエルフ
+Name2: ハイエルフ
+Filename: 11
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 140
+MaxMP: 0
+Attack: 94
+Defense: 88
+Magic: 0
+Resistance: 93
+Dexterity: 70
+Agility: 70
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ハイエルフ
+
+ID: 31
+Name: バリスタ
+Name2: バリスタ
+Filename: 2
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 120
+MaxMP: 0
+Attack: 83
+Defense: 78
+Magic: 0
+Resistance: 24
+Dexterity: 65
+Agility: 65
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: バリスタ
+
+ID: 32
+Name: デーモン
+Name2: デーモン
+Filename: 42
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 150
+MaxMP: 0
+Attack: 80
+Defense: 82
+Magic: 0
+Resistance: 56
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: デーモン
+
+ID: 33
+Name: アークデーモン
+Name2: アークデーモン
+Filename: 41
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 220
+MaxMP: 0
+Attack: 121
+Defense: 121
+Magic: 0
+Resistance: 69
+Dexterity: 75
+Agility: 75
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: アークデーモン
+
+ID: 34
+Name: ゾンビ
+Name2: ゾンビ
+Filename: 31
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 130
+MaxMP: 0
+Attack: 59
+Defense: 59
+Magic: 0
+Resistance: 13
+Dexterity: 52
+Agility: 52
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ゾンビ
+
+ID: 35
+Name: スケルトン
+Name2: スケルトン
+Filename: 30
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 160
+MaxMP: 0
+Attack: 86
+Defense: 86
+Magic: 0
+Resistance: 61
+Dexterity: 62
+Agility: 62
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: スケルトン
+
+ID: 36
+Name: ゲル
+Name2: ゲル
+Filename: 26
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 110
+MaxMP: 0
+Attack: 60
+Defense: 60
+Magic: 0
+Resistance: 13
+Dexterity: 52
+Agility: 52
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ゲル
+
+ID: 37
+Name: ヘルハウンド
+Name2: ヘルハウンド
+Filename: 32
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 150
+MaxMP: 0
+Attack: 82
+Defense: 80
+Magic: 0
+Resistance: 57
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ヘルハウンド
+
+ID: 38
+Name: Ｇアント
+Name2: Ｇアント
+Filename: 36
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 150
+MaxMP: 0
+Attack: 81
+Defense: 80
+Magic: 0
+Resistance: 57
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: Gアント
+
+ID: 39
+Name: クロウラー
+Name2: クロウラー
+Filename: 37
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 150
+MaxMP: 0
+Attack: 80
+Defense: 81
+Magic: 0
+Resistance: 57
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: クロウラー
+
+ID: 40
+Name: ボーンディーノ
+Name2: ボーンディーノ
+Filename: 33
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 170
+MaxMP: 0
+Attack: 93
+Defense: 94
+Magic: 0
+Resistance: 72
+Dexterity: 65
+Agility: 65
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ボーンディーノ
+
+ID: 41
+Name: リヴァイアサン
+Name2: リヴァイアサン
+Filename: 35
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 180
+MaxMP: 0
+Attack: 94
+Defense: 95
+Magic: 0
+Resistance: 42
+Dexterity: 65
+Agility: 65
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: リヴァイアサン
+
+ID: 42
+Name: バット
+Name2: バット
+Filename: 40
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 120
+MaxMP: 0
+Attack: 74
+Defense: 62
+Magic: 0
+Resistance: 39
+Dexterity: 55
+Agility: 55
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: バット
+
+ID: 43
+Name: レイス
+Name2: レイス
+Filename: 28
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 120
+MaxMP: 0
+Attack: 66
+Defense: 66
+Magic: 0
+Resistance: 57
+Dexterity: 55
+Agility: 55
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: レイス
+
+ID: 44
+Name: スペクター
+Name2: スペクター
+Filename: 29
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 170
+MaxMP: 0
+Attack: 91
+Defense: 94
+Magic: 0
+Resistance: 71
+Dexterity: 65
+Agility: 65
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: スペクター
+
+ID: 45
+Name: エレメンタル
+Name2: エレメンタル
+Filename: 43
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 200
+MaxMP: 0
+Attack: 105
+Defense: 105
+Magic: 0
+Resistance: 109
+Dexterity: 70
+Agility: 70
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: エレメンタル
+
+ID: 46
+Name: カルカスピデス
+Name2: カルカスピデス
+Filename: 46
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 230
+MaxMP: 0
+Attack: 109
+Defense: 127
+Magic: 0
+Resistance: 69
+Dexterity: 75
+Agility: 75
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: カルカスピデス
+
+ID: 47
+Name: ハイウィッチ
+Name2: ハイウィッチ
+Filename: 47
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 130
+MaxMP: 0
+Attack: 100
+Defense: 80
+Magic: 0
+Resistance: 131
+Dexterity: 70
+Agility: 70
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ハイウィッチ
+
+ID: 48
+Name: バリスタエリート
+Name2: バリスタエリート
+Filename: 48
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 140
+MaxMP: 0
+Attack: 99
+Defense: 86
+Magic: 0
+Resistance: 56
+Dexterity: 70
+Agility: 70
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: バリスタエリート
+
+ID: 49
+Name: ダミー049
+Name2: ダミー
+Filename: 49
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 10
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ダミー
+
+ID: 50
+Name: フェンリル
+Name2: フェンリル
+Filename: 90
+Member: -
+Commander/Mercenary: 召喚
+Growth type: 14
+MaxHP: 190
+MaxMP: 60
+Attack: 180
+Defense: 100
+Magic: 90
+Resistance: 120
+Dexterity: 70
+Agility: 70
+Move: 8
+Status error invalid: 2
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: フェンリル
+
+ID: 51
+Name: ヴァルキリー
+Name2: ヴァルキリー
+Filename: 91
+Member: -
+Commander/Mercenary: 召喚
+Growth type: 14
+MaxHP: 160
+MaxMP: 50
+Attack: 120
+Defense: 90
+Magic: 55
+Resistance: 120
+Dexterity: 90
+Agility: 90
+Move: 8
+Status error invalid: 2
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ヴァルキリー
+
+ID: 52
+Name: フレイヤ
+Name2: フレイヤ
+Filename: 92
+Member: -
+Commander/Mercenary: 召喚
+Growth type: 14
+MaxHP: 120
+MaxMP: 80
+Attack: 90
+Defense: 70
+Magic: 130
+Resistance: 150
+Dexterity: 70
+Agility: 80
+Move: 8
+Status error invalid: 2
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: フレイヤ
+
+ID: 53
+Name: デーモンロード
+Name2: デーモンロード
+Filename: 93
+Member: -
+Commander/Mercenary: 召喚
+Growth type: 14
+MaxHP: 190
+MaxMP: 75
+Attack: 170
+Defense: 110
+Magic: 150
+Resistance: 140
+Dexterity: 80
+Agility: 80
+Move: 8
+Status error invalid: 2
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: デーモンロード
+
+ID: 54
+Name: アイアンゴーレム
+Name2: アイアンゴーレム
+Filename: 94
+Member: -
+Commander/Mercenary: 召喚
+Growth type: 14
+MaxHP: 190
+MaxMP: 0
+Attack: 140
+Defense: 170
+Magic: 0
+Resistance: 20
+Dexterity: 70
+Agility: 70
+Move: 8
+Status error invalid: 2
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: アイアンゴーレム
+
+ID: 55
+Name: サラマンダー
+Name2: サラマンダー
+Filename: 95
+Member: -
+Commander/Mercenary: 召喚
+Growth type: 14
+MaxHP: 160
+MaxMP: 60
+Attack: 130
+Defense: 90
+Magic: 100
+Resistance: 90
+Dexterity: 70
+Agility: 70
+Move: 8
+Status error invalid: 2
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: サラマンダー
+
+ID: 56
+Name: ホワイトドラゴン
+Name2: ホワイトドラゴン
+Filename: 96
+Member: -
+Commander/Mercenary: 召喚
+Growth type: 14
+MaxHP: 200
+MaxMP: 80
+Attack: 150
+Defense: 120
+Magic: 130
+Resistance: 110
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 2
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ホワイトドラゴン
+
+ID: 57
+Name: スレイプニル
+Name2: スレイプニル
+Filename: 97
+Member: -
+Commander/Mercenary: 召喚
+Growth type: 14
+MaxHP: 180
+MaxMP: 0
+Attack: 160
+Defense: 140
+Magic: 0
+Resistance: 130
+Dexterity: 70
+Agility: 80
+Move: 8
+Status error invalid: 2
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: スレイプニル
+
+ID: 58
+Name: あにき
+Name2: あにき
+Filename: 98
+Member: -
+Commander/Mercenary: 召喚
+Growth type: 14
+MaxHP: 200
+MaxMP: 50
+Attack: 100
+Defense: 100
+Magic: 100
+Resistance: 100
+Dexterity: 80
+Agility: 85
+Move: 8
+Status error invalid: 2
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: あにき
+
+ID: 59
+Name: ダミー059
+Name2: ダミー
+Filename: 59
+Member: -
+Commander/Mercenary: 傭兵
+Growth type: 0
+MaxHP: 10
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 0
+Agility: 0
+Move: 0
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ダミー
+
+ID: 60
+Name: ゲルギャザー
+Name2: ゲルギャザー
+Filename: 60
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 40
+Agility: 40
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ゲルギャザー
+
+ID: 61
+Name: リビングアーマー
+Name2: リビングアーマー
+Filename: 61
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: リビングアーマー
+
+ID: 62
+Name: ストーンゴーレム
+Name2: ストーンゴーレム
+Filename: 62
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ストーンゴーレム
+
+ID: 63
+Name: ゴースト
+Name2: ゴースト
+Filename: 63
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 40
+Agility: 40
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ゴースト
+
+ID: 64
+Name: リッチ
+Name2: リッチ
+Filename: 64
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 23
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: リッチ
+
+ID: 65
+Name: ケルベロス
+Name2: ケルベロス
+Filename: 65
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ケルベロス
+
+ID: 66
+Name: マスターディーノ
+Name2: マスターディーノ
+Filename: 66
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: マスターディーノ
+
+ID: 67
+Name: ウェアウルフ
+Name2: ウェアウルフ
+Filename: 67
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 40
+Agility: 40
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ウェアウルフ
+
+ID: 68
+Name: サーペント
+Name2: サーペント
+Filename: 68
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: サーペント
+
+ID: 69
+Name: クィーンアント
+Name2: クィーンアント
+Filename: 69
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: クィーンアント
+
+ID: 70
+Name: フェニックス
+Name2: フェニックス
+Filename: 70
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: フェニックス
+
+ID: 71
+Name: ワイバーン
+Name2: ワイバーン
+Filename: 71
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ワイバーン
+
+ID: 72
+Name: ロック
+Name2: ロック
+Filename: 72
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ロック
+
+ID: 73
+Name: デュラハン
+Name2: デュラハン
+Filename: 73
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: デュラハン
+
+ID: 74
+Name: バンパイアロード
+Name2: バンパイアロード
+Filename: 74
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 16
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: ＭＰ回復（小）
+Enemy Commander Skill 2: -
+Name ENG: バンパイアロード
+
+ID: 75
+Name: バンパイア
+Name2: バンパイア
+Filename: 75
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: バンパイア
+
+ID: 76
+Name: サキュバス
+Name2: サキュバス
+Filename: 76
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: ライトニングボルト
+Enemy commander with magic 2: ロックグレイブ
+Enemy Commander Skill 1: ＭＰ回復（小）
+Enemy Commander Skill 2: -
+Name ENG: サキュバス
+
+ID: 77
+Name: グレートドラゴン
+Name2: グレートドラゴン
+Filename: 77
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 70
+Agility: 70
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: グレートドラゴン
+
+ID: 78
+Name: イェルムンガルド
+Name2: イェルムンガルド
+Filename: 78
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: イェルムンガルド
+
+ID: 79
+Name: クラーケン
+Name2: クラーケン
+Filename: 79
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: クラーケン
+
+ID: 80
+Name: スキュラ
+Name2: スキュラ
+Filename: 80
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: スキュラ
+
+ID: 81
+Name: ミノタウロス
+Name2: ミノタウロス
+Filename: 81
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ミノタウロス
+
+ID: 82
+Name: イフリート
+Name2: イフリート
+Filename: 82
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 70
+Agility: 70
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: イフリート
+
+ID: 83
+Name: バジリスク
+Name2: バジリスク
+Filename: 83
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: バジリスク用石化
+Enemy Commander Skill 2: -
+Name ENG: バジリスク
+
+ID: 84
+Name: ダミー084
+Name2: ダミー
+Filename: 84
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 0
+MaxHP: 80
+MaxMP: 8
+Attack: 32
+Defense: 48
+Magic: 32
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ダミー
+
+ID: 85
+Name: ダミー085
+Name2: ダミー
+Filename: 85
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 0
+MaxHP: 80
+MaxMP: 8
+Attack: 32
+Defense: 48
+Magic: 32
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ダミー
+
+ID: 86
+Name: ダミー086
+Name2: ダミー
+Filename: 86
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 0
+MaxHP: 80
+MaxMP: 8
+Attack: 32
+Defense: 48
+Magic: 32
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ダミー
+
+ID: 87
+Name: ダミー087
+Name2: ダミー
+Filename: 87
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 0
+MaxHP: 80
+MaxMP: 8
+Attack: 32
+Defense: 48
+Magic: 32
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ダミー
+
+ID: 88
+Name: ダミー088
+Name2: ダミー
+Filename: 88
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 0
+MaxHP: 80
+MaxMP: 8
+Attack: 32
+Defense: 48
+Magic: 32
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ダミー
+
+ID: 89
+Name: ダミー089
+Name2: ダミー
+Filename: 89
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 0
+MaxHP: 80
+MaxMP: 8
+Attack: 32
+Defense: 48
+Magic: 32
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ダミー
+
+ID: 90
+Name: ダミー090
+Name2: フェンリル
+Filename: 90
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 0
+MaxHP: 80
+MaxMP: 8
+Attack: 32
+Defense: 48
+Magic: 32
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: フェンリル
+
+ID: 91
+Name: ダミー091
+Name2: ヴァルキリー
+Filename: 91
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 0
+MaxHP: 80
+MaxMP: 8
+Attack: 32
+Defense: 48
+Magic: 32
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ヴァルキリー
+
+ID: 92
+Name: ダミー092
+Name2: フレイヤ
+Filename: 92
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 0
+MaxHP: 80
+MaxMP: 8
+Attack: 32
+Defense: 48
+Magic: 32
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: フレイヤ
+
+ID: 93
+Name: ダミー093
+Name2: デーモンロード
+Filename: 93
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 0
+MaxHP: 80
+MaxMP: 8
+Attack: 32
+Defense: 48
+Magic: 32
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: デーモンロード
+
+ID: 94
+Name: ダミー094
+Name2: アイアンゴーレム
+Filename: 94
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 0
+MaxHP: 80
+MaxMP: 8
+Attack: 32
+Defense: 48
+Magic: 32
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: アイアンゴーレム
+
+ID: 95
+Name: ダミー095
+Name2: サラマンダー
+Filename: 95
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 0
+MaxHP: 80
+MaxMP: 8
+Attack: 32
+Defense: 48
+Magic: 32
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: サラマンダー
+
+ID: 96
+Name: ダミー096
+Name2: ホワイトドラゴン
+Filename: 96
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 0
+MaxHP: 80
+MaxMP: 8
+Attack: 32
+Defense: 48
+Magic: 32
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ホワイトドラゴン
+
+ID: 97
+Name: ダミー097
+Name2: スレイプニル
+Filename: 97
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 0
+MaxHP: 80
+MaxMP: 8
+Attack: 32
+Defense: 48
+Magic: 32
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: スレイプニル
+
+ID: 98
+Name: ダミー098
+Name2: あにき
+Filename: 98
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 0
+MaxHP: 80
+MaxMP: 8
+Attack: 32
+Defense: 48
+Magic: 32
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: あにき
+
+ID: 99
+Name: ダミー099
+Name2: ダミー
+Filename: 99
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 0
+MaxHP: 3
+MaxMP: 4
+Attack: 5
+Defense: 6
+Magic: 7
+Resistance: 8
+Dexterity: 9
+Agility: 10
+Move: 11
+Status error invalid: 12
+Partner: 13
+Partner: 14
+Partner: 15
+Partner: 16
+Enemy commander with magic 1: 17
+Enemy commander with magic 2: 18
+Enemy Commander Skill 1: 19
+Enemy Commander Skill 2: 20
+Name ENG: ダミー
+
+ID: 100
+Name: レディン
+Name2: レディン
+Filename: 100
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 0
+MaxHP: 70
+MaxMP: 6
+Attack: 49
+Defense: 47
+Magic: 19
+Resistance: 16
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: レディン
+
+ID: 101
+Name: クリス
+Name2: クリス
+Filename: 101
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 1
+MaxHP: 50
+MaxMP: 11
+Attack: 34
+Defense: 23
+Magic: 28
+Resistance: 23
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: クリス
+
+ID: 102
+Name: テイラー
+Name2: テイラー
+Filename: 102
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 6
+MaxHP: 80
+MaxMP: 5
+Attack: 47
+Defense: 59
+Magic: 18
+Resistance: 17
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: テイラー
+
+ID: 103
+Name: ナーム
+Name2: ナーム
+Filename: 103
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 2
+MaxHP: 60
+MaxMP: 7
+Attack: 51
+Defense: 36
+Magic: 23
+Resistance: 13
+Dexterity: 52
+Agility: 51
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ナーム
+
+ID: 104
+Name: ジェシカ
+Name2: ジェシカ
+Filename: 104
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 5
+MaxHP: 50
+MaxMP: 13
+Attack: 24
+Defense: 24
+Magic: 29
+Resistance: 26
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ジェシカ
+
+ID: 105
+Name: ホーキング
+Name2: ホーキング
+Filename: 105
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 7
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 51
+Magic: 21
+Resistance: 13
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ホーキング
+
+ID: 106
+Name: ソーン
+Name2: ソーン
+Filename: 106
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 3
+MaxHP: 80
+MaxMP: 4
+Attack: 54
+Defense: 49
+Magic: 13
+Resistance: 9
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ソーン
+
+ID: 107
+Name: アルバート
+Name2: アルバート
+Filename: 107
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 7
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 51
+Magic: 21
+Resistance: 13
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: アルバート
+
+ID: 108
+Name: ランス
+Name2: ランス
+Filename: 108
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 7
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 51
+Magic: 21
+Resistance: 13
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ランス
+
+ID: 109
+Name: ヴォルコフ
+Name2: ヴォルコフ
+Filename: 109
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 4
+MaxHP: 50
+MaxMP: 4
+Attack: 39
+Defense: 29
+Magic: 6
+Resistance: 13
+Dexterity: 35
+Agility: 35
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ヴォルコフ
+
+ID: 110
+Name: ライアス
+Name2: ライアス
+Filename: 110
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 7
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 51
+Magic: 21
+Resistance: 13
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ライアス
+
+ID: 111
+Name: レティシア
+Name2: レティシア
+Filename: 111
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 7
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 51
+Magic: 21
+Resistance: 13
+Dexterity: 51
+Agility: 51
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: レティシア
+
+ID: 112
+Name: ディゴス
+Name2: ディゴス
+Filename: 112
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 8
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 54
+Magic: 23
+Resistance: 15
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ディゴス
+
+ID: 113
+Name: ボーゼル
+Name2: ボーゼル
+Filename: 113
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 12
+MaxHP: 90
+MaxMP: 10
+Attack: 44
+Defense: 44
+Magic: 28
+Resistance: 24
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ボーゼル
+
+ID: 114
+Name: ナーギャ
+Name2: ナーギャ
+Filename: 114
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 5
+MaxHP: 50
+MaxMP: 13
+Attack: 24
+Defense: 24
+Magic: 29
+Resistance: 26
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ナーギャ
+
+ID: 115
+Name: ニコリス
+Name2: ニコリス
+Filename: 115
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 5
+MaxHP: 50
+MaxMP: 13
+Attack: 24
+Defense: 24
+Magic: 29
+Resistance: 26
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ニコリス
+
+ID: 116
+Name: ベティ
+Name2: ベティ
+Filename: 116
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 7
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 51
+Magic: 21
+Resistance: 13
+Dexterity: 50
+Agility: 51
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ベティ
+
+ID: 117
+Name: 悪レディン
+Name2: レディン
+Filename: 117
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 0
+MaxHP: 70
+MaxMP: 6
+Attack: 49
+Defense: 47
+Magic: 19
+Resistance: 16
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: レディン
+
+ID: 120
+Name: エルウィン
+Name2: エルウィン
+Filename: 120
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 0
+MaxHP: 70
+MaxMP: 6
+Attack: 49
+Defense: 47
+Magic: 19
+Resistance: 16
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: エルウィン
+
+ID: 121
+Name: リアナ
+Name2: リアナ
+Filename: 121
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 1
+MaxHP: 50
+MaxMP: 11
+Attack: 34
+Defense: 23
+Magic: 43
+Resistance: 34
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: リアナ
+
+ID: 122
+Name: シェリー
+Name2: シェリー
+Filename: 122
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 2
+MaxHP: 60
+MaxMP: 7
+Attack: 51
+Defense: 36
+Magic: 23
+Resistance: 15
+Dexterity: 52
+Agility: 51
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: シェリー
+
+ID: 123
+Name: キース
+Name2: キース
+Filename: 123
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 2
+MaxHP: 60
+MaxMP: 7
+Attack: 51
+Defense: 36
+Magic: 23
+Resistance: 13
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: キース
+
+ID: 124
+Name: スコット
+Name2: スコット
+Filename: 124
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 8
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 54
+Magic: 23
+Resistance: 15
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: スコット
+
+ID: 125
+Name: レスター
+Name2: レスター
+Filename: 125
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 6
+MaxHP: 80
+MaxMP: 5
+Attack: 47
+Defense: 59
+Magic: 18
+Resistance: 17
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: レスター
+
+ID: 126
+Name: アーロン
+Name2: アーロン
+Filename: 126
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 8
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 54
+Magic: 23
+Resistance: 15
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: アーロン
+
+ID: 127
+Name: ヘイン
+Name2: ヘイン
+Filename: 127
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 5
+MaxHP: 50
+MaxMP: 13
+Attack: 24
+Defense: 24
+Magic: 44
+Resistance: 39
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ヘイン
+
+ID: 128
+Name: ロウガ
+Name2: ロウガ
+Filename: 128
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 10
+MaxHP: 90
+MaxMP: 7
+Attack: 54
+Defense: 51
+Magic: 14
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ロウガ
+
+ID: 129
+Name: レオン
+Name2: レオン
+Filename: 129
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 7
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 51
+Magic: 21
+Resistance: 13
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: レオン
+
+ID: 130
+Name: イメルダ
+Name2: イメルダ
+Filename: 130
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 9
+MaxHP: 70
+MaxMP: 9
+Attack: 44
+Defense: 42
+Magic: 24
+Resistance: 21
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: イメルダ
+
+ID: 131
+Name: エグベルト
+Name2: エグベルト
+Filename: 131
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 5
+MaxHP: 50
+MaxMP: 13
+Attack: 24
+Defense: 24
+Magic: 29
+Resistance: 26
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: エグベルト
+
+ID: 132
+Name: バルガス
+Name2: バルガス
+Filename: 132
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 3
+MaxHP: 80
+MaxMP: 4
+Attack: 54
+Defense: 49
+Magic: 13
+Resistance: 9
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: バルガス
+
+ID: 133
+Name: ソニア
+Name2: ソニア
+Filename: 133
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 11
+MaxHP: 70
+MaxMP: 9
+Attack: 44
+Defense: 32
+Magic: 26
+Resistance: 21
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ソニア
+
+ID: 134
+Name: ダークプリンセス
+Name2: ダークプリンセス
+Filename: 134
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 5
+MaxHP: 50
+MaxMP: 13
+Attack: 24
+Defense: 24
+Magic: 29
+Resistance: 26
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ダークプリンセス
+
+ID: 135
+Name: ラーナ
+Name2: ラーナ
+Filename: 135
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 5
+MaxHP: 50
+MaxMP: 13
+Attack: 24
+Defense: 24
+Magic: 29
+Resistance: 26
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ラーナ
+
+ID: 136
+Name: エスト
+Name2: エスト
+Filename: 136
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: エスト
+
+ID: 137
+Name: オスト
+Name2: オスト
+Filename: 137
+Member: 〇
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: オスト
+
+ID: 138
+Name: 悪エルウィン
+Name2: エルウィン
+Filename: 138
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 0
+MaxHP: 70
+MaxMP: 6
+Attack: 49
+Defense: 47
+Magic: 19
+Resistance: 16
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: エルウィン
+
+ID: 150
+Name: イルザック
+Name2: イルザック
+Filename: 150
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 9
+MaxHP: 20
+MaxMP: 4
+Attack: 13
+Defense: 12
+Magic: 7
+Resistance: 6
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: イルザック
+
+ID: 151
+Name: ゼルド
+Name2: ゼルド
+Filename: 151
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 3
+MaxHP: 50
+MaxMP: 3
+Attack: 33
+Defense: 30
+Magic: 8
+Resistance: 6
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ゼルド
+
+ID: 152
+Name: セリア
+Name2: セリア
+Filename: 152
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 8
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 54
+Magic: 23
+Resistance: 15
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: セリア
+
+ID: 153
+Name: カオス
+Name2: カオス
+Filename: 153
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 13
+MaxHP: 110
+MaxMP: 10
+Attack: 49
+Defense: 59
+Magic: 29
+Resistance: 28
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 2
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: ＭＰ回復（大）
+Enemy Commander Skill 2: ＨＰ回復（小）
+Name ENG: カオス
+
+ID: 154
+Name: ルシリス
+Name2: ルシリス
+Filename: 154
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 13
+MaxHP: 110
+MaxMP: 10
+Attack: 49
+Defense: 59
+Magic: 29
+Resistance: 28
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 2
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: ブラスト
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: ＭＰ消費半減 
+Enemy Commander Skill 2: ＭＰ回復（小）
+Name ENG: ルシリス
+
+ID: 155
+Name: ジークハルト
+Name2: ジークハルト
+Filename: 155
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 9
+MaxHP: 70
+MaxMP: 9
+Attack: 44
+Defense: 42
+Magic: 24
+Resistance: 21
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ジークハルト
+
+ID: 156
+Name: レアード
+Name2: レアード
+Filename: 156
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 7
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 51
+Magic: 21
+Resistance: 13
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: レアード
+
+ID: 157
+Name: リデル
+Name2: リデル
+Filename: 157
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 3
+MaxHP: 80
+MaxMP: 4
+Attack: 54
+Defense: 49
+Magic: 13
+Resistance: 9
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: リデル
+
+ID: 158
+Name: エヴァンゼ
+Name2: エヴァンゼ
+Filename: 158
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 3
+MaxHP: 80
+MaxMP: 4
+Attack: 54
+Defense: 49
+Magic: 13
+Resistance: 9
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: エヴァンゼ
+
+ID: 159
+Name: バルドー
+Name2: バルドー
+Filename: 159
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: バルドー
+
+ID: 160
+Name: ゾルム
+Name2: ゾルム
+Filename: 160
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ゾルム
+
+ID: 161
+Name: モーガン
+Name2: モーガン
+Filename: 161
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 23
+MaxHP: 50
+MaxMP: 8
+Attack: 24
+Defense: 24
+Magic: 28
+Resistance: 24
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: モーガン
+
+ID: 162
+Name: エリザ
+Name2: エリザ
+Filename: 162
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 9
+MaxHP: 70
+MaxMP: 9
+Attack: 44
+Defense: 42
+Magic: 24
+Resistance: 21
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: エリザ
+
+ID: 163
+Name: ベルンハルト
+Name2: ベルンハルト
+Filename: 163
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 8
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 54
+Magic: 23
+Resistance: 15
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ベルンハルト
+
+ID: 164
+Name: ローレン
+Name2: ローレン
+Filename: 164
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 8
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 54
+Magic: 23
+Resistance: 15
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ローレン
+
+ID: 165
+Name: サー・ガリウス
+Name2: サー・ガリウス
+Filename: 165
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 23
+MaxHP: 50
+MaxMP: 8
+Attack: 24
+Defense: 24
+Magic: 28
+Resistance: 2
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: ブリザード
+Enemy commander with magic 2: フリーズ
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: サー・ガリウス
+
+ID: 166
+Name: カ・イロウ
+Name2: カ・イロウ
+Filename: 166
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 120
+MaxMP: 5
+Attack: 54
+Defense: 43
+Magic: 22
+Resistance: 36
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: カ・イロウ
+
+ID: 167
+Name: ド・モトフ
+Name2: ド・モトフ
+Filename: 167
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 100
+MaxMP: 4
+Attack: 47
+Defense: 31
+Magic: 19
+Resistance: 31
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ド・モトフ
+
+ID: 168
+Name: シカ族
+Name2: シカ族
+Filename: 168
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 80
+MaxMP: 3
+Attack: 40
+Defense: 21
+Magic: 16
+Resistance: 13
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: シカ族
+
+ID: 169
+Name: 村人
+Name2: 村人
+Filename: 169
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 3
+MaxHP: 20
+MaxMP: 1
+Attack: 16
+Defense: 15
+Magic: 4
+Resistance: 3
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 村人
+
+ID: 170
+Name: 司祭
+Name2: 司祭
+Filename: 170
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 5
+MaxHP: 50
+MaxMP: 13
+Attack: 24
+Defense: 24
+Magic: 29
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 司祭
+
+ID: 171
+Name: アドン
+Name2: アドン
+Filename: 171
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: アドン
+
+ID: 172
+Name: サムソン
+Name2: サムソン
+Filename: 172
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: サムソン
+
+ID: 173
+Name: バラン
+Name2: バラン
+Filename: 173
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: バラン
+
+ID: 174
+Name: 兄貴
+Name2: 兄貴
+Filename: 190
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 兄貴
+
+ID: 180
+Name: 帝国歩兵Ａ
+Name2: 帝国指揮官
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 181
+Name: 帝国盗賊Ａ
+Name2: 帝国指揮官
+Filename: 181
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 21
+MaxHP: 90
+MaxMP: 3
+Attack: 47
+Defense: 47
+Magic: 14
+Resistance: 11
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 182
+Name: 帝国サモＡ
+Name2: 帝国指揮官
+Filename: 182
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 22
+MaxHP: 50
+MaxMP: 8
+Attack: 29
+Defense: 22
+Magic: 29
+Resistance: 23
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 183
+Name: 帝国魔法Ａ
+Name2: 帝国指揮官
+Filename: 183
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 23
+MaxHP: 50
+MaxMP: 8
+Attack: 24
+Defense: 24
+Magic: 28
+Resistance: 24
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: トルネード
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 184
+Name: 帝国僧侶Ａ
+Name2: 帝国指揮官
+Filename: 184
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 24
+MaxHP: 50
+MaxMP: 8
+Attack: 33
+Defense: 33
+Magic: 21
+Resistance: 19
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 185
+Name: 帝国水兵Ａ
+Name2: 帝国指揮官
+Filename: 185
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 25
+MaxHP: 70
+MaxMP: 4
+Attack: 42
+Defense: 51
+Magic: 16
+Resistance: 17
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 186
+Name: 帝国サーペンＡ
+Name2: 帝国指揮官
+Filename: 186
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 26
+MaxHP: 80
+MaxMP: 5
+Attack: 43
+Defense: 53
+Magic: 17
+Resistance: 18
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 187
+Name: 帝国ホークＡ
+Name2: 帝国指揮官
+Filename: 187
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 27
+MaxHP: 60
+MaxMP: 5
+Attack: 45
+Defense: 39
+Magic: 20
+Resistance: 7
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 188
+Name: 帝国ドラゴンＡ
+Name2: 帝国指揮官
+Filename: 188
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 28
+MaxHP: 60
+MaxMP: 5
+Attack: 47
+Defense: 41
+Magic: 21
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 189
+Name: 帝国騎兵Ａ
+Name2: 帝国指揮官
+Filename: 189
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 29
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 42
+Magic: 17
+Resistance: 12
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 199
+Name: ＮＰＣレディン
+Name2: レディン
+Filename: 100
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 0
+MaxHP: 70
+MaxMP: 6
+Attack: 49
+Defense: 47
+Magic: 19
+Resistance: 16
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: レディン
+
+ID: 200
+Name: ＮＰＣクリス
+Name2: クリス
+Filename: 101
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 1
+MaxHP: 50
+MaxMP: 11
+Attack: 34
+Defense: 23
+Magic: 28
+Resistance: 23
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: マジックアロー
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: クリス
+
+ID: 201
+Name: ＮＰＣテイラー
+Name2: テイラー
+Filename: 102
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 6
+MaxHP: 80
+MaxMP: 5
+Attack: 47
+Defense: 59
+Magic: 18
+Resistance: 17
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: テイラー
+
+ID: 202
+Name: ＮＰＣナーム
+Name2: ナーム
+Filename: 103
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 2
+MaxHP: 60
+MaxMP: 7
+Attack: 51
+Defense: 36
+Magic: 23
+Resistance: 13
+Dexterity: 52
+Agility: 51
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ナーム
+
+ID: 203
+Name: ＮＰＣジェシカ
+Name2: ジェシカ
+Filename: 104
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 5
+MaxHP: 50
+MaxMP: 13
+Attack: 24
+Defense: 24
+Magic: 29
+Resistance: 26
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: ＭＰ回復（小）
+Enemy Commander Skill 2: -
+Name ENG: ジェシカ
+
+ID: 204
+Name: ＮＰＣホーキング
+Name2: ホーキング
+Filename: 105
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 7
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 51
+Magic: 21
+Resistance: 13
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ホーキング
+
+ID: 205
+Name: ＮＰＣソーン
+Name2: ソーン
+Filename: 106
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 3
+MaxHP: 80
+MaxMP: 4
+Attack: 54
+Defense: 49
+Magic: 13
+Resistance: 9
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: ファイアーボール
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ソーン
+
+ID: 206
+Name: ＮＰＣアルバート
+Name2: アルバート
+Filename: 107
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 7
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 51
+Magic: 21
+Resistance: 13
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: アルバート
+
+ID: 207
+Name: ＮＰＣランス
+Name2: ランス
+Filename: 108
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 7
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 51
+Magic: 21
+Resistance: 13
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ランス
+
+ID: 208
+Name: ＮＰＣヴォルコフ
+Name2: ヴォルコフ
+Filename: 109
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 4
+MaxHP: 50
+MaxMP: 4
+Attack: 39
+Defense: 29
+Magic: 6
+Resistance: 13
+Dexterity: 35
+Agility: 35
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ヴォルコフ
+
+ID: 209
+Name: ＮＰＣライアス
+Name2: ライアス
+Filename: 110
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 7
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 51
+Magic: 21
+Resistance: 13
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ライアス
+
+ID: 210
+Name: ＮＰＣレティシア
+Name2: レティシア
+Filename: 111
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 7
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 51
+Magic: 21
+Resistance: 13
+Dexterity: 51
+Agility: 51
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: レティシア
+
+ID: 211
+Name: ＮＰＣディゴス
+Name2: ディゴス
+Filename: 112
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 8
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 54
+Magic: 23
+Resistance: 15
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ディゴス
+
+ID: 212
+Name: ＮＰＣボーゼル
+Name2: ボーゼル
+Filename: 113
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 12
+MaxHP: 90
+MaxMP: 10
+Attack: 44
+Defense: 44
+Magic: 28
+Resistance: 24
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: ＭＰ回復（小）
+Enemy Commander Skill 2: ＨＰ回復（小）
+Name ENG: ボーゼル
+
+ID: 213
+Name: ＮＰＣナーギャ
+Name2: ナーギャ
+Filename: 114
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 5
+MaxHP: 50
+MaxMP: 13
+Attack: 24
+Defense: 24
+Magic: 29
+Resistance: 26
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: ＭＰ回復（小）
+Enemy Commander Skill 2: -
+Name ENG: ナーギャ
+
+ID: 214
+Name: ＮＰＣニコリス
+Name2: ニコリス
+Filename: 115
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 5
+MaxHP: 50
+MaxMP: 13
+Attack: 24
+Defense: 24
+Magic: 29
+Resistance: 26
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: ＭＰ回復（小）
+Enemy Commander Skill 2: -
+Name ENG: ニコリス
+
+ID: 215
+Name: ＮＰＣベティ
+Name2: ベティ
+Filename: 116
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 7
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 51
+Magic: 21
+Resistance: 13
+Dexterity: 50
+Agility: 51
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ベティ
+
+ID: 216
+Name: ＮＰＣエルウィン
+Name2: エルウィン
+Filename: 120
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 0
+MaxHP: 70
+MaxMP: 6
+Attack: 49
+Defense: 47
+Magic: 19
+Resistance: 16
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: エルウィン
+
+ID: 217
+Name: ＮＰＣリアナ
+Name2: リアナ
+Filename: 121
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 1
+MaxHP: 50
+MaxMP: 11
+Attack: 34
+Defense: 23
+Magic: 43
+Resistance: 34
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: リアナ
+
+ID: 218
+Name: ＮＰＣシェリー
+Name2: シェリー
+Filename: 122
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 2
+MaxHP: 60
+MaxMP: 7
+Attack: 51
+Defense: 36
+Magic: 23
+Resistance: 15
+Dexterity: 52
+Agility: 51
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: シェリー
+
+ID: 219
+Name: ＮＰＣキース
+Name2: キース
+Filename: 123
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 2
+MaxHP: 60
+MaxMP: 7
+Attack: 51
+Defense: 36
+Magic: 23
+Resistance: 13
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: キース
+
+ID: 220
+Name: ＮＰＣスコット
+Name2: スコット
+Filename: 124
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 8
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 54
+Magic: 23
+Resistance: 15
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: スコット
+
+ID: 221
+Name: ＮＰＣレスター
+Name2: レスター
+Filename: 125
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 6
+MaxHP: 80
+MaxMP: 5
+Attack: 47
+Defense: 59
+Magic: 18
+Resistance: 17
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: レスター
+
+ID: 222
+Name: ＮＰＣアーロン
+Name2: アーロン
+Filename: 126
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 8
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 54
+Magic: 23
+Resistance: 15
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: アーロン
+
+ID: 223
+Name: ＮＰＣヘイン
+Name2: ヘイン
+Filename: 127
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 5
+MaxHP: 50
+MaxMP: 13
+Attack: 24
+Defense: 24
+Magic: 44
+Resistance: 39
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ヘイン
+
+ID: 224
+Name: ＮＰＣロウガ
+Name2: ロウガ
+Filename: 128
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 10
+MaxHP: 90
+MaxMP: 7
+Attack: 54
+Defense: 51
+Magic: 14
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ロウガ
+
+ID: 225
+Name: ＮＰＣレオン
+Name2: レオン
+Filename: 129
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 7
+MaxHP: 70
+MaxMP: 7
+Attack: 49
+Defense: 51
+Magic: 21
+Resistance: 13
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: レオン
+
+ID: 226
+Name: ＮＰＣイメルダ
+Name2: イメルダ
+Filename: 130
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 9
+MaxHP: 70
+MaxMP: 9
+Attack: 44
+Defense: 42
+Magic: 24
+Resistance: 21
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: サンダーストーム
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: イメルダ
+
+ID: 227
+Name: ＮＰＣエグベルト
+Name2: エグベルト
+Filename: 131
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 5
+MaxHP: 50
+MaxMP: 13
+Attack: 24
+Defense: 24
+Magic: 29
+Resistance: 26
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: ＭＰ回復（小）
+Enemy Commander Skill 2: -
+Name ENG: エグベルト
+
+ID: 228
+Name: ＮＰＣバルガス
+Name2: バルガス
+Filename: 132
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 3
+MaxHP: 80
+MaxMP: 4
+Attack: 54
+Defense: 49
+Magic: 13
+Resistance: 9
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: バルガス
+
+ID: 229
+Name: ＮＰＣソニア
+Name2: ソニア
+Filename: 133
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 11
+MaxHP: 70
+MaxMP: 9
+Attack: 44
+Defense: 32
+Magic: 26
+Resistance: 21
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ソニア
+
+ID: 230
+Name: ＮＰＣダークプリンセス
+Name2: ダークプリンセス
+Filename: 134
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 5
+MaxHP: 50
+MaxMP: 13
+Attack: 24
+Defense: 24
+Magic: 29
+Resistance: 26
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ダークプリンセス
+
+ID: 231
+Name: ＮＰＣラーナ
+Name2: ラーナ
+Filename: 135
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 5
+MaxHP: 50
+MaxMP: 13
+Attack: 24
+Defense: 24
+Magic: 29
+Resistance: 26
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: ＭＰ回復（小）
+Enemy Commander Skill 2: -
+Name ENG: ラーナ
+
+ID: 232
+Name: ＮＰＣエスト
+Name2: エスト
+Filename: 136
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: サンダーストーム
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: エスト
+
+ID: 233
+Name: ＮＰＣオスト
+Name2: オスト
+Filename: 137
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: フレイムジャベリン
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: オスト
+
+ID: 234
+Name: コッセル
+Name2: コッセル
+Filename: 170
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 5
+MaxHP: 50
+MaxMP: 13
+Attack: 24
+Defense: 24
+Magic: 29
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 司祭
+
+ID: 235
+Name: アントノフ
+Name2: アントノフ
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 236
+Name: ネルウィー
+Name2: ネルウィー
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 237
+Name: ベルヌーイ
+Name2: ベルヌーイ
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 238
+Name: ザルダフ
+Name2: ザルダフ
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 239
+Name: ガルヴェス
+Name2: ガルヴェス
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 240
+Name: スカルディス
+Name2: スカルディス
+Filename: 186
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 26
+MaxHP: 80
+MaxMP: 5
+Attack: 43
+Defense: 53
+Magic: 17
+Resistance: 18
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 241
+Name: キルヒナー
+Name2: キルヒナー
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 242
+Name: ディスタン
+Name2: ディスタン
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 243
+Name: バレンツ
+Name2: バレンツ
+Filename: 189
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 29
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 42
+Magic: 17
+Resistance: 12
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 244
+Name: ディスタン
+Name2: ディスタン
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 245
+Name: パレンツ未使用
+Name2: パレンツ未使用
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 246
+Name: リスラム
+Name2: リスラム
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 247
+Name: アーザム
+Name2: アーザム
+Filename: 183
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 23
+MaxHP: 50
+MaxMP: 8
+Attack: 24
+Defense: 24
+Magic: 28
+Resistance: 24
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: トルネード
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 248
+Name: アキセル
+Name2: アキセル
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 249
+Name: ルキワード
+Name2: ルキワード
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 250
+Name: レーサス
+Name2: レーサス
+Filename: 186
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 26
+MaxHP: 80
+MaxMP: 5
+Attack: 43
+Defense: 53
+Magic: 17
+Resistance: 18
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: ヒール２
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 251
+Name: ラーカス
+Name2: ラーカス
+Filename: 74
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 16
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: ＭＰ回復（小）
+Enemy Commander Skill 2: -
+Name ENG: バンパイアロード
+
+ID: 252
+Name: リーアップ
+Name2: リーアップ
+Filename: 182
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 22
+MaxHP: 50
+MaxMP: 8
+Attack: 29
+Defense: 22
+Magic: 29
+Resistance: 23
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 253
+Name: マツニス
+Name2: マツニス
+Filename: 74
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 16
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: ＭＰ回復（小）
+Enemy Commander Skill 2: -
+Name ENG: バンパイアロード
+
+ID: 254
+Name: ラミスローゼ
+Name2: ラミスローゼ
+Filename: 64
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 23
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: リッチ
+
+ID: 255
+Name: アルファーン
+Name2: アルファーン
+Filename: 74
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 16
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: ＭＰ回復（小）
+Enemy Commander Skill 2: -
+Name ENG: バンパイアロード
+
+ID: 256
+Name: モルガン
+Name2: モルガン
+Filename: 183
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 23
+MaxHP: 50
+MaxMP: 8
+Attack: 24
+Defense: 24
+Magic: 28
+Resistance: 24
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: トルネード
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 257
+Name: オーザ
+Name2: オーザ
+Filename: 74
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 16
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: ＭＰ回復（小）
+Enemy Commander Skill 2: -
+Name ENG: バンパイアロード
+
+ID: 258
+Name: アクトラクト
+Name2: アクトラクト
+Filename: 74
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 16
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: ＭＰ回復（小）
+Enemy Commander Skill 2: -
+Name ENG: バンパイアロード
+
+ID: 259
+Name: ゼルヴィス
+Name2: ゼルヴィス
+Filename: 182
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 22
+MaxHP: 50
+MaxMP: 8
+Attack: 29
+Defense: 22
+Magic: 29
+Resistance: 23
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 260
+Name: テールホーン
+Name2: テールホーン
+Filename: 182
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 22
+MaxHP: 50
+MaxMP: 8
+Attack: 29
+Defense: 22
+Magic: 29
+Resistance: 23
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 261
+Name: ハイスギット
+Name2: ハイスギット
+Filename: 74
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 16
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: ＭＰ回復（小）
+Enemy Commander Skill 2: -
+Name ENG: バンパイアロード
+
+ID: 262
+Name: ツダーク
+Name2: ツダーク
+Filename: 74
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 16
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: ＭＰ回復（小）
+Enemy Commander Skill 2: -
+Name ENG: バンパイアロード
+
+ID: 263
+Name: オーギタンス
+Name2: オーギタンス
+Filename: 74
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 16
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: ＭＰ回復（小）
+Enemy Commander Skill 2: -
+Name ENG: バンパイアロード
+
+ID: 264
+Name: ドラフィム
+Name2: ドラフィ
+Filename: 74
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 16
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: ＭＰ回復（小）
+Enemy Commander Skill 2: -
+Name ENG: バンパイアロード
+
+ID: 265
+Name: ヒーディアス
+Name2: ヒーディア
+Filename: 74
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 16
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: ＭＰ回復（小）
+Enemy Commander Skill 2: -
+Name ENG: バンパイアロード
+
+ID: 266
+Name: 敵ニコリス
+Name2: ニコリス
+Filename: 115
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 5
+MaxHP: 50
+MaxMP: 13
+Attack: 24
+Defense: 24
+Magic: 29
+Resistance: 26
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ニコリス
+
+ID: 267
+Name: 神官
+Name2: 神官
+Filename: 184
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 24
+MaxHP: 50
+MaxMP: 8
+Attack: 33
+Defense: 33
+Magic: 21
+Resistance: 19
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 268
+Name: カミラ
+Name2: カミラ
+Filename: 183
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 23
+MaxHP: 50
+MaxMP: 8
+Attack: 24
+Defense: 24
+Magic: 28
+Resistance: 24
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: トルネード
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 269
+Name: クレイマー
+Name2: クレイマー
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 270
+Name: ファイアス
+Name2: ファイアス
+Filename: 74
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 16
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: ＭＰ回復（小）
+Enemy Commander Skill 2: -
+Name ENG: バンパイアロード
+
+ID: 271
+Name: 魔女
+Name2: 魔女
+Filename: 183
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 23
+MaxHP: 50
+MaxMP: 8
+Attack: 24
+Defense: 24
+Magic: 28
+Resistance: 24
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: トルネード
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 272
+Name: アキターン
+Name2: アキターン
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 273
+Name: ウッキー
+Name2: ウッキー
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 274
+Name: カニヲ
+Name2: カニヲ
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 275
+Name: 偽レディン
+Name2: レディン
+Filename: 100
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 0
+MaxHP: 70
+MaxMP: 6
+Attack: 49
+Defense: 47
+Magic: 19
+Resistance: 16
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: レディン
+
+ID: 276
+Name: ゲルギャザーＢ
+Name2: ゲルギャザー
+Filename: 60
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 40
+Agility: 40
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ゲルギャザー
+
+ID: 277
+Name: ゲルギャザーＣ
+Name2: ゲルギャザー
+Filename: 60
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 40
+Agility: 40
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ゲルギャザー
+
+ID: 278
+Name: ゲルギャザーＤ
+Name2: ゲルギャザー
+Filename: 60
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 40
+Agility: 40
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ゲルギャザー
+
+ID: 279
+Name: ゲルギャザーＥ
+Name2: ゲルギャザー
+Filename: 60
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 40
+Agility: 40
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ゲルギャザー
+
+ID: 280
+Name: リビングアーマーＢ
+Name2: リビングアーマー
+Filename: 61
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: リビングアーマー
+
+ID: 281
+Name: ストーンゴーレムＢ
+Name2: ストーンゴーレム
+Filename: 62
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ストーンゴーレム
+
+ID: 282
+Name: ゴーストＢ
+Name2: ゴースト
+Filename: 63
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 40
+Agility: 40
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ゴースト
+
+ID: 283
+Name: ケルベロスＢ
+Name2: ケルベロス
+Filename: 65
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ケルベロス
+
+ID: 284
+Name: ケルベロスＣ
+Name2: ケルベロス
+Filename: 65
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ケルベロス
+
+ID: 285
+Name: ケルベロスＤ
+Name2: ケルベロス
+Filename: 65
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ケルベロス
+
+ID: 286
+Name: マスターディーノＢ
+Name2: マスターディーノ
+Filename: 66
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: マスターディーノ
+
+ID: 287
+Name: マスターディーノＣ
+Name2: マスターディーノ
+Filename: 66
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: マスターディーノ
+
+ID: 288
+Name: マスターディーノＤ
+Name2: マスターディーノ
+Filename: 66
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: マスターディーノ
+
+ID: 289
+Name: ウェアウルフＢ
+Name2: ウェアウルフ
+Filename: 67
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 40
+Agility: 40
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ウェアウルフ
+
+ID: 290
+Name: ウェアウルフＣ
+Name2: ウェアウルフ
+Filename: 67
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 40
+Agility: 40
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ウェアウルフ
+
+ID: 291
+Name: ウェアウルフＤ
+Name2: ウェアウルフ
+Filename: 67
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 40
+Agility: 40
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ウェアウルフ
+
+ID: 292
+Name: ウェアウルフＥ
+Name2: ウェアウルフ
+Filename: 67
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 40
+Agility: 40
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ウェアウルフ
+
+ID: 293
+Name: サーペントＢ
+Name2: サーペント
+Filename: 68
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: サーペント
+
+ID: 294
+Name: サーペントＣ
+Name2: サーペント
+Filename: 68
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: サーペント
+
+ID: 295
+Name: サーペントＤ
+Name2: サーペント
+Filename: 68
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: サーペント
+
+ID: 296
+Name: クィーンアントＢ
+Name2: クィーンアント
+Filename: 69
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: クィーンアント
+
+ID: 297
+Name: フェニックスＢ
+Name2: フェニックス
+Filename: 70
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: フェニックス
+
+ID: 298
+Name: フェニックスＣ
+Name2: フェニックス
+Filename: 70
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: フェニックス
+
+ID: 299
+Name: ワイバーンＢ
+Name2: ワイバーン
+Filename: 71
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ワイバーン
+
+ID: 300
+Name: ワイバーンＣ
+Name2: ワイバーン
+Filename: 71
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ワイバーン
+
+ID: 301
+Name: ワイバーンＤ
+Name2: ワイバーン
+Filename: 71
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ワイバーン
+
+ID: 302
+Name: ロックＢ
+Name2: ロック
+Filename: 72
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ロック
+
+ID: 303
+Name: バンパイアロードＢ
+Name2: バンパイアロード
+Filename: 74
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 16
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: ＭＰ回復（小）
+Enemy Commander Skill 2: -
+Name ENG: バンパイアロード
+
+ID: 304
+Name: バンパイアロードＣ
+Name2: バンパイアロード
+Filename: 74
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 16
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: ＭＰ回復（小）
+Enemy Commander Skill 2: -
+Name ENG: バンパイアロード
+
+ID: 305
+Name: サキュバスＢ
+Name2: サキュバス
+Filename: 76
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: ライトニングボルト
+Enemy commander with magic 2: ロックグレイブ
+Enemy Commander Skill 1: ＭＰ回復（小）
+Enemy Commander Skill 2: -
+Name ENG: サキュバス
+
+ID: 306
+Name: サキュバスＣ
+Name2: サキュバス
+Filename: 76
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: ライトニングボルト
+Enemy commander with magic 2: ロックグレイブ
+Enemy Commander Skill 1: ＭＰ回復（小）
+Enemy Commander Skill 2: -
+Name ENG: サキュバス
+
+ID: 307
+Name: グレートドラゴンＢ
+Name2: グレートドラゴン
+Filename: 77
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 70
+Agility: 70
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: グレートドラゴン
+
+ID: 308
+Name: グレートドラゴンＣ
+Name2: グレートドラゴン
+Filename: 77
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 70
+Agility: 70
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: グレートドラゴン
+
+ID: 309
+Name: イェルムンガルドＢ
+Name2: イェルムンガルド
+Filename: 78
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: イェルムンガルド
+
+ID: 310
+Name: クラーケンＢ
+Name2: クラーケン
+Filename: 79
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 60
+Agility: 60
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: クラーケン
+
+ID: 311
+Name: スキュラＢ
+Name2: スキュラ
+Filename: 80
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: スキュラ
+
+ID: 312
+Name: ミノタウロスＢ
+Name2: ミノタウロス
+Filename: 81
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ミノタウロス
+
+ID: 313
+Name: ミノタウロスＣ
+Name2: ミノタウロス
+Filename: 81
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: ミノタウロス
+
+ID: 314
+Name: バジリスクＢ
+Name2: バジリスク
+Filename: 83
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 17
+MaxHP: 0
+MaxMP: 0
+Attack: 0
+Defense: 0
+Magic: 0
+Resistance: 0
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: バジリスク用石化
+Enemy Commander Skill 2: -
+Name ENG: バジリスク
+
+ID: 315
+Name: シカ族Ｂ
+Name2: シカ族
+Filename: 168
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 80
+MaxMP: 3
+Attack: 40
+Defense: 21
+Magic: 16
+Resistance: 13
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: シカ族
+
+ID: 316
+Name: シカ族Ｃ
+Name2: シカ族
+Filename: 168
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 80
+MaxMP: 3
+Attack: 40
+Defense: 21
+Magic: 16
+Resistance: 13
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: シカ族
+
+ID: 317
+Name: シカ族Ｄ
+Name2: シカ族
+Filename: 168
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 80
+MaxMP: 3
+Attack: 40
+Defense: 21
+Magic: 16
+Resistance: 13
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: シカ族
+
+ID: 318
+Name: シカ族Ｅ
+Name2: シカ族
+Filename: 168
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 80
+MaxMP: 3
+Attack: 40
+Defense: 21
+Magic: 16
+Resistance: 13
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: シカ族
+
+ID: 319
+Name: シカ族Ｆ
+Name2: シカ族
+Filename: 168
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 80
+MaxMP: 3
+Attack: 40
+Defense: 21
+Magic: 16
+Resistance: 13
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: シカ族
+
+ID: 320
+Name: 村人Ｂ
+Name2: 村人
+Filename: 169
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 3
+MaxHP: 20
+MaxMP: 1
+Attack: 16
+Defense: 15
+Magic: 4
+Resistance: 3
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 村人
+
+ID: 321
+Name: 村人Ｃ
+Name2: 村人
+Filename: 169
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 3
+MaxHP: 20
+MaxMP: 1
+Attack: 16
+Defense: 15
+Magic: 4
+Resistance: 3
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 村人
+
+ID: 322
+Name: 兄貴Ｂ
+Name2: 兄貴
+Filename: 190
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 兄貴
+
+ID: 323
+Name: 兄貴Ｃ
+Name2: 兄貴
+Filename: 190
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 兄貴
+
+ID: 324
+Name: 兄貴Ｄ
+Name2: 兄貴
+Filename: 190
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 兄貴
+
+ID: 325
+Name: 兄貴Ｅ
+Name2: 兄貴
+Filename: 190
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 兄貴
+
+ID: 326
+Name: 兄貴Ｆ
+Name2: 兄貴
+Filename: 190
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 1
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 兄貴
+
+ID: 327
+Name: 指揮官（歩兵）Ａ
+Name2: 指揮官
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 328
+Name: 指揮官（歩兵）Ｂ
+Name2: 指揮官
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 329
+Name: 指揮官歩兵Ａ
+Name2: 指揮官
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 330
+Name: 指揮官歩兵Ｂ
+Name2: 指揮官
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 331
+Name: 指揮官歩兵Ｃ
+Name2: 指揮官
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 332
+Name: 指揮官歩兵Ｄ
+Name2: 指揮官
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 333
+Name: 侵攻軍指揮官Ａ
+Name2: 連合軍指揮官
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 334
+Name: 侵攻軍指揮官Ｂ
+Name2: 連合軍指揮官
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 335
+Name: 帝国歩兵Ｂ
+Name2: 帝国指揮官
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 336
+Name: 帝国歩兵Ｃ
+Name2: 帝国歩兵
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 337
+Name: 帝国歩兵Ｄ
+Name2: 帝国指揮官
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 338
+Name: 帝国歩兵Ｅ
+Name2: 帝国指揮官
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 339
+Name: 帝国歩兵Ｆ
+Name2: 帝国指揮官
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 340
+Name: 伝令Ａ
+Name2: 伝令
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 341
+Name: 伝令Ｂ
+Name2: 伝令
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 342
+Name: 伝令Ｃ
+Name2: 伝令
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 343
+Name: 伝令Ｄ
+Name2: 伝令
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 344
+Name: 野盗ボス
+Name2: 野盗
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 345
+Name: 連合軍指揮官Ａ
+Name2: 連合軍指揮官
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 346
+Name: 連合軍指揮官Ｂ
+Name2: 連合軍指揮官
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 347
+Name: 連合軍指揮官Ｃ
+Name2: 連合軍指揮官
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 348
+Name: 連合軍指揮官Ｄ
+Name2: 連合軍指揮官
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 349
+Name: 連合軍指揮官Ｅ
+Name2: 連合軍指揮官
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 350
+Name: 連合軍指揮官Ｆ
+Name2: 連合軍指揮官
+Filename: 180
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 20
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 44
+Magic: 18
+Resistance: 14
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 351
+Name: 暗殺者Ａ
+Name2: 暗殺者
+Filename: 181
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 21
+MaxHP: 90
+MaxMP: 3
+Attack: 47
+Defense: 47
+Magic: 14
+Resistance: 11
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 352
+Name: 暗殺者Ｂ
+Name2: 暗殺者
+Filename: 181
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 21
+MaxHP: 90
+MaxMP: 3
+Attack: 47
+Defense: 47
+Magic: 14
+Resistance: 11
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 353
+Name: 暗殺者Ｃ
+Name2: 暗殺者
+Filename: 181
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 21
+MaxHP: 90
+MaxMP: 3
+Attack: 47
+Defense: 47
+Magic: 14
+Resistance: 11
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 354
+Name: 暗殺者Ｄ
+Name2: 暗殺者
+Filename: 181
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 21
+MaxHP: 90
+MaxMP: 3
+Attack: 47
+Defense: 47
+Magic: 14
+Resistance: 11
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 355
+Name: 指揮官（盗賊）Ａ
+Name2: 指揮官
+Filename: 181
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 21
+MaxHP: 90
+MaxMP: 3
+Attack: 47
+Defense: 47
+Magic: 14
+Resistance: 11
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 356
+Name: 指揮官（盗賊）Ｂ
+Name2: 指揮官
+Filename: 181
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 21
+MaxHP: 90
+MaxMP: 3
+Attack: 47
+Defense: 47
+Magic: 14
+Resistance: 11
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 357
+Name: 帝国盗賊Ｂ
+Name2: 帝国指揮官
+Filename: 181
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 21
+MaxHP: 90
+MaxMP: 3
+Attack: 47
+Defense: 47
+Magic: 14
+Resistance: 11
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 358
+Name: 帝国盗賊Ｃ
+Name2: 帝国指揮官
+Filename: 181
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 21
+MaxHP: 90
+MaxMP: 3
+Attack: 47
+Defense: 47
+Magic: 14
+Resistance: 11
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 359
+Name: 野盗Ａ
+Name2: 野盗
+Filename: 181
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 21
+MaxHP: 90
+MaxMP: 3
+Attack: 47
+Defense: 47
+Magic: 14
+Resistance: 11
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 360
+Name: 野盗Ｂ
+Name2: 野盗
+Filename: 181
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 21
+MaxHP: 90
+MaxMP: 3
+Attack: 47
+Defense: 47
+Magic: 14
+Resistance: 11
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 361
+Name: 野盗Ｃ
+Name2: 野盗
+Filename: 181
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 21
+MaxHP: 90
+MaxMP: 3
+Attack: 47
+Defense: 47
+Magic: 14
+Resistance: 11
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 362
+Name: 野盗Ｄ
+Name2: 野盗
+Filename: 181
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 21
+MaxHP: 90
+MaxMP: 3
+Attack: 47
+Defense: 47
+Magic: 14
+Resistance: 11
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 363
+Name: 野盗Ｅ
+Name2: 野盗
+Filename: 181
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 21
+MaxHP: 90
+MaxMP: 3
+Attack: 47
+Defense: 47
+Magic: 14
+Resistance: 11
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 364
+Name: 指揮官（サモナー）Ａ
+Name2: 指揮官
+Filename: 182
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 22
+MaxHP: 50
+MaxMP: 8
+Attack: 29
+Defense: 22
+Magic: 29
+Resistance: 23
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 365
+Name: 指揮官（サモナー）Ｂ
+Name2: 指揮官
+Filename: 182
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 22
+MaxHP: 50
+MaxMP: 8
+Attack: 29
+Defense: 22
+Magic: 29
+Resistance: 23
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 366
+Name: 指揮官サモＡ
+Name2: 指揮官
+Filename: 182
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 22
+MaxHP: 50
+MaxMP: 8
+Attack: 29
+Defense: 22
+Magic: 29
+Resistance: 23
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 367
+Name: 指揮官サモＢ
+Name2: 指揮官
+Filename: 182
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 22
+MaxHP: 50
+MaxMP: 8
+Attack: 29
+Defense: 22
+Magic: 29
+Resistance: 23
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 368
+Name: 指揮官サモＣ
+Name2: 指揮官
+Filename: 182
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 22
+MaxHP: 50
+MaxMP: 8
+Attack: 29
+Defense: 22
+Magic: 29
+Resistance: 23
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 369
+Name: 帝国サモＢ
+Name2: 帝国指揮官
+Filename: 182
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 22
+MaxHP: 50
+MaxMP: 8
+Attack: 29
+Defense: 22
+Magic: 29
+Resistance: 23
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 370
+Name: 指揮官（魔法使い（女））Ａ
+Name2: 指揮官
+Filename: 183
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 23
+MaxHP: 50
+MaxMP: 8
+Attack: 24
+Defense: 24
+Magic: 28
+Resistance: 24
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: トルネード
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 371
+Name: 指揮官（魔法使い（女））Ｂ
+Name2: 指揮官
+Filename: 183
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 23
+MaxHP: 50
+MaxMP: 8
+Attack: 24
+Defense: 24
+Magic: 28
+Resistance: 24
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: トルネード
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 372
+Name: 指揮官魔法Ａ
+Name2: 指揮官
+Filename: 183
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 23
+MaxHP: 50
+MaxMP: 8
+Attack: 24
+Defense: 24
+Magic: 28
+Resistance: 24
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: トルネード
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 373
+Name: 指揮官魔法Ｂ
+Name2: 指揮官
+Filename: 183
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 23
+MaxHP: 50
+MaxMP: 8
+Attack: 24
+Defense: 24
+Magic: 28
+Resistance: 24
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: トルネード
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 374
+Name: 指揮官魔法Ｃ
+Name2: 指揮官
+Filename: 183
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 23
+MaxHP: 50
+MaxMP: 8
+Attack: 24
+Defense: 24
+Magic: 28
+Resistance: 24
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: トルネード
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 375
+Name: 帝国魔法Ｂ
+Name2: 帝国指揮官
+Filename: 183
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 23
+MaxHP: 50
+MaxMP: 8
+Attack: 24
+Defense: 24
+Magic: 28
+Resistance: 24
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: トルネード
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 376
+Name: 帝国魔法Ｃ
+Name2: 帝国指揮官
+Filename: 183
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 23
+MaxHP: 50
+MaxMP: 8
+Attack: 24
+Defense: 24
+Magic: 28
+Resistance: 24
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: トルネード
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 377
+Name: 帝国魔法Ｄ
+Name2: 帝国指揮官
+Filename: 183
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 23
+MaxHP: 50
+MaxMP: 8
+Attack: 24
+Defense: 24
+Magic: 28
+Resistance: 24
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: トルネード
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 378
+Name: 指揮官（僧侶（女））Ａ
+Name2: 指揮官
+Filename: 184
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 24
+MaxHP: 50
+MaxMP: 8
+Attack: 33
+Defense: 33
+Magic: 21
+Resistance: 19
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 379
+Name: 指揮官（僧侶（女））Ｂ
+Name2: 指揮官
+Filename: 184
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 24
+MaxHP: 50
+MaxMP: 8
+Attack: 33
+Defense: 33
+Magic: 21
+Resistance: 19
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 380
+Name: 指揮官僧侶Ａ
+Name2: 指揮官
+Filename: 184
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 24
+MaxHP: 50
+MaxMP: 8
+Attack: 33
+Defense: 33
+Magic: 21
+Resistance: 19
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 381
+Name: 指揮官僧侶Ｂ
+Name2: 指揮官
+Filename: 184
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 24
+MaxHP: 50
+MaxMP: 8
+Attack: 33
+Defense: 33
+Magic: 21
+Resistance: 19
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 382
+Name: 指揮官僧侶Ｃ
+Name2: 指揮官
+Filename: 184
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 24
+MaxHP: 50
+MaxMP: 8
+Attack: 33
+Defense: 33
+Magic: 21
+Resistance: 19
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 383
+Name: 帝国僧侶Ｂ
+Name2: 帝国指揮官
+Filename: 184
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 24
+MaxHP: 50
+MaxMP: 8
+Attack: 33
+Defense: 33
+Magic: 21
+Resistance: 19
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 384
+Name: 指揮官（水兵）Ａ
+Name2: 指揮官
+Filename: 185
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 25
+MaxHP: 70
+MaxMP: 4
+Attack: 42
+Defense: 51
+Magic: 16
+Resistance: 17
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 385
+Name: 指揮官（水兵）Ｂ
+Name2: 指揮官
+Filename: 185
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 25
+MaxHP: 70
+MaxMP: 4
+Attack: 42
+Defense: 51
+Magic: 16
+Resistance: 17
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 386
+Name: 侵攻軍指揮官Ｃ
+Name2: 連合軍指揮官
+Filename: 185
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 25
+MaxHP: 70
+MaxMP: 4
+Attack: 42
+Defense: 51
+Magic: 16
+Resistance: 17
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 387
+Name: 侵攻軍指揮官Ｄ
+Name2: 連合軍指揮官
+Filename: 185
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 25
+MaxHP: 70
+MaxMP: 4
+Attack: 42
+Defense: 51
+Magic: 16
+Resistance: 17
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 388
+Name: 帝国水兵Ｂ
+Name2: 帝国指揮官
+Filename: 185
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 25
+MaxHP: 70
+MaxMP: 4
+Attack: 42
+Defense: 51
+Magic: 16
+Resistance: 17
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 389
+Name: 指揮官（水兵（サーペン乗り））Ａ
+Name2: 指揮官
+Filename: 186
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 26
+MaxHP: 80
+MaxMP: 5
+Attack: 43
+Defense: 53
+Magic: 17
+Resistance: 18
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 390
+Name: 指揮官（水兵（サーペン乗り））Ｂ
+Name2: 指揮官
+Filename: 186
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 26
+MaxHP: 80
+MaxMP: 5
+Attack: 43
+Defense: 53
+Magic: 17
+Resistance: 18
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 391
+Name: 指揮官サーペンＡ
+Name2: 指揮官
+Filename: 186
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 26
+MaxHP: 80
+MaxMP: 5
+Attack: 43
+Defense: 53
+Magic: 17
+Resistance: 18
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 392
+Name: 指揮官サーペンＢ
+Name2: 指揮官
+Filename: 186
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 26
+MaxHP: 80
+MaxMP: 5
+Attack: 43
+Defense: 53
+Magic: 17
+Resistance: 18
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 393
+Name: 指揮官サーペンＣ
+Name2: 指揮官
+Filename: 186
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 26
+MaxHP: 80
+MaxMP: 5
+Attack: 43
+Defense: 53
+Magic: 17
+Resistance: 18
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 394
+Name: 帝国サーペンＢ
+Name2: 帝国指揮官
+Filename: 186
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 26
+MaxHP: 80
+MaxMP: 5
+Attack: 43
+Defense: 53
+Magic: 17
+Resistance: 18
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 395
+Name: 指揮官（飛兵（ホーク乗り））Ａ
+Name2: 指揮官
+Filename: 187
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 27
+MaxHP: 60
+MaxMP: 5
+Attack: 45
+Defense: 39
+Magic: 20
+Resistance: 7
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 396
+Name: 指揮官（飛兵（ホーク乗り））Ｂ
+Name2: 指揮官
+Filename: 187
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 27
+MaxHP: 60
+MaxMP: 5
+Attack: 45
+Defense: 39
+Magic: 20
+Resistance: 7
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 397
+Name: 指揮官ホークＡ
+Name2: 指揮官
+Filename: 187
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 27
+MaxHP: 60
+MaxMP: 5
+Attack: 45
+Defense: 39
+Magic: 20
+Resistance: 7
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 398
+Name: 指揮官ホークＢ
+Name2: 指揮官
+Filename: 187
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 27
+MaxHP: 60
+MaxMP: 5
+Attack: 45
+Defense: 39
+Magic: 20
+Resistance: 7
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 399
+Name: 指揮官ホークＣ
+Name2: 指揮官
+Filename: 187
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 27
+MaxHP: 60
+MaxMP: 5
+Attack: 45
+Defense: 39
+Magic: 20
+Resistance: 7
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 400
+Name: 指揮官ホークＤ
+Name2: 指揮官
+Filename: 187
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 27
+MaxHP: 60
+MaxMP: 5
+Attack: 45
+Defense: 39
+Magic: 20
+Resistance: 7
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 401
+Name: 帝国ホークＢ
+Name2: 帝国指揮官
+Filename: 187
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 27
+MaxHP: 60
+MaxMP: 5
+Attack: 45
+Defense: 39
+Magic: 20
+Resistance: 7
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 402
+Name: 帝国ホークＣ
+Name2: 帝国指揮官
+Filename: 187
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 27
+MaxHP: 60
+MaxMP: 5
+Attack: 45
+Defense: 39
+Magic: 20
+Resistance: 7
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 403
+Name: 帝国ホークＤ
+Name2: 帝国指揮官
+Filename: 187
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 27
+MaxHP: 60
+MaxMP: 5
+Attack: 45
+Defense: 39
+Magic: 20
+Resistance: 7
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 404
+Name: 帝国ホークＥ
+Name2: 帝国指揮官
+Filename: 187
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 27
+MaxHP: 60
+MaxMP: 5
+Attack: 45
+Defense: 39
+Magic: 20
+Resistance: 7
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 405
+Name: 帝国ホークＦ
+Name2: 帝国指揮官
+Filename: 187
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 27
+MaxHP: 60
+MaxMP: 5
+Attack: 45
+Defense: 39
+Magic: 20
+Resistance: 7
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 406
+Name: 帝国ホークＧ
+Name2: 帝国指揮官
+Filename: 187
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 27
+MaxHP: 60
+MaxMP: 5
+Attack: 45
+Defense: 39
+Magic: 20
+Resistance: 7
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 407
+Name: 帝国ホークＨ
+Name2: 帝国指揮官
+Filename: 187
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 27
+MaxHP: 60
+MaxMP: 5
+Attack: 45
+Defense: 39
+Magic: 20
+Resistance: 7
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 408
+Name: 帝国ホークＩ
+Name2: 帝国指揮官
+Filename: 187
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 27
+MaxHP: 60
+MaxMP: 5
+Attack: 45
+Defense: 39
+Magic: 20
+Resistance: 7
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 409
+Name: 帝国ホークＪ
+Name2: 帝国指揮官
+Filename: 187
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 27
+MaxHP: 60
+MaxMP: 5
+Attack: 45
+Defense: 39
+Magic: 20
+Resistance: 7
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 410
+Name: 指揮官（飛兵（ドラゴン乗り））Ａ
+Name2: 指揮官
+Filename: 188
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 28
+MaxHP: 60
+MaxMP: 5
+Attack: 47
+Defense: 41
+Magic: 21
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 411
+Name: 指揮官（飛兵（ドラゴン乗り））Ｂ
+Name2: 指揮官
+Filename: 188
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 28
+MaxHP: 60
+MaxMP: 5
+Attack: 47
+Defense: 41
+Magic: 21
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 412
+Name: 指揮官ドラゴンＡ
+Name2: 指揮官
+Filename: 188
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 28
+MaxHP: 60
+MaxMP: 5
+Attack: 47
+Defense: 41
+Magic: 21
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 413
+Name: 指揮官ドラゴンＢ
+Name2: 指揮官
+Filename: 188
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 28
+MaxHP: 60
+MaxMP: 5
+Attack: 47
+Defense: 41
+Magic: 21
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 414
+Name: 指揮官ドラゴンＣ
+Name2: 指揮官
+Filename: 188
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 28
+MaxHP: 60
+MaxMP: 5
+Attack: 47
+Defense: 41
+Magic: 21
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 415
+Name: 指揮官ドラゴンＤ
+Name2: 指揮官
+Filename: 188
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 28
+MaxHP: 60
+MaxMP: 5
+Attack: 47
+Defense: 41
+Magic: 21
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 416
+Name: 帝国ドラゴンＢ
+Name2: 帝国指揮官
+Filename: 188
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 28
+MaxHP: 60
+MaxMP: 5
+Attack: 47
+Defense: 41
+Magic: 21
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 417
+Name: 帝国ドラゴンＣ
+Name2: 帝国指揮官
+Filename: 188
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 28
+MaxHP: 60
+MaxMP: 5
+Attack: 47
+Defense: 41
+Magic: 21
+Resistance: 8
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 418
+Name: 指揮官（騎兵（馬））Ａ
+Name2: 指揮官
+Filename: 189
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 29
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 42
+Magic: 17
+Resistance: 12
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 419
+Name: 指揮官（騎兵（馬））Ｂ
+Name2: 指揮官
+Filename: 189
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 29
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 42
+Magic: 17
+Resistance: 12
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 420
+Name: 指揮官騎兵Ａ
+Name2: 指揮官
+Filename: 189
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 29
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 42
+Magic: 17
+Resistance: 12
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 421
+Name: 指揮官騎兵Ｂ
+Name2: 指揮官
+Filename: 189
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 29
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 42
+Magic: 17
+Resistance: 12
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 422
+Name: 指揮官騎兵Ｃ
+Name2: 指揮官
+Filename: 189
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 29
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 42
+Magic: 17
+Resistance: 12
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 423
+Name: 帝国騎兵Ｂ
+Name2: 帝国指揮官
+Filename: 189
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 29
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 42
+Magic: 17
+Resistance: 12
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 424
+Name: 帝国騎兵Ｃ
+Name2: 帝国指揮官
+Filename: 189
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 29
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 42
+Magic: 17
+Resistance: 12
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 425
+Name: 帝国騎兵Ｄ
+Name2: 帝国指揮官
+Filename: 189
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 29
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 42
+Magic: 17
+Resistance: 12
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 426
+Name: 帝国騎兵Ｅ
+Name2: 帝国指揮官
+Filename: 189
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 29
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 42
+Magic: 17
+Resistance: 12
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: 427
+Name: 帝国騎兵Ｆ
+Name2: 帝国指揮官
+Filename: 189
+Member: -
+Commander/Mercenary: 指揮官
+Growth type: 29
+MaxHP: 70
+MaxMP: 4
+Attack: 44
+Defense: 42
+Magic: 17
+Resistance: 12
+Dexterity: 50
+Agility: 50
+Move: 8
+Status error invalid: 0
+Partner: －
+Partner: －
+Partner: －
+Partner: －
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Name ENG: 帝国指揮官
+
+ID: END
+
