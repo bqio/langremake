@@ -1,0 +1,6322 @@
+START: 1
+Specified name: シビリアン
+Expressive name: シビリアン
+Name_ENG: シビリアン
+Anime filename: 1
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 歩兵
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: -1
+Escort character: -
+Weapon type: 歩兵
+Experience earned: 10
+Get funding: 20
+Employment wage: 20
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【シビリアン】
+ Description_ENG: -
+
+START: 2
+Specified name: ソルジャー
+Expressive name: ソルジャー
+Name_ENG: ソルジャー
+Anime filename: 24
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 歩兵
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 5
+Escort character: -
+Weapon type: 歩兵
+Experience earned: 20
+Get funding: 40
+Employment wage: 40
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【ソルジャー】
+ Description_ENG: -
+
+START: 3
+Specified name: バーサーカー
+Expressive name: バーサーカー
+Name_ENG: バーサーカー
+Anime filename: 25
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 歩兵
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 5
+Escort character: -
+Weapon type: 歩兵
+Experience earned: 100
+Get funding: 200
+Employment wage: 200
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【バーサーカー】
+ Description_ENG: -
+
+START: 4
+Specified name: ダークガード
+Expressive name: ダークガード
+Name_ENG: ダークガード
+Anime filename: 22
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 歩兵
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 5
+Escort character: -
+Weapon type: 歩兵
+Experience earned: 130
+Get funding: 280
+Employment wage: 280
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【ダークガード】
+ Description_ENG: -
+
+START: 5
+Specified name: グレナディーア
+Expressive name: グレナディーア
+Name_ENG: グレナディーア
+Anime filename: 23
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 歩兵
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 5
+Escort character: -
+Weapon type: 歩兵
+Experience earned: 130
+Get funding: 280
+Employment wage: 280
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【グレナディーア】
+ Description_ENG: -
+
+START: 6
+Specified name: オーガー
+Expressive name: オーガー
+Name_ENG: オーガー
+Anime filename: 45
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 歩兵
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 1
+Escort character: -
+Weapon type: 歩兵
+Experience earned: 100
+Get funding: 200
+Employment wage: 220
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【オーガー】
+ Description_ENG: -
+
+START: 7
+Specified name: パイク
+Expressive name: パイク
+Name_ENG: パイク
+Anime filename: 6
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 槍兵
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 槍兵
+Experience earned: 20
+Get funding: 40
+Employment wage: 40
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【パイク】
+ Description_ENG: -
+
+START: 8
+Specified name: ファランクス
+Expressive name: ファランクス
+Name_ENG: ファランクス
+Anime filename: 7
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 槍兵
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 槍兵
+Experience earned: 70
+Get funding: 160
+Employment wage: 160
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【ファランクス】
+ Description_ENG: -
+
+START: 9
+Specified name: ゴーレム
+Expressive name: ゴーレム
+Name_ENG: ゴーレム
+Anime filename: 27
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 怪物陸
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 1
+Escort character: -
+Weapon type: 怪物陸
+Experience earned: 130
+Get funding: 280
+Employment wage: 290
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【ゴーレム】
+ Description_ENG: -
+
+START: 10
+Specified name: ランサー
+Expressive name: ランサー
+Name_ENG: ランサー
+Anime filename: 14
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 騎兵
+移動力: 6
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 騎乗
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 5
+Escort character: -
+Weapon type: 騎兵
+Experience earned: 20
+Get funding: 40
+Employment wage: 50
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【ランサー】
+ Description_ENG: -
+
+START: 11
+Specified name: トルーパー
+Expressive name: トルーパー
+Name_ENG: トルーパー
+Anime filename: 13
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 騎兵
+移動力: 6
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 騎乗
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 5
+Escort character: -
+Weapon type: 騎兵
+Experience earned: 40
+Get funding: 80
+Employment wage: 100
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【トルーパー】
+ Description_ENG: -
+
+START: 12
+Specified name: ドラグーン
+Expressive name: ドラグーン
+Name_ENG: ドラグーン
+Anime filename: 12
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 騎兵
+移動力: 6
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 騎乗
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 5
+Escort character: -
+Weapon type: 騎兵
+Experience earned: 70
+Get funding: 160
+Employment wage: 200
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【ドラグーン】
+ Description_ENG: -
+
+START: 13
+Specified name: ロイヤルランサー
+Expressive name: ロイヤルランサー
+Name_ENG: ロイヤルランサー
+Anime filename: 15
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 騎兵
+移動力: 6
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 騎乗
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 5
+Escort character: -
+Weapon type: 騎兵
+Experience earned: 130
+Get funding: 280
+Employment wage: 350
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【ロイヤルランサー】
+ Description_ENG: -
+
+START: 14
+Specified name: ウルフマン
+Expressive name: ウルフマン
+Name_ENG: ウルフマン
+Anime filename: 34
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 怪物陸
+移動力: 6
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 5
+Escort character: -
+Weapon type: 怪物陸
+Experience earned: 20
+Get funding: 40
+Employment wage: 70
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【ウルフマン】
+ Description_ENG: -
+
+START: 15
+Specified name: フェアリー
+Expressive name: フェアリー
+Name_ENG: フェアリー
+Anime filename: 4
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 飛兵
+移動力: 7
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 6
+Escort character: -
+Weapon type: 飛兵
+Experience earned: 20
+Get funding: 40
+Employment wage: 60
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【フェアリー】
+ Description_ENG: -
+
+START: 16
+Specified name: ハーピー
+Expressive name: ハーピー
+Name_ENG: ハーピー
+Anime filename: 39
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 飛兵
+移動力: 7
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 6
+Escort character: -
+Weapon type: 飛兵
+Experience earned: 40
+Get funding: 80
+Employment wage: 120
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【ハーピー】
+ Description_ENG: -
+
+START: 17
+Specified name: ガーゴイル
+Expressive name: ガーゴイル
+Name_ENG: ガーゴイル
+Anime filename: 38
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 飛兵
+移動力: 7
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 5
+Escort character: -
+Weapon type: 飛兵
+Experience earned: 100
+Get funding: 200
+Employment wage: 310
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【ガーゴイル】
+ Description_ENG: -
+
+START: 18
+Specified name: エンジェル
+Expressive name: エンジェル
+Name_ENG: エンジェル
+Anime filename: 3
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 飛兵
+移動力: 7
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 6
+Escort character: -
+Weapon type: 飛兵
+Experience earned: 70
+Get funding: 160
+Employment wage: 240
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【エンジェル】
+ Description_ENG: -
+
+START: 19
+Specified name: グリフォン
+Expressive name: グリフォン
+Name_ENG: グリフォン
+Anime filename: 5
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 飛兵
+移動力: 7
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 6
+Escort character: -
+Weapon type: 飛兵
+Experience earned: 130
+Get funding: 280
+Employment wage: 400
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【グリフォン】
+ Description_ENG: -
+
+START: 20
+Specified name: マーマン
+Expressive name: マーマン
+Name_ENG: マーマン
+Anime filename: 17
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 水兵
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 水上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 水兵
+Experience earned: 30
+Get funding: 60
+Employment wage: 80
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【マーマン】
+ Description_ENG: -
+
+START: 21
+Specified name: リザードマン
+Expressive name: リザードマン
+Name_ENG: リザードマン
+Anime filename: 44
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 水兵
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 水上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 水兵
+Experience earned: 70
+Get funding: 160
+Employment wage: 180
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【リザードマン】
+ Description_ENG: -
+
+START: 22
+Specified name: ニクシー
+Expressive name: ニクシー
+Name_ENG: ニクシー
+Anime filename: 16
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 水兵
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 水上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 水兵
+Experience earned: 130
+Get funding: 280
+Employment wage: 320
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【ニクシー】
+ Description_ENG: -
+
+START: 23
+Specified name: モンク
+Expressive name: モンク
+Name_ENG: モンク
+Anime filename: 19
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 僧侶
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 僧侶
+Experience earned: 20
+Get funding: 40
+Employment wage: 40
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【モンク】
+ Description_ENG: -
+
+START: 24
+Specified name: クルセイダー
+Expressive name: クルセイダー
+Name_ENG: クルセイダー
+Anime filename: 18
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 僧侶
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 僧侶
+Experience earned: 70
+Get funding: 160
+Employment wage: 160
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【クルセイダー】
+ Description_ENG: -
+
+START: 25
+Specified name: バーバリアン
+Expressive name: バーバリアン
+Name_ENG: バーバリアン
+Anime filename: 20
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 盗賊
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 盗賊
+Experience earned: 20
+Get funding: 40
+Employment wage: 40
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【バーバリアン】
+ Description_ENG: -
+
+START: 26
+Specified name: バンディット
+Expressive name: バンディット
+Name_ENG: バンディット
+Anime filename: 21
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 盗賊
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 盗賊
+Experience earned: 40
+Get funding: 80
+Employment wage: 90
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【バンディット】
+ Description_ENG: -
+
+START: 27
+Specified name: エルフ
+Expressive name: エルフ
+Name_ENG: エルフ
+Anime filename: 9
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 弓兵
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 弓兵
+Experience earned: 20
+Get funding: 30
+Employment wage: 60
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【エルフ】
+ Description_ENG: -
+
+START: 28
+Specified name: ダークエルフ
+Expressive name: ダークエルフ
+Name_ENG: ダークエルフ
+Anime filename: 10
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 弓兵
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 弓兵
+Experience earned: 40
+Get funding: 50
+Employment wage: 130
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【ダークエルフ】
+ Description_ENG: -
+
+START: 29
+Specified name: ウィッチ
+Expressive name: ウィッチ
+Name_ENG: ウィッチ
+Anime filename: 8
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 弓兵
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 弓兵
+Experience earned: 40
+Get funding: 50
+Employment wage: 130
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【ウィッチ】
+ Description_ENG: -
+
+START: 30
+Specified name: ハイエルフ
+Expressive name: ハイエルフ
+Name_ENG: ハイエルフ
+Anime filename: 11
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 弓兵
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 弓兵
+Experience earned: 100
+Get funding: 160
+Employment wage: 250
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【ハイエルフ】
+ Description_ENG: -
+
+START: 31
+Specified name: バリスタ
+Expressive name: バリスタ
+Name_ENG: バリスタ
+Anime filename: 2
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: バリスタ
+移動力: 4
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 2
+Escort character: -
+Weapon type: バリスタ
+Experience earned: 70
+Get funding: 125
+Employment wage: 250
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【バリスタ】
+ Description_ENG: -
+
+START: 32
+Specified name: デーモン
+Expressive name: デーモン
+Name_ENG: デーモン
+Anime filename: 42
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 魔族
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 1
+Escort character: -
+Weapon type: 魔族
+Experience earned: 40
+Get funding: 80
+Employment wage: 190
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【デーモン】
+ Description_ENG: -
+
+START: 33
+Specified name: アークデーモン
+Expressive name: アークデーモン
+Name_ENG: アークデーモン
+Anime filename: 41
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 魔族
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 1
+Escort character: -
+Weapon type: 魔族
+Experience earned: 130
+Get funding: 280
+Employment wage: 330
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【アークデーモン】
+ Description_ENG: -
+
+START: 34
+Specified name: ゾンビ
+Expressive name: ゾンビ
+Name_ENG: ゾンビ
+Anime filename: 31
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 不死
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 1
+Escort character: -
+Weapon type: 不死
+Experience earned: 15
+Get funding: 20
+Employment wage: 30
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【ゾンビ】
+ Description_ENG: -
+
+START: 35
+Specified name: スケルトン
+Expressive name: スケルトン
+Name_ENG: スケルトン
+Anime filename: 30
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 不死
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 不死
+Experience earned: 60
+Get funding: 120
+Employment wage: 130
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【スケルトン】
+ Description_ENG: -
+
+START: 36
+Specified name: ゲル
+Expressive name: ゲル
+Name_ENG: ゲル
+Anime filename: 26
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 怪物ゲル
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 2
+Escort character: -
+Weapon type: 怪物ゲル
+Experience earned: 15
+Get funding: 20
+Employment wage: 20
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【ゲル】
+ Description_ENG: -
+
+START: 37
+Specified name: ヘルハウンド
+Expressive name: ヘルハウンド
+Name_ENG: ヘルハウンド
+Anime filename: 32
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 怪物陸
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 怪物陸
+Experience earned: 40
+Get funding: 80
+Employment wage: 90
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【ヘルハウンド】
+ Description_ENG: -
+
+START: 38
+Specified name: Ｇアント
+Expressive name: Ｇアント
+Name_ENG: Ｇアント
+Anime filename: 36
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 怪物陸
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 1
+Escort character: -
+Weapon type: 怪物陸
+Experience earned: 40
+Get funding: 80
+Employment wage: 90
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【Ｇアント】
+ Description_ENG: -
+
+START: 39
+Specified name: クロウラー
+Expressive name: クロウラー
+Name_ENG: クロウラー
+Anime filename: 37
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 怪物陸
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 1
+Escort character: -
+Weapon type: 怪物陸
+Experience earned: 40
+Get funding: 80
+Employment wage: 90
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【クロウラー】
+ Description_ENG: -
+
+START: 40
+Specified name: ボーンディーノ
+Expressive name: ボーンディーノ
+Name_ENG: ボーンディーノ
+Anime filename: 33
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 怪物陸
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 怪物陸
+Experience earned: 70
+Get funding: 120
+Employment wage: 130
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【ボーンディーノ】
+ Description_ENG: -
+
+START: 41
+Specified name: リヴァイアサン
+Expressive name: リヴァイアサン
+Name_ENG: リヴァイアサン
+Anime filename: 35
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 怪物水
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 水上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 怪物水
+Experience earned: 70
+Get funding: 160
+Employment wage: 170
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【リヴァイアサン】
+ Description_ENG: -
+
+START: 42
+Specified name: バット
+Expressive name: バット
+Name_ENG: バット
+Anime filename: 40
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 怪物飛
+移動力: 7
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 7
+Escort character: -
+Weapon type: 怪物飛
+Experience earned: 20
+Get funding: 40
+Employment wage: 70
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【バット】
+ Description_ENG: -
+
+START: 43
+Specified name: レイス
+Expressive name: レイス
+Name_ENG: レイス
+Anime filename: 28
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 霊
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 3
+Escort character: -
+Weapon type: 霊
+Experience earned: 20
+Get funding: 40
+Employment wage: 70
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【レイス】
+ Description_ENG: -
+
+START: 44
+Specified name: スペクター
+Expressive name: スペクター
+Name_ENG: スペクター
+Anime filename: 29
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 霊
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 3
+Escort character: -
+Weapon type: 霊
+Experience earned: 70
+Get funding: 160
+Employment wage: 230
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【スペクター】
+ Description_ENG: -
+
+START: 45
+Specified name: エレメンタル
+Expressive name: エレメンタル
+Name_ENG: エレメンタル
+Anime filename: 43
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 霊
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 3
+Escort character: -
+Weapon type: 霊
+Experience earned: 100
+Get funding: 160
+Employment wage: 290
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【エレメンタル】
+ Description_ENG: -
+
+START: 46
+Specified name: カルカスピデス
+Expressive name: カルカスピデス
+Name_ENG: カルカスピデス
+Anime filename: 46
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 槍兵
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 槍兵
+Experience earned: 130
+Get funding: 280
+Employment wage: 280
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【カルカスピデス】
+ Description_ENG: -
+
+START: 47
+Specified name: ハイウィッチ
+Expressive name: ハイウィッチ
+Name_ENG: ハイウィッチ
+Anime filename: 47
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 弓兵
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 弓兵
+Experience earned: 100
+Get funding: 160
+Employment wage: 250
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【ハイウィッチ】
+ Description_ENG: -
+
+START: 48
+Specified name: バリスタエリート
+Expressive name: バリスタエリート
+Name_ENG: バリスタエリート
+Anime filename: 48
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: バリスタ
+移動力: 4
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 2
+Escort character: -
+Weapon type: バリスタ
+Experience earned: 100
+Get funding: 180
+Employment wage: 360
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【バリスタエリート】
+ Description_ENG: -
+
+START: 49
+Specified name: ダミー049
+Expressive name: ダミー
+Name_ENG: ダミー
+Anime filename: 49
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 歩兵
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 歩兵
+Experience earned: 10
+Get funding: 10
+Employment wage: 10
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【ダミー】
+ Description_ENG: -
+
+START: 50
+Specified name: フェンリル
+Expressive name: フェンリル
+Name_ENG: フェンリル
+Anime filename: 90
+Character size: Ｍ
+Commander/Mercenary: 召喚
+Arm: 怪物陸
+移動力: 6
+Move PWR: 3
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: －
+Weapon type: 怪物陸
+Experience earned: 10
+Get funding: 10
+Employment wage: 10
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: ブリザード
+Enemy commander with magic 2: トルネード
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【フェンリル】
+ Description_ENG: -
+
+START: 51
+Specified name: ヴァルキリー
+Expressive name: ヴァルキリー
+Name_ENG: ヴァルキリー
+Anime filename: 91
+Character size: Ｍ
+Commander/Mercenary: 召喚
+Arm: 飛兵
+移動力: 7
+Move PWR: 3
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: －
+Weapon type: 飛兵
+Experience earned: 10
+Get funding: 10
+Employment wage: 10
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: アクセル
+Enemy commander with magic 2: スロウ
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【ヴァルキリー】
+ Description_ENG: -
+
+START: 52
+Specified name: フレイヤ
+Expressive name: フレイヤ
+Name_ENG: フレイヤ
+Anime filename: 92
+Character size: Ｍ
+Commander/Mercenary: 召喚
+Arm: 飛兵
+移動力: 7
+Move PWR: 3
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: －
+Weapon type: 飛兵
+Experience earned: 10
+Get funding: 10
+Employment wage: 10
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: フォースヒール２
+Enemy commander with magic 2: アタック２
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【フレイヤ】
+ Description_ENG: -
+
+START: 53
+Specified name: デーモンロード
+Expressive name: デーモンロード
+Name_ENG: デーモンロード
+Anime filename: 93
+Character size: Ｍ
+Commander/Mercenary: 召喚
+Arm: 魔族
+移動力: 5
+Move PWR: 3
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 1
+Escort character: －
+Weapon type: 魔族
+Experience earned: 10
+Get funding: 10
+Employment wage: 10
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: メテオ
+Enemy commander with magic 2: フォースヒール２
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【デーモンロード】
+ Description_ENG: -
+
+START: 54
+Specified name: アイアンゴーレム
+Expressive name: アイアンゴーレム
+Name_ENG: アイアンゴーレム
+Anime filename: 94
+Character size: Ｍ
+Commander/Mercenary: 召喚
+Arm: 槍兵
+移動力: 5
+Move PWR: 3
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 1
+Escort character: －
+Weapon type: 槍兵
+Experience earned: 10
+Get funding: 10
+Employment wage: 10
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【アイアンゴーレム】
+ Description_ENG: -
+
+START: 55
+Specified name: サラマンダー
+Expressive name: サラマンダー
+Name_ENG: サラマンダー
+Anime filename: 95
+Character size: Ｍ
+Commander/Mercenary: 召喚
+Arm: 竜
+移動力: 5
+Move PWR: 3
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 1
+Escort character: －
+Weapon type: 竜
+Experience earned: 10
+Get funding: 10
+Employment wage: 10
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: バーンタイド
+Enemy commander with magic 2: ファイアーボール
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【サラマンダー】
+ Description_ENG: -
+
+START: 56
+Specified name: ホワイトドラゴン
+Expressive name: ホワイトドラゴン
+Name_ENG: ホワイトドラゴン
+Anime filename: 96
+Character size: Ｍ
+Commander/Mercenary: 召喚
+Arm: 竜
+移動力: 7
+Move PWR: 3
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 1
+Escort character: －
+Weapon type: 竜
+Experience earned: 10
+Get funding: 10
+Employment wage: 10
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: ブリザード
+Enemy commander with magic 2: フリーズ
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【ホワイトドラゴン】
+ Description_ENG: -
+
+START: 57
+Specified name: スレイプニル
+Expressive name: スレイプニル
+Name_ENG: スレイプニル
+Anime filename: 97
+Character size: Ｍ
+Commander/Mercenary: 召喚
+Arm: 騎兵
+移動力: 6
+Move PWR: 3
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 騎乗
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: －
+Weapon type: 騎兵
+Experience earned: 10
+Get funding: 10
+Employment wage: 10
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【スレイプニル】
+ Description_ENG: -
+
+START: 58
+Specified name: 兄貴
+Expressive name: 兄貴
+Name_ENG: 兄貴
+Anime filename: 98
+Character size: Ｍ
+Commander/Mercenary: 召喚
+Arm: 歩兵
+移動力: 5
+Move PWR: 3
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: －
+Weapon type: 歩兵
+Experience earned: 10
+Get funding: 10
+Employment wage: 10
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: ブラスト
+Enemy commander with magic 2: デクライン
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【兄貴】
+ Description_ENG: -
+
+START: 59
+Specified name: ダミー059
+Expressive name: ダミー
+Name_ENG: ダミー
+Anime filename: 59
+Character size: Ｍ
+Commander/Mercenary: 傭兵
+Arm: 歩兵
+移動力: 5
+Move PWR: 0
+Commander ATK: 0
+Commander DEF: 0
+Commander MAG: 0
+Commander RES: 0
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 歩兵
+Experience earned: 10
+Get funding: 10
+Employment wage: 10
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: クラスの説明が入ります　【ダミー】
+ Description_ENG: -
+
+START: 60
+Specified name: ゲルギャザー
+Expressive name: ゲルギャザー
+Name_ENG: ゲルギャザー
+Anime filename: 60
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 怪物ゲル
+移動力: 5
+Move PWR: 2
+Commander ATK: 20
+Commander DEF: 20
+Commander MAG: 20
+Commander RES: 20
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 2
+Escort character: ゲル
+Weapon type: 怪物ゲル
+Experience earned: 40
+Get funding: 60
+Employment wage: 0
+HP: 90
+MP: 1
+ATK: 45
+DEF: 63
+MAG: 24
+RES: 2
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】怪物ゲル<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>※自軍指揮官にいないため未制作⏎※自軍指揮官にいないため未制作
+ Description_ENG: -
+
+START: 61
+Specified name: リビングアーマー
+Expressive name: リビングアーマー
+Name_ENG: リビングアーマー
+Anime filename: 61
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 不死
+移動力: 5
+Move PWR: 4
+Commander ATK: 40
+Commander DEF: 40
+Commander MAG: 40
+Commander RES: 40
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 1
+Escort character: エレメンタル
+Weapon type: 不死
+Experience earned: 140
+Get funding: 210
+Employment wage: 0
+HP: 240
+MP: 20
+ATK: 101
+DEF: 121
+MAG: 63
+RES: 12
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】不死<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>物理攻撃に対して非常に高い防御力をもつ種族。⏎戦死した勇将の魂が怨念となって動かす中空の鎧。
+ Description_ENG: -
+
+START: 62
+Specified name: ストーンゴーレム
+Expressive name: ストーンゴーレム
+Name_ENG: ストーンゴーレム
+Anime filename: 62
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 怪物陸
+移動力: 5
+Move PWR: 4
+Commander ATK: 40
+Commander DEF: 40
+Commander MAG: 40
+Commander RES: 40
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 2
+Escort character: ゴーレム
+Weapon type: 怪物陸
+Experience earned: 140
+Get funding: 210
+Employment wage: 0
+HP: 290
+MP: 18
+ATK: 117
+DEF: 132
+MAG: 37
+RES: 60
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】怪物陸<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>鈍重だが、極めてすぐれた耐久力を誇る頑強な種族。⏎魔術により動く、岩石の体にマグマの血潮をもつ巨人。
+ Description_ENG: -
+
+START: 63
+Specified name: ゴースト
+Expressive name: ゴースト
+Name_ENG: ゴースト
+Anime filename: 63
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 霊
+移動力: 5
+Move PWR: 2
+Commander ATK: 20
+Commander DEF: 20
+Commander MAG: 20
+Commander RES: 20
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 6
+Escort character: レイス
+Weapon type: 霊
+Experience earned: 40
+Get funding: 60
+Employment wage: 0
+HP: 80
+MP: 13
+ATK: 38
+DEF: 38
+MAG: 47
+RES: 38
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: ファイアーボール
+Enemy commander with magic 2: フリーズ
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】霊<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>※自軍指揮官にいないため未制作⏎※自軍指揮官にいないため未制作
+ Description_ENG: -
+
+START: 64
+Specified name: リッチ
+Expressive name: リッチ
+Name_ENG: リッチ
+Anime filename: 64
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 不死
+移動力: 5
+Move PWR: 4
+Commander ATK: 40
+Commander DEF: 40
+Commander MAG: 40
+Commander RES: 40
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 6
+Escort character: スペクター
+Weapon type: 不死
+Experience earned: 140
+Get funding: 210
+Employment wage: 0
+HP: 160
+MP: 30
+ATK: 60
+DEF: 60
+MAG: 116
+RES: 90
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: コールドウェイブ
+Enemy commander with magic 2: フレイムジャベリン
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】不死<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>魔法戦に特化し、地形の影響を受けず移動できる種族。⏎知識欲のあまり不死者へと堕ちた魔術師の成れの果て。
+ Description_ENG: -
+
+START: 65
+Specified name: ケルベロス
+Expressive name: ケルベロス
+Name_ENG: ケルベロス
+Anime filename: 65
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 怪物陸
+移動力: 6
+Move PWR: 3
+Commander ATK: 40
+Commander DEF: 40
+Commander MAG: 40
+Commander RES: 40
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 4
+Escort character: ヘルハウンド
+Weapon type: 怪物陸
+Experience earned: 80
+Get funding: 120
+Employment wage: 0
+HP: 170
+MP: 5
+ATK: 83
+DEF: 83
+MAG: 52
+RES: 43
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】怪物陸<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>高い攻撃力をもち、回避力にもすぐれた種族。⏎常に空腹を抱えている、獰悪極まる３つ首の魔獣。
+ Description_ENG: -
+
+START: 66
+Specified name: マスターディーノ
+Expressive name: マスターディーノ
+Name_ENG: マスターディーノ
+Anime filename: 66
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 怪物陸
+移動力: 5
+Move PWR: 4
+Commander ATK: 40
+Commander DEF: 40
+Commander MAG: 40
+Commander RES: 40
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 2
+Escort character: ボーンディーノ
+Weapon type: 怪物陸
+Experience earned: 140
+Get funding: 210
+Employment wage: 0
+HP: 270
+MP: 6
+ATK: 116
+DEF: 108
+MAG: 68
+RES: 62
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】怪物陸<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>圧倒的な攻撃力と高い体力をもつ攻勢に特化した種族。⏎太古の昔に跋扈した竜族の系譜に連なる暴竜たちの王。
+ Description_ENG: -
+
+START: 67
+Specified name: ウェアウルフ
+Expressive name: ウェアウルフ
+Name_ENG: ウェアウルフ
+Anime filename: 67
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 怪物陸
+移動力: 5
+Move PWR: 2
+Commander ATK: 30
+Commander DEF: 30
+Commander MAG: 30
+Commander RES: 30
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 4
+Escort character: ウルフマン
+Weapon type: 怪物陸
+Experience earned: 80
+Get funding: 120
+Employment wage: 0
+HP: 120
+MP: 3
+ATK: 70
+DEF: 70
+MAG: 45
+RES: 37
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】怪物陸<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>極端な弱点がなく、様々な状況に対応できる種族。⏎呪いにより魔獣の力を得て他者を襲うに至った元人間。
+ Description_ENG: -
+
+START: 68
+Specified name: サーペント
+Expressive name: サーペント
+Name_ENG: サーペント
+Anime filename: 68
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 怪物水
+移動力: 5
+Move PWR: 3
+Commander ATK: 30
+Commander DEF: 30
+Commander MAG: 30
+Commander RES: 30
+Move type: 水上
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 4
+Escort character: リヴァイアサン
+Weapon type: 怪物水
+Experience earned: 80
+Get funding: 120
+Employment wage: 0
+HP: 190
+MP: 5
+ATK: 83
+DEF: 83
+MAG: 52
+RES: 43
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】怪物水<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>水上で真価を発揮する、体力と防御力にすぐれた種族。⏎海洋を縄張りとして暴れまわる、竜に似た魔獣。
+ Description_ENG: -
+
+START: 69
+Specified name: クィーンアント
+Expressive name: クィーンアント
+Name_ENG: クィーンアント
+Anime filename: 69
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 怪物陸
+移動力: 5
+Move PWR: 4
+Commander ATK: 40
+Commander DEF: 40
+Commander MAG: 40
+Commander RES: 40
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 4
+Escort character: Ｇアント
+Weapon type: 怪物陸
+Experience earned: 140
+Get funding: 210
+Employment wage: 0
+HP: 210
+MP: 4
+ATK: 99
+DEF: 99
+MAG: 63
+RES: 44
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】怪物陸<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>※自軍指揮官にいないため未制作⏎※自軍指揮官にいないため未制作
+ Description_ENG: -
+
+START: 70
+Specified name: フェニックス
+Expressive name: フェニックス
+Name_ENG: フェニックス
+Anime filename: 70
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 怪物飛
+移動力: 7
+Move PWR: 4
+Commander ATK: 40
+Commander DEF: 40
+Commander MAG: 40
+Commander RES: 40
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 6
+Escort character: バット
+Weapon type: 怪物飛
+Experience earned: 140
+Get funding: 210
+Employment wage: 0
+HP: 200
+MP: 18
+ATK: 99
+DEF: 90
+MAG: 63
+RES: 63
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: ヒール１
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】怪物飛<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>高い機動力と魔法による援護力をあわせもった種族。⏎高度な知能と強い生命力を有した燃え盛る怪鳥。
+ Description_ENG: -
+
+START: 71
+Specified name: ワイバーン
+Expressive name: ワイバーン
+Name_ENG: ワイバーン
+Anime filename: 71
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 怪物飛
+移動力: 7
+Move PWR: 4
+Commander ATK: 40
+Commander DEF: 40
+Commander MAG: 40
+Commander RES: 40
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 6
+Escort character: ガーゴイル
+Weapon type: 怪物飛
+Experience earned: 140
+Get funding: 210
+Employment wage: 0
+HP: 220
+MP: 16
+ATK: 118
+DEF: 103
+MAG: 65
+RES: 54
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】怪物飛<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>※自軍指揮官にいないため未制作⏎※自軍指揮官にいないため未制作
+ Description_ENG: -
+
+START: 72
+Specified name: ロック
+Expressive name: ロック
+Name_ENG: ロック
+Anime filename: 72
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 怪物飛
+移動力: 7
+Move PWR: 3
+Commander ATK: 30
+Commander DEF: 30
+Commander MAG: 30
+Commander RES: 30
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 6
+Escort character: バット
+Weapon type: 怪物飛
+Experience earned: 80
+Get funding: 120
+Employment wage: 0
+HP: 140
+MP: 3
+ATK: 74
+DEF: 74
+MAG: 47
+RES: 34
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】怪物飛<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>※自軍指揮官にいないため未制作⏎※自軍指揮官にいないため未制作
+ Description_ENG: -
+
+START: 73
+Specified name: デュラハン
+Expressive name: デュラハン
+Name_ENG: デュラハン
+Anime filename: 73
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 不死
+移動力: 6
+Move PWR: 3
+Commander ATK: 40
+Commander DEF: 40
+Commander MAG: 40
+Commander RES: 40
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 4
+Escort character: スケルトン
+Weapon type: 不死
+Experience earned: 80
+Get funding: 120
+Employment wage: 0
+HP: 180
+MP: 14
+ATK: 88
+DEF: 88
+MAG: 55
+RES: 45
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】不死<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>騎兵同様の高い機動力と戦闘力をもつ種族。⏎生者の首を求めて戦場をさまよう強力な不死の騎士。
+ Description_ENG: -
+
+START: 74
+Specified name: バンパイアロード
+Expressive name: バンパイアロード
+Name_ENG: バンパイアロード
+Anime filename: 74
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 高位不死
+移動力: 5
+Move PWR: 4
+Commander ATK: 60
+Commander DEF: 60
+Commander MAG: 60
+Commander RES: 60
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 4
+Escort character: アークデーモン
+Weapon type: 高位不死
+Experience earned: 140
+Get funding: 210
+Employment wage: 0
+HP: 220
+MP: 75
+ATK: 108
+DEF: 96
+MAG: 88
+RES: 80
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: メテオ
+Enemy commander with magic 2: ロックグレイブ
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】高位不死<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>高度な魔法を使いこなすに足る高い能力をもつ種族。⏎数多の魔族を従え王と呼ばれるに至った高位の不死者。
+ Description_ENG: -
+
+START: 75
+Specified name: バンパイア
+Expressive name: バンパイア
+Name_ENG: バンパイア
+Anime filename: 75
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 不死
+移動力: 5
+Move PWR: 3
+Commander ATK: 30
+Commander DEF: 30
+Commander MAG: 30
+Commander RES: 30
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 4
+Escort character: バット
+Weapon type: 不死
+Experience earned: 80
+Get funding: 120
+Employment wage: 0
+HP: 140
+MP: 11
+ATK: 70
+DEF: 70
+MAG: 45
+RES: 37
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】不死<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>※自軍指揮官にいないため未制作⏎※自軍指揮官にいないため未制作
+ Description_ENG: -
+
+START: 76
+Specified name: サキュバス
+Expressive name: サキュバス
+Name_ENG: サキュバス
+Anime filename: 76
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 魔族
+移動力: 5
+Move PWR: 4
+Commander ATK: 50
+Commander DEF: 50
+Commander MAG: 50
+Commander RES: 50
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 6
+Escort character: スペクター
+Weapon type: 魔族
+Experience earned: 80
+Get funding: 120
+Employment wage: 0
+HP: 150
+MP: 24
+ATK: 74
+DEF: 76
+MAG: 67
+RES: 75
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】魔族<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>妨害・回復を中心に友軍を援護する行動に長けた種族。⏎冒険者を誘惑しては精気を奪い傀儡とする女性の魔族。
+ Description_ENG: -
+
+START: 77
+Specified name: グレートドラゴン
+Expressive name: グレートドラゴン
+Name_ENG: グレートドラゴン
+Anime filename: 77
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 竜
+移動力: 7
+Move PWR: 4
+Commander ATK: 50
+Commander DEF: 50
+Commander MAG: 50
+Commander RES: 50
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 2
+Escort character: バット
+Weapon type: 竜
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 320
+MP: 21
+ATK: 158
+DEF: 141
+MAG: 88
+RES: 72
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: メテオ
+Enemy commander with magic 2: バーンタイド
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】竜<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>地形に影響されず、全体的に高水準の能力をもつ種族。⏎巨大な体躯に魔法を弾く鱗を備えた最強と名高い魔竜。
+ Description_ENG: -
+
+START: 78
+Specified name: イェルムンガルド
+Expressive name: イェルムンガルド
+Name_ENG: イェルムンガルド
+Anime filename: 78
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 怪物水
+移動力: 5
+Move PWR: 4
+Commander ATK: 40
+Commander DEF: 40
+Commander MAG: 40
+Commander RES: 40
+Move type: 水上
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 4
+Escort character: リヴァイアサン
+Weapon type: 怪物水
+Experience earned: 140
+Get funding: 210
+Employment wage: 0
+HP: 270
+MP: 6
+ATK: 108
+DEF: 94
+MAG: 68
+RES: 48
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】怪物水<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>高い攻撃力と防御力を備えた水上戦闘では最強の種族。⏎かつて大陸を巻いていた蛇神から生まれた巨大な魔獣。
+ Description_ENG: -
+
+START: 79
+Specified name: クラーケン
+Expressive name: クラーケン
+Name_ENG: クラーケン
+Anime filename: 79
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 怪物水
+移動力: 5
+Move PWR: 4
+Commander ATK: 40
+Commander DEF: 40
+Commander MAG: 40
+Commander RES: 40
+Move type: 水上
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 2
+Escort character: リヴァイアサン
+Weapon type: 怪物水
+Experience earned: 140
+Get funding: 210
+Employment wage: 0
+HP: 210
+MP: 4
+ATK: 99
+DEF: 92
+MAG: 49
+RES: 33
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】怪物水<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>水上で真価を発揮する、攻撃力にすぐれた種族。⏎深海に潜み通りかかる船を沈めては人間を食らう海魔。
+ Description_ENG: -
+
+START: 80
+Specified name: スキュラ
+Expressive name: スキュラ
+Name_ENG: スキュラ
+Anime filename: 80
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 怪物水
+移動力: 5
+Move PWR: 3
+Commander ATK: 40
+Commander DEF: 40
+Commander MAG: 40
+Commander RES: 40
+Move type: 水上
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 4
+Escort character: リザードマン
+Weapon type: 怪物水
+Experience earned: 80
+Get funding: 120
+Employment wage: 0
+HP: 170
+MP: 13
+ATK: 83
+DEF: 83
+MAG: 59
+RES: 43
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: フリーズ
+Enemy commander with magic 2: フォースヒール１
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】怪物水<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>水上で真価を発揮する、魔法戦が得意な種族。⏎人間の知能と海魔の凶暴性をあわせもった女性の魔物。
+ Description_ENG: -
+
+START: 81
+Specified name: ミノタウロス
+Expressive name: ミノタウロス
+Name_ENG: ミノタウロス
+Anime filename: 81
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 怪物陸
+移動力: 5
+Move PWR: 3
+Commander ATK: 30
+Commander DEF: 30
+Commander MAG: 30
+Commander RES: 30
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 2
+Escort character: オーガー
+Weapon type: 怪物陸
+Experience earned: 80
+Get funding: 120
+Employment wage: 0
+HP: 180
+MP: 6
+ATK: 94
+DEF: 88
+MAG: 55
+RES: 40
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】怪物陸<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>極端な弱点がなく、様々な状況に対応できる種族。⏎人間には到達できない筋力で人々を襲い食らう怪物。
+ Description_ENG: -
+
+START: 82
+Specified name: イフリート
+Expressive name: イフリート
+Name_ENG: イフリート
+Anime filename: 82
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 霊
+移動力: 8
+Move PWR: 1
+Commander ATK: 50
+Commander DEF: 50
+Commander MAG: 50
+Commander RES: 50
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 1
+Escort character: －
+Weapon type: 霊
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 360
+MP: 27
+ATK: 177
+DEF: 177
+MAG: 108
+RES: 88
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: バーンタイド
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】霊<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>※自軍指揮官にいないため未制作⏎※自軍指揮官にいないため未制作
+ Description_ENG: -
+
+START: 83
+Specified name: バジリスク
+Expressive name: バジリスク
+Name_ENG: バジリスク
+Anime filename: 83
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 怪物陸
+移動力: 5
+Move PWR: 3
+Commander ATK: 30
+Commander DEF: 30
+Commander MAG: 30
+Commander RES: 30
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 3
+Escort character: ボーンディーノ
+Weapon type: 怪物陸
+Experience earned: 80
+Get funding: 120
+Employment wage: 0
+HP: 160
+MP: 12
+ATK: 79
+DEF: 79
+MAG: 50
+RES: 41
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】怪物陸<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>※自軍指揮官にいないため未制作⏎※自軍指揮官にいないため未制作
+ Description_ENG: -
+
+START: 84
+Specified name: ダミー084
+Expressive name: ダミー
+Name_ENG: ダミー
+Anime filename: 84
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 歩兵
+移動力: 5
+Move PWR: 3
+Commander ATK: 20
+Commander DEF: 20
+Commander MAG: 20
+Commander RES: 20
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 歩兵
+Experience earned: 20
+Get funding: 30
+Employment wage: 0
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】0 <line-height=130%>⏎<line-height=100%>クラスの説明が入ります　【歩兵】⏎クラスの説明が入ります　【5】
+ Description_ENG: -
+
+START: 85
+Specified name: ダミー085
+Expressive name: ダミー
+Name_ENG: ダミー
+Anime filename: 85
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 歩兵
+移動力: 5
+Move PWR: 3
+Commander ATK: 20
+Commander DEF: 20
+Commander MAG: 20
+Commander RES: 20
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 歩兵
+Experience earned: 20
+Get funding: 30
+Employment wage: 0
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】0 <line-height=130%>⏎<line-height=100%>クラスの説明が入ります　【歩兵】⏎クラスの説明が入ります　【5】
+ Description_ENG: -
+
+START: 86
+Specified name: ダミー086
+Expressive name: ダミー
+Name_ENG: ダミー
+Anime filename: 86
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 歩兵
+移動力: 5
+Move PWR: 3
+Commander ATK: 20
+Commander DEF: 20
+Commander MAG: 20
+Commander RES: 20
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 歩兵
+Experience earned: 20
+Get funding: 30
+Employment wage: 0
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】0 <line-height=130%>⏎<line-height=100%>クラスの説明が入ります　【歩兵】⏎クラスの説明が入ります　【5】
+ Description_ENG: -
+
+START: 87
+Specified name: ダミー087
+Expressive name: ダミー
+Name_ENG: ダミー
+Anime filename: 87
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 歩兵
+移動力: 5
+Move PWR: 3
+Commander ATK: 20
+Commander DEF: 20
+Commander MAG: 20
+Commander RES: 20
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 歩兵
+Experience earned: 20
+Get funding: 30
+Employment wage: 0
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】0 <line-height=130%>⏎<line-height=100%>クラスの説明が入ります　【歩兵】⏎クラスの説明が入ります　【5】
+ Description_ENG: -
+
+START: 88
+Specified name: ダミー088
+Expressive name: ダミー
+Name_ENG: ダミー
+Anime filename: 88
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 歩兵
+移動力: 5
+Move PWR: 3
+Commander ATK: 20
+Commander DEF: 20
+Commander MAG: 20
+Commander RES: 20
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 歩兵
+Experience earned: 20
+Get funding: 30
+Employment wage: 0
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】0 <line-height=130%>⏎<line-height=100%>クラスの説明が入ります　【歩兵】⏎クラスの説明が入ります　【5】
+ Description_ENG: -
+
+START: 89
+Specified name: ダミー089
+Expressive name: ダミー
+Name_ENG: ダミー
+Anime filename: 89
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 歩兵
+移動力: 5
+Move PWR: 3
+Commander ATK: 20
+Commander DEF: 20
+Commander MAG: 20
+Commander RES: 20
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 歩兵
+Experience earned: 20
+Get funding: 30
+Employment wage: 0
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】0 <line-height=130%>⏎<line-height=100%>クラスの説明が入ります　【歩兵】⏎クラスの説明が入ります　【5】
+ Description_ENG: -
+
+START: 90
+Specified name: ダミー090
+Expressive name: フェンリル
+Name_ENG: フェンリル
+Anime filename: 90
+Character size: Ｍ
+Commander/Mercenary: 召喚
+Arm: 騎兵
+移動力: 6
+Move PWR: 3
+Commander ATK: 70
+Commander DEF: 70
+Commander MAG: 70
+Commander RES: 70
+Move type: 騎乗
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: エレメンタル
+Weapon type: 騎兵
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】騎兵<size=100%>　　【傭兵数】0 <line-height=130%>⏎<line-height=100%>クラスの説明が入ります　【騎兵】⏎クラスの説明が入ります　【6】
+ Description_ENG: -
+
+START: 91
+Specified name: ダミー091
+Expressive name: ヴァルキリー
+Name_ENG: ヴァルキリー
+Anime filename: 91
+Character size: Ｍ
+Commander/Mercenary: 召喚
+Arm: 飛兵
+移動力: 7
+Move PWR: 3
+Commander ATK: 70
+Commander DEF: 70
+Commander MAG: 70
+Commander RES: 70
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: エレメンタル
+Weapon type: 飛兵
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】飛兵<size=100%>　　【傭兵数】0 <line-height=130%>⏎<line-height=100%>クラスの説明が入ります　【飛兵】⏎クラスの説明が入ります　【7】
+ Description_ENG: -
+
+START: 92
+Specified name: ダミー092
+Expressive name: フレイヤ
+Name_ENG: フレイヤ
+Anime filename: 92
+Character size: Ｍ
+Commander/Mercenary: 召喚
+Arm: 飛兵
+移動力: 7
+Move PWR: 3
+Commander ATK: 70
+Commander DEF: 70
+Commander MAG: 70
+Commander RES: 70
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: エレメンタル
+Weapon type: 飛兵
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】飛兵<size=100%>　　【傭兵数】0 <line-height=130%>⏎<line-height=100%>クラスの説明が入ります　【飛兵】⏎クラスの説明が入ります　【7】
+ Description_ENG: -
+
+START: 93
+Specified name: ダミー093
+Expressive name: デーモンロード
+Name_ENG: デーモンロード
+Anime filename: 93
+Character size: Ｍ
+Commander/Mercenary: 召喚
+Arm: 魔族
+移動力: 5
+Move PWR: 3
+Commander ATK: 70
+Commander DEF: 70
+Commander MAG: 70
+Commander RES: 70
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: エレメンタル
+Weapon type: 魔族
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】魔族<size=100%>　　【傭兵数】0 <line-height=130%>⏎<line-height=100%>クラスの説明が入ります　【魔族】⏎クラスの説明が入ります　【5】
+ Description_ENG: -
+
+START: 94
+Specified name: ダミー094
+Expressive name: アイアンゴーレム
+Name_ENG: アイアンゴーレム
+Anime filename: 94
+Character size: Ｍ
+Commander/Mercenary: 召喚
+Arm: 槍兵
+移動力: 5
+Move PWR: 3
+Commander ATK: 70
+Commander DEF: 70
+Commander MAG: 70
+Commander RES: 70
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: エレメンタル
+Weapon type: 槍兵
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】槍兵<size=100%>　　【傭兵数】0 <line-height=130%>⏎<line-height=100%>クラスの説明が入ります　【槍兵】⏎クラスの説明が入ります　【5】
+ Description_ENG: -
+
+START: 95
+Specified name: ダミー095
+Expressive name: サラマンダー
+Name_ENG: サラマンダー
+Anime filename: 95
+Character size: Ｍ
+Commander/Mercenary: 召喚
+Arm: 竜
+移動力: 5
+Move PWR: 3
+Commander ATK: 70
+Commander DEF: 70
+Commander MAG: 70
+Commander RES: 70
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: エレメンタル
+Weapon type: 竜
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】竜<size=100%>　　【傭兵数】0 <line-height=130%>⏎<line-height=100%>クラスの説明が入ります　【竜】⏎クラスの説明が入ります　【5】
+ Description_ENG: -
+
+START: 96
+Specified name: ダミー096
+Expressive name: ホワイトドラゴン
+Name_ENG: ホワイトドラゴン
+Anime filename: 96
+Character size: Ｍ
+Commander/Mercenary: 召喚
+Arm: 竜
+移動力: 5
+Move PWR: 3
+Commander ATK: 70
+Commander DEF: 70
+Commander MAG: 70
+Commander RES: 70
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 竜
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】竜<size=100%>　　【傭兵数】0 <line-height=130%>⏎<line-height=100%>クラスの説明が入ります　【竜】⏎クラスの説明が入ります　【5】
+ Description_ENG: -
+
+START: 97
+Specified name: ダミー097
+Expressive name: スレイプニル
+Name_ENG: スレイプニル
+Anime filename: 97
+Character size: Ｍ
+Commander/Mercenary: 召喚
+Arm: 騎兵
+移動力: 6
+Move PWR: 3
+Commander ATK: 70
+Commander DEF: 70
+Commander MAG: 70
+Commander RES: 70
+Move type: 騎乗
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: エレメンタル
+Weapon type: 騎兵
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】騎兵<size=100%>　　【傭兵数】0 <line-height=130%>⏎<line-height=100%>クラスの説明が入ります　【騎兵】⏎クラスの説明が入ります　【6】
+ Description_ENG: -
+
+START: 98
+Specified name: ダミー098
+Expressive name: 兄貴
+Name_ENG: 兄貴
+Anime filename: 98
+Character size: Ｍ
+Commander/Mercenary: 召喚
+Arm: 歩兵
+移動力: 5
+Move PWR: 3
+Commander ATK: 70
+Commander DEF: 70
+Commander MAG: 70
+Commander RES: 70
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: エレメンタル
+Weapon type: 歩兵
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】0 <line-height=130%>⏎<line-height=100%>クラスの説明が入ります　【歩兵】⏎クラスの説明が入ります　【5】
+ Description_ENG: -
+
+START: 99
+Specified name: ダミー099
+Expressive name: ダミー
+Name_ENG: ダミー
+Anime filename: 99
+Character size: Ｍ
+Commander/Mercenary: 召喚
+Arm: 歩兵
+移動力: 5
+Move PWR: 3
+Commander ATK: 20
+Commander DEF: 20
+Commander MAG: 20
+Commander RES: 20
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 0
+Attack speed: 4
+Escort character: -
+Weapon type: 歩兵
+Experience earned: 20
+Get funding: 30
+Employment wage: 0
+HP: 0
+MP: 0
+ATK: 0
+DEF: 0
+MAG: 0
+RES: 0
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】0 <line-height=130%>⏎<line-height=100%>クラスの説明が入ります　【歩兵】⏎クラスの説明が入ります　【5】
+ Description_ENG: -
+
+START: 100
+Specified name: シビリアン
+Expressive name: シビリアン
+Name_ENG: シビリアン
+Anime filename: 128
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 歩兵
+移動力: 5
+Move PWR: 3
+Commander ATK: 20
+Commander DEF: 20
+Commander MAG: 20
+Commander RES: 20
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: -1
+Escort character: －
+Weapon type: 歩兵
+Experience earned: 20
+Get funding: 30
+Employment wage: 0
+HP: 57
+MP: 3
+ATK: 27
+DEF: 27
+MAG: 18
+RES: 15
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>クラスの説明が入ります　【歩兵】⏎クラスの説明が入ります　【5】
+ Description_ENG: -
+
+START: 101
+Specified name: ファイター
+Expressive name: ファイター
+Name_ENG: ファイター
+Anime filename: 129
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 歩兵
+移動力: 5
+Move PWR: 2
+Commander ATK: 20
+Commander DEF: 20
+Commander MAG: 20
+Commander RES: 20
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 4
+Escort character: ソルジャー
+Weapon type: 歩兵
+Experience earned: 20
+Get funding: 30
+Employment wage: 0
+HP: 50
+MP: 3
+ATK: 27
+DEF: 27
+MAG: 18
+RES: 15
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>極端な弱点がなく、様々な状況に対応できる兵種。⏎自身の身を守ることで精一杯な戦闘経験の浅い戦士。
+ Description_ENG: -
+
+START: 102
+Specified name: グラディエーター
+Expressive name: グラディエーター
+Name_ENG: グラディエーター
+Anime filename: 127
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 盗賊
+移動力: 5
+Move PWR: 2
+Commander ATK: 20
+Commander DEF: 20
+Commander MAG: 20
+Commander RES: 20
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 4
+Escort character: バーバリアン
+Weapon type: 盗賊
+Experience earned: 20
+Get funding: 30
+Employment wage: 0
+HP: 50
+MP: 3
+ATK: 30
+DEF: 25
+MAG: 18
+RES: 12
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】盗賊<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>雇える傭兵は少ないが、回避や命中にすぐれる兵種。⏎自身の武力を頼りに日々の生をつなぐ無頼漢。
+ Description_ENG: -
+
+START: 103
+Specified name: パラディン
+Expressive name: パラディン
+Name_ENG: パラディン
+Anime filename: 130
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 歩兵
+移動力: 5
+Move PWR: 2
+Commander ATK: 30
+Commander DEF: 30
+Commander MAG: 30
+Commander RES: 30
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 4
+Escort character: パイク
+Weapon type: 歩兵
+Experience earned: 40
+Get funding: 60
+Employment wage: 0
+HP: 100
+MP: 6
+ATK: 40
+DEF: 50
+MAG: 25
+RES: 30
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>極端な弱点がなく、様々な状況に対応できる兵種。⏎防御戦にすぐれた力を発揮する、信仰心の篤い重騎士。
+ Description_ENG: -
+
+START: 104
+Specified name: ロード
+Expressive name: ロード
+Name_ENG: ロード
+Anime filename: 131
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 歩兵
+移動力: 5
+Move PWR: 2
+Commander ATK: 35
+Commander DEF: 35
+Commander MAG: 35
+Commander RES: 35
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 4
+Escort character: パイク
+Weapon type: 歩兵
+Experience earned: 40
+Get funding: 60
+Employment wage: 0
+HP: 90
+MP: 6
+ATK: 45
+DEF: 45
+MAG: 30
+RES: 25
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: ヒール１
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>極端な弱点がなく、様々な状況に対応できる兵種。⏎人々の上に立ち、集団を指揮する能力にすぐれた騎士。
+ Description_ENG: -
+
+START: 105
+Specified name: ソードマン
+Expressive name: ソードマン
+Name_ENG: ソードマン
+Anime filename: 132
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 歩兵
+移動力: 5
+Move PWR: 3
+Commander ATK: 40
+Commander DEF: 40
+Commander MAG: 40
+Commander RES: 40
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 4
+Escort character: バンディット
+Weapon type: 歩兵
+Experience earned: 80
+Get funding: 120
+Employment wage: 0
+HP: 130
+MP: 9
+ATK: 68
+DEF: 58
+MAG: 29
+RES: 29
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>極端な弱点がなく、様々な状況に対応できる兵種。⏎敵陣に切り込み戦列を崩すことに秀でた攻撃的な戦士。
+ Description_ENG: -
+
+START: 106
+Specified name: ハイロード
+Expressive name: ハイロード
+Name_ENG: ハイロード
+Anime filename: 133
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 歩兵
+移動力: 5
+Move PWR: 3
+Commander ATK: 45
+Commander DEF: 45
+Commander MAG: 45
+Commander RES: 45
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 4
+Escort character: ファランクス
+Weapon type: 歩兵
+Experience earned: 80
+Get funding: 120
+Employment wage: 0
+HP: 120
+MP: 9
+ATK: 58
+DEF: 61
+MAG: 41
+RES: 39
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>極端な弱点がなく、様々な状況に対応できる兵種。⏎幾多の戦いで兵を導いて名君と認められた高位の騎士。
+ Description_ENG: -
+
+START: 107
+Specified name: ジェネラル
+Expressive name: ジェネラル
+Name_ENG: ジェネラル
+Anime filename: 134
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 歩兵
+移動力: 5
+Move PWR: 3
+Commander ATK: 55
+Commander DEF: 55
+Commander MAG: 55
+Commander RES: 55
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 6
+Attack speed: 4
+Escort character: グレナディーア
+Weapon type: 歩兵
+Experience earned: 140
+Get funding: 210
+Employment wage: 0
+HP: 190
+MP: 13
+ATK: 86
+DEF: 90
+MAG: 60
+RES: 50
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】6 <line-height=130%>⏎<line-height=100%>極端な弱点がなく、様々な状況に対応できる兵種。⏎鉄壁と呼ぶにふさわしい防御力を誇る重騎士の頂点。
+ Description_ENG: -
+
+START: 108
+Specified name: ソードマスター
+Expressive name: ソードマスター
+Name_ENG: ソードマスター
+Anime filename: 135
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 歩兵
+移動力: 5
+Move PWR: 3
+Commander ATK: 50
+Commander DEF: 50
+Commander MAG: 50
+Commander RES: 50
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 6
+Attack speed: 4
+Escort character: グレナディーア
+Weapon type: 歩兵
+Experience earned: 140
+Get funding: 210
+Employment wage: 0
+HP: 180
+MP: 13
+ATK: 98
+DEF: 80
+MAG: 40
+RES: 40
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】6 <line-height=130%>⏎<line-height=100%>極端な弱点がなく、様々な状況に対応できる兵種。⏎烈火のごとき剣で敵を両断する白兵戦のエキスパート。
+ Description_ENG: -
+
+START: 109
+Specified name: エンペラー
+Expressive name: エンペラー
+Name_ENG: エンペラー
+Anime filename: 136
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 歩兵
+移動力: 5
+Move PWR: 4
+Commander ATK: 65
+Commander DEF: 65
+Commander MAG: 65
+Commander RES: 65
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 6
+Attack speed: 4
+Escort character: グリフォン
+Weapon type: 歩兵
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 220
+MP: 17
+ATK: 119
+DEF: 103
+MAG: 80
+RES: 60
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: サンダーストーム
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】6 <line-height=130%>⏎<line-height=100%>極端な弱点がなく、様々な状況に対応できる兵種。⏎武力での支配を通じて世に平和をもたらすべく戦う者。
+ Description_ENG: -
+
+START: 110
+Specified name: キング
+Expressive name: キング
+Name_ENG: キング
+Anime filename: 137
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 歩兵
+移動力: 5
+Move PWR: 4
+Commander ATK: 65
+Commander DEF: 65
+Commander MAG: 65
+Commander RES: 65
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 6
+Attack speed: 4
+Escort character: ファランクス２
+Weapon type: 歩兵
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 220
+MP: 17
+ATK: 103
+DEF: 119
+MAG: 72
+RES: 69
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: フォースヒール２
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】6 <line-height=130%>⏎<line-height=100%>極端な弱点がなく、様々な状況に対応できる兵種。⏎人々の安寧を守るためにその身を盾とし戦い続ける者。
+ Description_ENG: -
+
+START: 111
+Specified name: クィーン
+Expressive name: クィーン
+Name_ENG: クィーン
+Anime filename: 138
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 歩兵
+移動力: 5
+Move PWR: 4
+Commander ATK: 65
+Commander DEF: 65
+Commander MAG: 65
+Commander RES: 65
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 6
+Attack speed: 4
+Escort character: ファランクス
+Weapon type: 歩兵
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 200
+MP: 26
+ATK: 99
+DEF: 102
+MAG: 93
+RES: 93
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】6 <line-height=130%>⏎<line-height=100%>極端な弱点がなく、様々な状況に対応できる兵種。⏎類稀なる武力と魔力で我欲を押し通し他者を圧する者。
+ Description_ENG: -
+
+START: 112
+Specified name: ダークプリンセス
+Expressive name: ダークプリンセス
+Name_ENG: ダークプリンセス
+Anime filename: 139
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 歩兵
+移動力: 5
+Move PWR: 4
+Commander ATK: 60
+Commander DEF: 60
+Commander MAG: 60
+Commander RES: 60
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 6
+Attack speed: 4
+Escort character: ダークガード
+Weapon type: 歩兵
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 180
+MP: 30
+ATK: 84
+DEF: 84
+MAG: 106
+RES: 86
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】6 <line-height=130%>⏎<line-height=100%>極端な弱点がなく、様々な状況に対応できる兵種。⏎混沌の神の加護を受け、暗黒の力を行使する闇の巫女。
+ Description_ENG: -
+
+START: 113
+Specified name: ヒーロー
+Expressive name: ヒーロー
+Name_ENG: ヒーロー
+Anime filename: 140
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 歩兵
+移動力: 5
+Move PWR: 4
+Commander ATK: 60
+Commander DEF: 60
+Commander MAG: 60
+Commander RES: 60
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 6
+Attack speed: 4
+Escort character: －
+Weapon type: 歩兵
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 240
+MP: 18
+ATK: 117
+DEF: 117
+MAG: 65
+RES: 60
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】6 <line-height=130%>⏎<line-height=100%>極端な弱点がなく、様々な状況に対応できる兵種。⏎あらゆる苦難を跳ね除け、人々に希望を示し続ける者。
+ Description_ENG: -
+
+START: 114
+Specified name: プリンセス
+Expressive name: プリンセス
+Name_ENG: プリンセス
+Anime filename: 142
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 歩兵
+移動力: 5
+Move PWR: 4
+Commander ATK: 60
+Commander DEF: 60
+Commander MAG: 60
+Commander RES: 60
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 6
+Attack speed: 4
+Escort character: グレナディーア
+Weapon type: 歩兵
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 190
+MP: 30
+ATK: 81
+DEF: 81
+MAG: 101
+RES: 90
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】6 <line-height=130%>⏎<line-height=100%>極端な弱点がなく、様々な状況に対応できる兵種。⏎決して雲らぬ心の輝きをもって周囲を光で照らす者。
+ Description_ENG: -
+
+START: 115
+Specified name: ユニコーンナイト
+Expressive name: ユニコーンナイト
+Name_ENG: ユニコーンナイト
+Anime filename: 100
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 騎兵
+移動力: 6
+Move PWR: 2
+Commander ATK: 40
+Commander DEF: 40
+Commander MAG: 40
+Commander RES: 40
+Move type: 騎乗
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 5
+Escort character: ドラグーン
+Weapon type: 騎兵
+Experience earned: 80
+Get funding: 120
+Employment wage: 0
+HP: 150
+MP: 10
+ATK: 72
+DEF: 68
+MAG: 42
+RES: 31
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】騎兵<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>一角獣に騎乗して行軍する、機動力にすぐれた兵種。⏎一角獣の勇猛さに騎士の剣技が合わさった強力な騎兵。
+ Description_ENG: -
+
+START: 116
+Specified name: グランナイト
+Expressive name: グランナイト
+Name_ENG: グランナイト
+Anime filename: 101
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 騎兵
+移動力: 6
+Move PWR: 3
+Commander ATK: 40
+Commander DEF: 40
+Commander MAG: 40
+Commander RES: 40
+Move type: 騎乗
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 5
+Escort character: ドラグーン
+Weapon type: 騎兵
+Experience earned: 80
+Get funding: 120
+Employment wage: 0
+HP: 130
+MP: 9
+ATK: 65
+DEF: 61
+MAG: 37
+RES: 27
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】騎兵<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>※自軍指揮官にいないため未制作⏎※自軍指揮官にいないため未制作
+ Description_ENG: -
+
+START: 117
+Specified name: ナイト
+Expressive name: ナイト
+Name_ENG: ナイト
+Anime filename: 102
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 騎兵
+移動力: 6
+Move PWR: 2
+Commander ATK: 20
+Commander DEF: 20
+Commander MAG: 20
+Commander RES: 20
+Move type: 騎乗
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 5
+Escort character: ランサー
+Weapon type: 騎兵
+Experience earned: 20
+Get funding: 30
+Employment wage: 0
+HP: 50
+MP: 3
+ATK: 27
+DEF: 28
+MAG: 15
+RES: 11
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】騎兵<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>馬に騎乗して行軍する、機動力にすぐれた兵種。⏎馬体の重量と速度にまかせ歩兵を蹴散らす見習い騎兵。
+ Description_ENG: -
+
+START: 118
+Specified name: シルバーナイト
+Expressive name: シルバーナイト
+Name_ENG: シルバーナイト
+Anime filename: 103
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 騎兵
+移動力: 6
+Move PWR: 2
+Commander ATK: 30
+Commander DEF: 30
+Commander MAG: 30
+Commander RES: 30
+Move type: 騎乗
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 5
+Escort character: ランサー
+Weapon type: 騎兵
+Experience earned: 40
+Get funding: 60
+Employment wage: 0
+HP: 90
+MP: 6
+ATK: 45
+DEF: 42
+MAG: 26
+RES: 19
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】騎兵<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>馬に騎乗して行軍する、機動力にすぐれた兵種。⏎突撃だけでなく騎乗戦にもすぐれた防御力の高い騎兵。
+ Description_ENG: -
+
+START: 119
+Specified name: ハイランダー
+Expressive name: ハイランダー
+Name_ENG: ハイランダー
+Anime filename: 104
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 騎兵
+移動力: 6
+Move PWR: 3
+Commander ATK: 40
+Commander DEF: 40
+Commander MAG: 40
+Commander RES: 40
+Move type: 騎乗
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 5
+Escort character: トルーパー
+Weapon type: 騎兵
+Experience earned: 80
+Get funding: 120
+Employment wage: 0
+HP: 130
+MP: 9
+ATK: 65
+DEF: 61
+MAG: 37
+RES: 27
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】騎兵<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>馬に騎乗して行軍する、機動力にすぐれた兵種。⏎周囲との連携でより強烈な突撃を見舞う精鋭の重騎兵。
+ Description_ENG: -
+
+START: 120
+Specified name: ナイトマスター
+Expressive name: ナイトマスター
+Name_ENG: ナイトマスター
+Anime filename: 105
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 騎兵
+移動力: 6
+Move PWR: 3
+Commander ATK: 50
+Commander DEF: 50
+Commander MAG: 50
+Commander RES: 50
+Move type: 騎乗
+Maximum enhancement level: 0
+Number of mercenaries: 6
+Attack speed: 5
+Escort character: ドラグーン
+Weapon type: 騎兵
+Experience earned: 140
+Get funding: 210
+Employment wage: 0
+HP: 190
+MP: 13
+ATK: 90
+DEF: 85
+MAG: 52
+RES: 38
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】騎兵<size=100%>　　【傭兵数】6 <line-height=130%>⏎<line-height=100%>馬に騎乗して行軍する、機動力にすぐれた兵種。⏎人馬一体となり並みいる敵兵を粉砕する重騎兵の頂点。
+ Description_ENG: -
+
+START: 121
+Specified name: ロイヤルガード
+Expressive name: ロイヤルガード
+Name_ENG: ロイヤルガード
+Anime filename: 106
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 騎兵
+移動力: 6
+Move PWR: 4
+Commander ATK: 60
+Commander DEF: 60
+Commander MAG: 60
+Commander RES: 60
+Move type: 騎乗
+Maximum enhancement level: 0
+Number of mercenaries: 6
+Attack speed: 5
+Escort character: ロイヤルランサー
+Weapon type: 騎兵
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 220
+MP: 15
+ATK: 108
+DEF: 102
+MAG: 62
+RES: 45
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】騎兵<size=100%>　　【傭兵数】6 <line-height=130%>⏎<line-height=100%>馬に騎乗して行軍する、機動力にすぐれた兵種。⏎国家の盾、騎士の頂点として戦場を駆ける平和の守人。
+ Description_ENG: -
+
+START: 122
+Specified name: ドラゴンナイト
+Expressive name: ドラゴンナイト
+Name_ENG: ドラゴンナイト
+Anime filename: 122
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 飛兵
+移動力: 7
+Move PWR: 3
+Commander ATK: 40
+Commander DEF: 40
+Commander MAG: 40
+Commander RES: 40
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 6
+Escort character: ハーピー
+Weapon type: 飛兵
+Experience earned: 80
+Get funding: 120
+Employment wage: 0
+HP: 110
+MP: 12
+ATK: 66
+DEF: 58
+MAG: 44
+RES: 16
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: －
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】飛兵<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>地形に影響されない、機動力と攻撃力に特化した兵種。⏎鷹より頑強かつ獰猛な飛竜に騎乗し戦う空中戦の達人。
+ Description_ENG: -
+
+START: 123
+Specified name: ドラゴンロード
+Expressive name: ドラゴンロード
+Name_ENG: ドラゴンロード
+Anime filename: 123
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 飛兵
+移動力: 7
+Move PWR: 3
+Commander ATK: 50
+Commander DEF: 50
+Commander MAG: 50
+Commander RES: 50
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 6
+Escort character: グリフォン
+Weapon type: 飛兵
+Experience earned: 140
+Get funding: 210
+Employment wage: 0
+HP: 160
+MP: 17
+ATK: 97
+DEF: 76
+MAG: 71
+RES: 23
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: フレイムジャベリン
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】飛兵<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>地形に影響されない、機動力と攻撃力に特化した兵種。⏎戦場を自在に飛び回り敵に必殺の一撃を与える竜騎士。
+ Description_ENG: -
+
+START: 124
+Specified name: ドラゴンマスター
+Expressive name: ドラゴンマスター
+Name_ENG: ドラゴンマスター
+Anime filename: 124
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 飛兵
+移動力: 7
+Move PWR: 4
+Commander ATK: 60
+Commander DEF: 60
+Commander MAG: 60
+Commander RES: 60
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 6
+Attack speed: 6
+Escort character: グリフォン
+Weapon type: 飛兵
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 190
+MP: 20
+ATK: 110
+DEF: 87
+MAG: 86
+RES: 27
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: バーンタイド
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】飛兵<size=100%>　　【傭兵数】6 <line-height=130%>⏎<line-height=100%>地形に影響されない、機動力と攻撃力に特化した兵種。⏎咆哮とともに襲いかかり敵陣を蹂躙する大空の支配者。
+ Description_ENG: -
+
+START: 125
+Specified name: ホークナイト
+Expressive name: ホークナイト
+Name_ENG: ホークナイト
+Anime filename: 125
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 飛兵
+移動力: 7
+Move PWR: 2
+Commander ATK: 20
+Commander DEF: 20
+Commander MAG: 20
+Commander RES: 20
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 6
+Escort character: フェアリー
+Weapon type: 飛兵
+Experience earned: 20
+Get funding: 30
+Employment wage: 0
+HP: 40
+MP: 5
+ATK: 27
+DEF: 24
+MAG: 18
+RES: 6
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】飛兵<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>地形に影響されない、機動力と攻撃力に特化した兵種。⏎乗った鷹から落ちないようしがみついて戦う新米飛兵。
+ Description_ENG: -
+
+START: 126
+Specified name: ホークロード
+Expressive name: ホークロード
+Name_ENG: ホークロード
+Anime filename: 126
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 飛兵
+移動力: 7
+Move PWR: 2
+Commander ATK: 30
+Commander DEF: 30
+Commander MAG: 30
+Commander RES: 30
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 6
+Escort character: ハーピー
+Weapon type: 飛兵
+Experience earned: 40
+Get funding: 60
+Employment wage: 0
+HP: 80
+MP: 8
+ATK: 46
+DEF: 40
+MAG: 31
+RES: 11
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: ウインドカッター
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】飛兵<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>地形に影響されない、機動力と攻撃力に特化した兵種。⏎上空から敵を観察し正確な攻撃を仕掛ける天空の騎士。
+ Description_ENG: -
+
+START: 127
+Specified name: パイレーツ
+Expressive name: パイレーツ
+Name_ENG: パイレーツ
+Anime filename: 107
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 水兵
+移動力: 5
+Move PWR: 2
+Commander ATK: 20
+Commander DEF: 20
+Commander MAG: 20
+Commander RES: 20
+Move type: 水上
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 4
+Escort character: バーバリアン
+Weapon type: 水兵
+Experience earned: 20
+Get funding: 30
+Employment wage: 0
+HP: 60
+MP: 4
+ATK: 25
+DEF: 31
+MAG: 16
+RES: 16
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: －
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】水兵<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>川や浅瀬で真価を発揮する、防御力にすぐれた兵種。⏎沿岸部で漁業や略奪などを行い生きる荒くれ者。
+ Description_ENG: -
+
+START: 128
+Specified name: キャプテン
+Expressive name: キャプテン
+Name_ENG: キャプテン
+Anime filename: 108
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 水兵
+移動力: 5
+Move PWR: 2
+Commander ATK: 30
+Commander DEF: 30
+Commander MAG: 30
+Commander RES: 30
+Move type: 水上
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 4
+Escort character: バンディット
+Weapon type: 水兵
+Experience earned: 40
+Get funding: 60
+Employment wage: 0
+HP: 100
+MP: 7
+ATK: 42
+DEF: 52
+MAG: 27
+RES: 27
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】水兵<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>川や浅瀬で真価を発揮する、防御力にすぐれた兵種。⏎腕っぷしの強い荒くれ者たちを率いて戦う屈強な戦士。
+ Description_ENG: -
+
+START: 129
+Specified name: サーペンナイト
+Expressive name: サーペンナイト
+Name_ENG: サーペンナイト
+Anime filename: 109
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 水兵
+移動力: 5
+Move PWR: 3
+Commander ATK: 40
+Commander DEF: 40
+Commander MAG: 40
+Commander RES: 40
+Move type: 水上
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 4
+Escort character: マーマン
+Weapon type: 水兵
+Experience earned: 80
+Get funding: 120
+Employment wage: 0
+HP: 140
+MP: 10
+ATK: 61
+DEF: 76
+MAG: 39
+RES: 39
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】水兵<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>水上で真価を発揮する、防御力にすぐれた兵種。⏎海蛇に騎乗し海上や急流での戦闘が可能となった騎兵。
+ Description_ENG: -
+
+START: 130
+Specified name: サーペンロード
+Expressive name: サーペンロード
+Name_ENG: サーペンロード
+Anime filename: 110
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 水兵
+移動力: 5
+Move PWR: 3
+Commander ATK: 50
+Commander DEF: 50
+Commander MAG: 50
+Commander RES: 50
+Move type: 水上
+Maximum enhancement level: 0
+Number of mercenaries: 6
+Attack speed: 4
+Escort character: リザードマン
+Weapon type: 水兵
+Experience earned: 140
+Get funding: 210
+Employment wage: 0
+HP: 200
+MP: 15
+ATK: 85
+DEF: 105
+MAG: 55
+RES: 54
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】水兵<size=100%>　　【傭兵数】6 <line-height=130%>⏎<line-height=100%>水上で真価を発揮する、防御力にすぐれた兵種。⏎絶大な指揮力により攻勢にも守勢にも強い水軍総大将。
+ Description_ENG: -
+
+START: 131
+Specified name: サーペンマスター
+Expressive name: サーペンマスター
+Name_ENG: サーペンマスター
+Anime filename: 111
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 水兵
+移動力: 5
+Move PWR: 4
+Commander ATK: 60
+Commander DEF: 60
+Commander MAG: 60
+Commander RES: 60
+Move type: 水上
+Maximum enhancement level: 0
+Number of mercenaries: 6
+Attack speed: 4
+Escort character: ニクシー
+Weapon type: 水兵
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 240
+MP: 18
+ATK: 102
+DEF: 126
+MAG: 66
+RES: 74
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】水兵<size=100%>　　【傭兵数】6 <line-height=130%>⏎<line-height=100%>水上で真価を発揮する、防御力にすぐれた兵種。⏎ありとあらゆる侵略者を水底に沈める水上戦の覇者。
+ Description_ENG: -
+
+START: 132
+Specified name: ウォーロック
+Expressive name: ウォーロック
+Name_ENG: ウォーロック
+Anime filename: 145
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 魔法使い
+移動力: 5
+Move PWR: 2
+Commander ATK: 20
+Commander DEF: 20
+Commander MAG: 20
+Commander RES: 20
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 3
+Escort character: モンク
+Weapon type: 魔法使い
+Experience earned: 20
+Get funding: 30
+Employment wage: 0
+HP: 30
+MP: 7
+ATK: 15
+DEF: 15
+MAG: 25
+RES: 22
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: マジックアロー
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】魔法使い<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>白兵戦は苦手だが、強力な攻撃魔法を使用できる兵種。⏎魔力を扱う才能に恵まれた魔術師の卵。
+ Description_ENG: -
+
+START: 133
+Specified name: シャーマン
+Expressive name: シャーマン
+Name_ENG: シャーマン
+Anime filename: 146
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 魔法使い
+移動力: 5
+Move PWR: 2
+Commander ATK: 20
+Commander DEF: 20
+Commander MAG: 20
+Commander RES: 20
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 3
+Escort character: バーバリアン
+Weapon type: 魔法使い
+Experience earned: 20
+Get funding: 30
+Employment wage: 0
+HP: 30
+MP: 7
+ATK: 18
+DEF: 13
+MAG: 27
+RES: 21
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: マジックアロー
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】魔法使い<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>白兵戦は苦手だが、強力な攻撃魔法を使用できる兵種。⏎祈祷によって大自然の精霊から魔力を引き出せる巫女。
+ Description_ENG: -
+
+START: 134
+Specified name: ソーサラー
+Expressive name: ソーサラー
+Name_ENG: ソーサラー
+Anime filename: 147
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 魔法使い
+移動力: 5
+Move PWR: 2
+Commander ATK: 30
+Commander DEF: 30
+Commander MAG: 30
+Commander RES: 30
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 3
+Escort character: ウィッチ
+Weapon type: 魔法使い
+Experience earned: 40
+Get funding: 60
+Employment wage: 0
+HP: 60
+MP: 12
+ATK: 25
+DEF: 25
+MAG: 42
+RES: 37
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: サンダー
+Enemy commander with magic 2: ファイアーボール
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】魔法使い<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>白兵戦は苦手だが、強力な攻撃魔法を使用できる兵種。⏎努力により基本的な魔術を扱えるようになった魔術師。
+ Description_ENG: -
+
+START: 135
+Specified name: ネクロマンサー
+Expressive name: ネクロマンサー
+Name_ENG: ネクロマンサー
+Anime filename: 148
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 魔法使い
+移動力: 5
+Move PWR: 2
+Commander ATK: 30
+Commander DEF: 30
+Commander MAG: 30
+Commander RES: 30
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 3
+Escort character: ゾンビ
+Weapon type: 魔法使い
+Experience earned: 40
+Get funding: 60
+Employment wage: 0
+HP: 60
+MP: 12
+ATK: 30
+DEF: 22
+MAG: 45
+RES: 35
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: サンダー
+Enemy commander with magic 2: ファイアーボール
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】魔法使い<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>白兵戦は苦手だが、強力な攻撃魔法を使用できる兵種。⏎自然法則ではなく生命の研究に魔道を見出した魔術師。
+ Description_ENG: -
+
+START: 136
+Specified name: メイジ
+Expressive name: メイジ
+Name_ENG: メイジ
+Anime filename: 117
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 魔法使い
+移動力: 5
+Move PWR: 3
+Commander ATK: 40
+Commander DEF: 40
+Commander MAG: 40
+Commander RES: 40
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 3
+Escort character: ウィッチ
+Weapon type: 魔法使い
+Experience earned: 80
+Get funding: 120
+Employment wage: 0
+HP: 90
+MP: 18
+ATK: 36
+DEF: 36
+MAG: 61
+RES: 54
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: フレイムジャベリン
+Enemy commander with magic 2: ブリザード
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】魔法使い<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>白兵戦は苦手だが、強力な攻撃魔法を使用できる兵種。⏎魔道の知識を活かすため軍に身を置く魔術師の実力者。
+ Description_ENG: -
+
+START: 137
+Specified name: サモナー
+Expressive name: サモナー
+Name_ENG: サモナー
+Anime filename: 149
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 魔法使い
+移動力: 5
+Move PWR: 3
+Commander ATK: 40
+Commander DEF: 40
+Commander MAG: 40
+Commander RES: 40
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 3
+Escort character: デーモン
+Weapon type: 魔法使い
+Experience earned: 80
+Get funding: 120
+Employment wage: 0
+HP: 90
+MP: 18
+ATK: 43
+DEF: 32
+MAG: 65
+RES: 50
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: ロックグレイブ
+Enemy commander with magic 2: サンダーストーム
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】魔法使い<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>白兵戦は苦手だが、強力な攻撃魔法を使用できる兵種。⏎禁忌に触れる研究を進め危険な力に手を出した魔術師。
+ Description_ENG: -
+
+START: 138
+Specified name: ザーヴェラー
+Expressive name: ザーヴェラー
+Name_ENG: ザーヴェラー
+Anime filename: 150
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 魔法使い
+移動力: 5
+Move PWR: 3
+Commander ATK: 50
+Commander DEF: 50
+Commander MAG: 50
+Commander RES: 50
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 3
+Escort character: アークデーモン
+Weapon type: 魔法使い
+Experience earned: 140
+Get funding: 210
+Employment wage: 0
+HP: 130
+MP: 28
+ATK: 60
+DEF: 45
+MAG: 99
+RES: 67
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: アースクエイク
+Enemy commander with magic 2: ライトニングボルト
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】魔法使い<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>白兵戦は苦手だが、強力な攻撃魔法を使用できる兵種。⏎魔界に接触し生命と引き換えに力を得た強力な魔術師。
+ Description_ENG: -
+
+START: 139
+Specified name: ウィザード
+Expressive name: ウィザード
+Name_ENG: ウィザード
+Anime filename: 151
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 魔法使い
+移動力: 5
+Move PWR: 4
+Commander ATK: 60
+Commander DEF: 60
+Commander MAG: 60
+Commander RES: 60
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 6
+Attack speed: 3
+Escort character: ウィッチ２
+Weapon type: 魔法使い
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 160
+MP: 30
+ATK: 60
+DEF: 60
+MAG: 106
+RES: 90
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: コールドウェイブ
+Enemy commander with magic 2: コールテンペスト
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】魔法使い<size=100%>　　【傭兵数】6 <line-height=130%>⏎<line-height=100%>白兵戦は苦手だが、強力な攻撃魔法を使用できる兵種。⏎世の理を知るに至り戦局を左右する力を得た大魔術師。
+ Description_ENG: -
+
+START: 140
+Specified name: ダークマスター
+Expressive name: ダークマスター
+Name_ENG: ダークマスター
+Anime filename: 152
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 魔法使い
+移動力: 5
+Move PWR: 4
+Commander ATK: 60
+Commander DEF: 60
+Commander MAG: 60
+Commander RES: 60
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 6
+Attack speed: 3
+Escort character: アークデーモン
+Weapon type: 魔法使い
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 150
+MP: 30
+ATK: 65
+DEF: 54
+MAG: 111
+RES: 84
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: メテオ
+Enemy commander with magic 2: コールテンペスト
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】魔法使い<size=100%>　　【傭兵数】6 <line-height=130%>⏎<line-height=100%>白兵戦は苦手だが、強力な攻撃魔法を使用できる兵種。⏎数多の禁呪を会得し絶大な魔力を手に入れた魔道の王。
+ Description_ENG: -
+
+START: 141
+Specified name: アークメイジ
+Expressive name: アークメイジ
+Name_ENG: アークメイジ
+Anime filename: 153
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 魔法使い
+移動力: 5
+Move PWR: 3
+Commander ATK: 50
+Commander DEF: 50
+Commander MAG: 50
+Commander RES: 50
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 3
+Escort character: ハイウィッチ
+Weapon type: 魔法使い
+Experience earned: 140
+Get funding: 210
+Employment wage: 0
+HP: 130
+MP: 28
+ATK: 50
+DEF: 50
+MAG: 85
+RES: 75
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: メテオ
+Enemy commander with magic 2: コールドウェイブ
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】魔法使い<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>白兵戦は苦手だが、強力な攻撃魔法を使用できる兵種。⏎戦闘経験を重ねて多彩な攻撃魔法を修めた魔道の大家。
+ Description_ENG: -
+
+START: 142
+Specified name: シスター
+Expressive name: シスター
+Name_ENG: シスター
+Anime filename: 112
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 僧侶
+移動力: 5
+Move PWR: 2
+Commander ATK: 20
+Commander DEF: 20
+Commander MAG: 20
+Commander RES: 20
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 3
+Escort character: モンク
+Weapon type: 僧侶
+Experience earned: 20
+Get funding: 30
+Employment wage: 0
+HP: 40
+MP: 7
+ATK: 20
+DEF: 20
+MAG: 21
+RES: 18
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】僧侶<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>補助や回復の魔法を使いこなす、後衛の要となる兵種。⏎人々の傷を癒やすべく活動する見習いの女性僧侶。
+ Description_ENG: -
+
+START: 143
+Specified name: ビショップ
+Expressive name: ビショップ
+Name_ENG: ビショップ
+Anime filename: 113
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 僧侶
+移動力: 5
+Move PWR: 2
+Commander ATK: 20
+Commander DEF: 20
+Commander MAG: 20
+Commander RES: 20
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 3
+Escort character: モンク
+Weapon type: 僧侶
+Experience earned: 20
+Get funding: 30
+Employment wage: 0
+HP: 40
+MP: 7
+ATK: 20
+DEF: 20
+MAG: 23
+RES: 18
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: ヒール１
+Enemy commander with magic 2: マジックアロー
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】僧侶<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>※自軍指揮官にいないため未制作⏎※自軍指揮官にいないため未制作
+ Description_ENG: -
+
+START: 144
+Specified name: クレリック
+Expressive name: クレリック
+Name_ENG: クレリック
+Anime filename: 114
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 僧侶
+移動力: 5
+Move PWR: 2
+Commander ATK: 30
+Commander DEF: 30
+Commander MAG: 30
+Commander RES: 30
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 3
+Escort character: ウィッチ
+Weapon type: 僧侶
+Experience earned: 40
+Get funding: 60
+Employment wage: 0
+HP: 70
+MP: 12
+ATK: 34
+DEF: 33
+MAG: 32
+RES: 30
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: フォースヒール１
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】僧侶<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>補助や回復の魔法を使いこなす、後衛の要となる兵種。⏎より高度な癒やしの技と退魔の力を会得した女性僧侶。
+ Description_ENG: -
+
+START: 145
+Specified name: セイント
+Expressive name: セイント
+Name_ENG: セイント
+Anime filename: 115
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 僧侶
+移動力: 5
+Move PWR: 3
+Commander ATK: 40
+Commander DEF: 40
+Commander MAG: 40
+Commander RES: 40
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 3
+Escort character: クルセイダー
+Weapon type: 僧侶
+Experience earned: 80
+Get funding: 120
+Employment wage: 0
+HP: 120
+MP: 13
+ATK: 57
+DEF: 60
+MAG: 38
+RES: 43
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: ヒール２
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】僧侶<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>補助や回復の魔法を使いこなす、後衛の要となる兵種。⏎信仰心の盾となるべく戦闘技術を磨き上げた神官戦士。
+ Description_ENG: -
+
+START: 146
+Specified name: プリースト
+Expressive name: プリースト
+Name_ENG: プリースト
+Anime filename: 116
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 僧侶
+移動力: 5
+Move PWR: 3
+Commander ATK: 40
+Commander DEF: 40
+Commander MAG: 40
+Commander RES: 40
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 3
+Escort character: ウィッチ
+Weapon type: 僧侶
+Experience earned: 80
+Get funding: 120
+Employment wage: 0
+HP: 100
+MP: 18
+ATK: 49
+DEF: 48
+MAG: 57
+RES: 43
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: フォースヒール２
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】僧侶<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>補助や回復の魔法を使いこなす、後衛の要となる兵種。⏎信仰と研鑽により天使を呼び出すに至った高位の神官。
+ Description_ENG: -
+
+START: 147
+Specified name: セージ
+Expressive name: セージ
+Name_ENG: セージ
+Anime filename: 118
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 僧侶
+移動力: 5
+Move PWR: 3
+Commander ATK: 50
+Commander DEF: 50
+Commander MAG: 50
+Commander RES: 50
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 3
+Escort character: ハイウィッチ
+Weapon type: 僧侶
+Experience earned: 140
+Get funding: 210
+Employment wage: 0
+HP: 150
+MP: 25
+ATK: 62
+DEF: 54
+MAG: 85
+RES: 72
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: ヒール２
+Enemy commander with magic 2: ブラスト
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】僧侶<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>補助や回復の魔法を使いこなす、後衛の要となる兵種。⏎賢者と呼ばれるにふさわしい豊富な知識をもつ大神官。
+ Description_ENG: -
+
+START: 148
+Specified name: ハイプリースト
+Expressive name: ハイプリースト
+Name_ENG: ハイプリースト
+Anime filename: 119
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 僧侶
+移動力: 5
+Move PWR: 3
+Commander ATK: 50
+Commander DEF: 50
+Commander MAG: 50
+Commander RES: 50
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 3
+Escort character: ウィッチ
+Weapon type: 僧侶
+Experience earned: 140
+Get funding: 210
+Employment wage: 0
+HP: 170
+MP: 26
+ATK: 68
+DEF: 67
+MAG: 75
+RES: 66
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: ヒール３
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】僧侶<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>補助や回復の魔法を使いこなす、後衛の要となる兵種。⏎どんな戦場にあっても祈りを絶やさない最高位の神官。
+ Description_ENG: -
+
+START: 149
+Specified name: エージェント
+Expressive name: エージェント
+Name_ENG: エージェント
+Anime filename: 120
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 僧侶
+移動力: 5
+Move PWR: 4
+Commander ATK: 60
+Commander DEF: 60
+Commander MAG: 60
+Commander RES: 60
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 6
+Attack speed: 3
+Escort character: エンジェル
+Weapon type: 僧侶
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 200
+MP: 30
+ATK: 98
+DEF: 96
+MAG: 94
+RES: 87
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: フォースヒール３
+Enemy commander with magic 2: ホーリーブレイズ
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】僧侶<size=100%>　　【傭兵数】6 <line-height=130%>⏎<line-height=100%>補助や回復の魔法を使いこなす、後衛の要となる兵種。⏎法と秩序を尊び、その行動で光の女神の意志を示す者。
+ Description_ENG: -
+
+START: 150
+Specified name: アサシン
+Expressive name: アサシン
+Name_ENG: アサシン
+Anime filename: 121
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 盗賊
+移動力: 5
+Move PWR: 2
+Commander ATK: 30
+Commander DEF: 30
+Commander MAG: 30
+Commander RES: 30
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 2
+Attack speed: 4
+Escort character: ソルジャー
+Weapon type: 盗賊
+Experience earned: 40
+Get funding: 60
+Employment wage: 0
+HP: 110
+MP: 9
+ATK: 47
+DEF: 47
+MAG: 30
+RES: 26
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】盗賊<size=100%>　　【傭兵数】2 <line-height=130%>⏎<line-height=100%>雇える傭兵は少ないが、回避や命中にすぐれる兵種。⏎裏稼業を生業とし、国家に雇われることも多い暗殺者。
+ Description_ENG: -
+
+START: 151
+Specified name: ハイマスター
+Expressive name: ハイマスター
+Name_ENG: ハイマスター
+Anime filename: 154
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 野伏
+移動力: 6
+Move PWR: 3
+Commander ATK: 60
+Commander DEF: 60
+Commander MAG: 60
+Commander RES: 60
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 2
+Attack speed: 4
+Escort character: －
+Weapon type: 野伏
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 250
+MP: 24
+ATK: 109
+DEF: 109
+MAG: 81
+RES: 68
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】野伏<size=100%>　　【傭兵数】2 <line-height=130%>⏎<line-height=100%>傭兵に頼らず、抜きん出た個人戦闘力で戦う兵種。⏎ただひたすらに戦いと強さを追い続けた兵どもの極致。
+ Description_ENG: -
+
+START: 152
+Specified name: レンジャー
+Expressive name: レンジャー
+Name_ENG: レンジャー
+Anime filename: 155
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 野伏
+移動力: 6
+Move PWR: 3
+Commander ATK: 50
+Commander DEF: 50
+Commander MAG: 50
+Commander RES: 50
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 2
+Attack speed: 4
+Escort character: －
+Weapon type: 野伏
+Experience earned: 140
+Get funding: 210
+Employment wage: 0
+HP: 190
+MP: 20
+ATK: 92
+DEF: 92
+MAG: 60
+RES: 55
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: コールテンペスト
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】野伏<size=100%>　　【傭兵数】2 <line-height=130%>⏎<line-height=100%>傭兵に頼らず、抜きん出た個人戦闘力で戦う兵種。⏎一線を画す身体能力と野外行動能力をもつ孤高の戦士。
+ Description_ENG: -
+
+START: 153
+Specified name: ビルダー
+Expressive name: ビルダー
+Name_ENG: ビルダー
+Anime filename: 141
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 歩兵
+移動力: 5
+Move PWR: 2
+Commander ATK: 20
+Commander DEF: 20
+Commander MAG: 20
+Commander RES: 20
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 0
+Escort character: －
+Weapon type: 歩兵
+Experience earned: 20
+Get funding: 30
+Employment wage: 0
+HP: 50
+MP: 3
+ATK: 28
+DEF: 24
+MAG: 12
+RES: 12
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>※自軍指揮官にいないため未制作⏎※自軍指揮官にいないため未制作
+ Description_ENG: -
+
+START: 154
+Specified name: ルシリス
+Expressive name: ルシリス
+Name_ENG: ルシリス
+Anime filename: 143
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 歩兵
+移動力: 5
+Move PWR: 5
+Commander ATK: 100
+Commander DEF: 100
+Commander MAG: 100
+Commander RES: 100
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 0
+Escort character: －
+Weapon type: 歩兵
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 200
+MP: 15
+ATK: 96
+DEF: 102
+MAG: 90
+RES: 66
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: フォースヒール３
+Enemy commander with magic 2: ホーリーストライク
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】歩兵<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>※自軍指揮官にいないため未制作⏎※自軍指揮官にいないため未制作
+ Description_ENG: -
+
+START: 155
+Specified name: カオス
+Expressive name: カオス
+Name_ENG: カオス
+Anime filename: 144
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 魔族
+移動力: 5
+Move PWR: 1
+Commander ATK: 70
+Commander DEF: 70
+Commander MAG: 70
+Commander RES: 70
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 0
+Escort character: －
+Weapon type: 魔族
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 200
+MP: 15
+ATK: 96
+DEF: 102
+MAG: 90
+RES: 66
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: メテオ
+Enemy commander with magic 2: ブラスト
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】魔族<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>※自軍指揮官にいないため未制作⏎※自軍指揮官にいないため未制作
+ Description_ENG: -
+
+START: 156
+Specified name: シカゾク
+Expressive name: シカゾク
+Name_ENG: シカゾク
+Anime filename: 156
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 盗賊
+移動力: 5
+Move PWR: 3
+Commander ATK: 20
+Commander DEF: 20
+Commander MAG: 20
+Commander RES: 20
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: 4
+Escort character: バーバリアン
+Weapon type: 盗賊
+Experience earned: 20
+Get funding: 30
+Employment wage: 0
+HP: 50
+MP: 3
+ATK: 56
+DEF: 48
+MAG: 12
+RES: 12
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】盗賊<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>※自軍指揮官にいないため未制作⏎※自軍指揮官にいないため未制作
+ Description_ENG: -
+
+START: 157
+Specified name: ファイアス
+Expressive name: ファイアス
+Name_ENG: ファイアス
+Anime filename: 74
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 高位不死
+移動力: 5
+Move PWR: 3
+Commander ATK: 60
+Commander DEF: 60
+Commander MAG: 60
+Commander RES: 60
+Move type: 飛行
+Maximum enhancement level: 0
+Number of mercenaries: 5
+Attack speed: 4
+Escort character: アークデーモン
+Weapon type: 高位不死
+Experience earned: 200
+Get funding: 300
+Employment wage: 0
+HP: 200
+MP: 15
+ATK: 96
+DEF: 102
+MAG: 90
+RES: 66
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: メテオ
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】高位不死<size=100%>　　【傭兵数】5 <line-height=130%>⏎<line-height=100%>※自軍指揮官にいないため未制作⏎※自軍指揮官にいないため未制作
+ Description_ENG: -
+
+START: 158
+Specified name: シスター市民
+Expressive name: シスター
+Name_ENG: シスター
+Anime filename: 112
+Character size: Ｍ
+Commander/Mercenary: 指揮官
+Arm: 僧侶
+移動力: 5
+Move PWR: 2
+Commander ATK: 20
+Commander DEF: 20
+Commander MAG: 20
+Commander RES: 20
+Move type: 陸上
+Maximum enhancement level: 0
+Number of mercenaries: 4
+Attack speed: -1
+Escort character: シビリアン
+Weapon type: 僧侶
+Experience earned: 20
+Get funding: 30
+Employment wage: 0
+HP: 40
+MP: 7
+ATK: 20
+DEF: 20
+MAG: 19
+RES: 18
+Land Terrain Adaptation: 10
+Floating landform adaptation: 10
+Aerial terrain adaptation: 10
+Indoor terrain adaptation: 10
+Enemy commander with magic 1: -
+Enemy commander with magic 2: -
+Enemy Commander Skill 1: -
+Enemy Commander Skill 2: -
+Description: <size=140%>【兵種】僧侶<size=100%>　　【傭兵数】4 <line-height=130%>⏎<line-height=100%>※自軍指揮官にいないため未制作⏎※自軍指揮官にいないため未制作
+ Description_ENG: -
+
+START: END
+
