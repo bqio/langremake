@@ -1,0 +1,170 @@
+START: 0
+Point type: Skills A
+Skill B: Pirates
+Skill B: Gladiator
+Skill B: Hawk Knight
+Skill B: Night
+
+START: 1
+Point type: Skills A
+Skill B: Gladiator
+Skill B: Hawk Knight
+Skill B: Night
+Skill B: Hawk Road
+
+START: 2
+Point type: Skills A
+Skill B: Hawk Knight
+Skill B: Captain
+Skill B: Hawk Road
+Skill B: Paladin
+
+START: 3
+Point type: Skills A
+Skill B: Captain
+Skill B: Hawk Road
+Skill B: Paladin
+Skill B: Assassin
+
+START: 4
+Point type: -
+Skill B: Skills D
+Skill B: Skills D
+Skill B: Skills D
+Skill B: Skills D
+
+START: 5
+Point type: Skills C
+Skill B: Divination-only 1
+Skill B: Divination-only 1
+Skill B: Divination-only 2
+Skill B: Divination-only 3
+
+START: 6
+Point type: Skills C
+Skill B: Divination-only 1
+Skill B: Divination-only 2
+Skill B: Divination-only 3
+Skill B: Divination-only 3
+
+START: 7
+Point type: Skills C
+Skill B: Divination-only 2
+Skill B: Divination-only 3
+Skill B: Divination-only 3
+Skill B: Divination-only 4
+
+START: 8
+Point type: Skills C
+Skill B: Divination-only 3
+Skill B: Divination-only 3
+Skill B: Divination-only 4
+Skill B: Divination-only 4
+
+START: 9
+Point type: -
+Skill B: Item B
+Skill B: Item B
+Skill B: Item B
+Skill B: Item B
+
+START: 10
+Point type: Item A
+Skill B: Knife
+Skill B: Wand
+Skill B: Wand
+Skill B: Wand
+
+START: 11
+Point type: Item A
+Skill B: Greatsword
+Skill B: Wand
+Skill B: Wand
+Skill B: Wand
+
+START: 12
+Point type: Item A
+Skill B: Stiletto
+Skill B: Wand
+Skill B: Wand
+Skill B: Wand
+
+START: 13
+Point type: Item A
+Skill B: Lock the bar up
+Skill B: Wand
+Skill B: Wand
+Skill B: Wand
+
+START: 14
+Point type: -
+Skill B: Item D
+Skill B: Item D
+Skill B: Item D
+Skill B: Item D
+
+START: 15
+Point type: Item C
+Skill B: Model shield
+Skill B: Model shield
+Skill B: Model shield
+Skill B: Model shield
+
+START: 16
+Point type: Item C
+Skill B: Version shield
+Skill B: Version shield
+Skill B: Version shield
+Skill B: Version shield
+
+START: 17
+Point type: Item C
+Skill B: Leather armor
+Skill B: Leather armor
+Skill B: Leather armor
+Skill B: Leather armor
+
+START: 18
+Point type: Item C
+Skill B: Mirage robe
+Skill B: Mirage robe
+Skill B: Mirage robe
+Skill B: Mirage robe
+
+START: 19
+Point type: -
+Skill B: Item F
+Skill B: Item F
+Skill B: Item F
+Skill B: Item F
+
+START: 20
+Point type: Item E
+Skill B: Cross
+Skill B: Gold bullion
+Skill B: Gold bullion
+Skill B: Gold bullion
+
+START: 21
+Point type: Item E
+Skill B: Oven
+Skill B: Gold bullion
+Skill B: Gold bullion
+Skill B: Gold bullion
+
+START: 22
+Point type: Item E
+Skill B: Aura bracelet
+Skill B: Gold bullion
+Skill B: Gold bullion
+Skill B: Gold bullion
+
+START: 23
+Point type: Item E
+Skill B: Speed boots
+Skill B: Gold bullion
+Skill B: Gold bullion
+Skill B: Gold bullion
+
+START: END
+
