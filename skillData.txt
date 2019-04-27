@@ -1,0 +1,4802 @@
+START: 0
+Skill name: Dummy
+The specified name: ダミー
+Skill type: Ａスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: Especially without⏎details are unclear‥‥
+Description short: 特になし
+Skill name _E: skill0
+Description _E: English:0
+Description short _E: English:0
+
+START: 1
+Skill name: Fledgling warrior
+The specified name: ファイター
+Skill type: Ａスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 5
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: DEF+5 ⏎protect yourself is first priority. Survived. if the arm is polishing only.
+Description short: DEF<#ffdd00>+5<#ffffff>　
+Skill name _E: skill76
+Description _E: English:76
+Description short _E: English:76
+
+START: 2
+Skill name: Sword fighting techniques
+The specified name: グラディエーター
+Skill type: Ｂスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 5
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+5 ⏎sword arm will be able to survive. Defeat the enemies if you get nothing from it.
+Description short: ATK<#ffdd00>+5<#ffffff>　
+Skill name _E: skill77
+Description _E: English:77
+Description short _E: English:77
+
+START: 3
+Skill name: Knight Apprentice
+The specified name: ナイト
+Skill type: Ａスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 105
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: Command fix DEF+5% ⏎military as a knight of the requirements for the officers and men to leadership ability.
+Description short: 指揮修正DEF<#ffdd00>+5%<#ffffff>　
+Skill name _E: skill78
+Description _E: English:78
+Description short _E: English:78
+
+START: 4
+Skill name: Flight training in the
+The specified name: ホークナイト
+Skill type: Ｂスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 1
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: DEX+1⏎, fly through the skies of the enemy to take on. Once you have that victory is near.
+Description short: DEX<#ffdd00>+1<#ffffff>　
+Skill name _E: skill79
+Description _E: English:79
+Description short _E: English:79
+
+START: 5
+Skill name: Peanut butter
+The specified name: パイレーツ
+Skill type: Ａスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 105
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: Command fix ATK+5% ⏎plunder expectations and envy to have and if the morale of the soldiers is up to.
+Description short: 指揮修正ATK<#ffdd00>+5%<#ffffff>　
+Skill name _E: skill80
+Description _E: English:80
+Description short _E: English:80
+
+START: 6
+Skill name: Magician Apprentice
+The specified name: ウォーロック
+Skill type: Ｂスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 5
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: MAG+5 ⏎welcome, magic field of study: never-ending road!
+Description short: MAG<#ffdd00>+5<#ffffff>　
+Skill name _E: skill81
+Description _E: English:81
+Description short _E: English:81
+
+START: 7
+Skill name: Magician Apprentice
+The specified name: シャーマン
+Skill type: Ａスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 5
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: MAG+5 ⏎welcome, magic field of study: never-ending road!
+Description short: MAG<#ffdd00>+5<#ffffff>　
+Skill name _E: skill82
+Description _E: English:82
+Description short _E: English:82
+
+START: 8
+Skill name: Monk Apprentice
+The specified name: シスター
+Skill type: Ｂスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 5
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: MGR+5 ⏎first is praying. Everything from it.
+Description short: MGR<#ffdd00>+5<#ffffff>　
+Skill name _E: skill83
+Description _E: English:83
+Description short _E: English:83
+
+START: 9
+Skill name: Monk Apprentice
+The specified name: ビショップ
+Skill type: Ａスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 5
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: MGR+5 ⏎first is praying. Everything from it.
+Description short: MGR<#ffdd00>+5<#ffffff>　
+Skill name _E: skill84
+Description _E: English:84
+Description short _E: English:84
+
+START: 10
+Skill name: Strike
+The specified name: 占い専用１
+Skill type: Ｂスロット
+Icon type: Ｂアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 10
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+10 ⏎that young man is the sort of Knight that is on par with the incredible sword skills and a strong belief to have.
+Description short: ATK<#ffdd00>+10<#ffffff>　
+Skill name _E: skill85
+Description _E: English:85
+Description short _E: English:85
+
+START: 11
+Skill name: Self-defense and swordsmanship
+The specified name: 占い専用２
+Skill type: Ａスロット
+Icon type: Ｂアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 10
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: DEF+10 ⏎himself to protect the Masters to train them in Swords for the people, shake the can.
+Description short: DEF<#ffdd00>+10<#ffffff>　
+Skill name _E: skill86
+Description _E: English:86
+Description short _E: English:86
+
+START: 12
+Skill name: Robust
+The specified name: 占い専用３
+Skill type: Ｂスロット
+Icon type: Ｂアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 20
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: HP+20 ⏎this troubled times of the continent to survive the most important is the body's durability was.
+Description short: HP<#ffdd00>+20<#ffffff>　
+Skill name _E: skill87
+Description _E: English:87
+Description short _E: English:87
+
+START: 13
+Skill name: Bright blood
+The specified name: 占い専用４
+Skill type: Ａスロット
+Icon type: Ｂアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 105
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: Command fix ATK+5% ⏎youth in the eyes of the heart, one to the Humane charm of light and sense of Justice of the flames dwelled.
+Description short: 指揮修正ATK<#ffdd00>+5%<#ffffff>　
+Skill name _E: skill88
+Description _E: English:88
+Description short _E: English:88
+
+START: 14
+Skill name: Compact formation
+The specified name: パラディン
+Skill type: Ｂスロット
+Icon type: Ｂアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 110
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 20
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: Command fix DEF+10% cavalry Slayer+20% ⏎controlled 精兵 us to continue to distribute fall forward, it's just to overwhelm the enemy.
+Description short: 指揮修正DEF<#ffdd00>+10%<#ffffff>　騎兵特効<#ffdd00>+20%<#ffffff>　
+Skill name _E: skill1
+Description _E: English:1
+Description short _E: English:1
+
+START: 15
+Skill name: Monarch of attainments
+The specified name: ロード
+Skill type: Ａスロット
+Icon type: Ｂアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 105
+The command DF: 105
+Conductor MAT: 0
+Command MDF: 0
+AT: 5
+DF: 5
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+5 DEF+5 command fixed ATK+5% command fixed DEF+5% ⏎soldiers to inspire,lead and Excel in each victory.
+Description short: ATK<#ffdd00>+5<#ffffff>　DEF<#ffdd00>+5<#ffffff>　指揮修正ATK<#ffdd00>+5%<#ffffff>　指揮修正DEF<#ffdd00>+5%<#ffffff>　
+Skill name _E: skill2
+Description _E: English:2
+Description short _E: English:2
+
+START: 16
+Skill name: Knight commendations
+The specified name: シルバーナイト
+Skill type: Ｂスロット
+Icon type: Ｂアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 10
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 10
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: DEF+10 HP+10 ⏎the state to protect the horses ran through the enemy, and fight those who are allowed to testify.
+Description short: DEF<#ffdd00>+10<#ffffff>　HP<#ffdd00>+10<#ffffff>　
+Skill name _E: skill13
+Description _E: English:13
+Description short _E: English:13
+
+START: 17
+Skill name: Eyes of the Hawk
+The specified name: ホークロード
+Skill type: Ａスロット
+Icon type: Ｂアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 10
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 5
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+10 AGL+5 ⏎jump infantry weapon, it is the movements of the enemy closely to develop a press kit that eye.
+Description short: ATK<#ffdd00>+10<#ffffff>　AGL<#ffdd00>+5<#ffffff>　
+Skill name _E: skill18
+Description _E: English:18
+Description short _E: English:18
+
+START: 18
+Skill name: 接舷 attack Jutsu
+The specified name: キャプテン
+Skill type: Ａスロット
+Icon type: Ｂアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 10
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 5
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+10 DEX+5 ⏎naval battles of the basic enemy ships boarded for hand-to-hand combat. They of knowledge and technology.
+Description short: ATK<#ffdd00>+10<#ffffff>　DEX<#ffdd00>+5<#ffffff>　
+Skill name _E: skill22
+Description _E: English:22
+Description short _E: English:22
+
+START: 19
+Skill name: 蛍雪 Gong
+The specified name: ソーサラー
+Skill type: Ａスロット
+Icon type: Ｂアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 10
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 4
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: MGR+10 MP+4 ⏎uneducated human, but Mage is to practice them. Nothing studies.
+Description short: MGR<#ffdd00>+10<#ffffff>　MP<#ffdd00>+4<#ffffff>　
+Skill name _E: skill26
+Description _E: English:26
+Description short _E: English:26
+
+START: 20
+Skill name: Groups from 'proper' guidance of the
+The specified name: ネクロマンサー
+Skill type: Ｂスロット
+Icon type: Ｂアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 10
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 4
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: MAG+10, MP+4 ⏎US die of curiosity and an inquisitive mind is often 衆目 lose interest in it.
+Description short: MAG<#ffdd00>+10<#ffffff>　MP<#ffdd00>+4<#ffffff>　
+Skill name _E: skill27
+Description _E: English:27
+Description short _E: English:27
+
+START: 21
+Skill name: Magic Barrier
+The specified name: クレリック
+Skill type: Ａスロット
+Icon type: Ｂアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 20
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: MGR+20 ⏎faith by a magic barrier against a new protection to get.
+Description short: MGR<#ffdd00>+20<#ffffff>　
+Skill name _E: skill34
+Description _E: English:34
+Description short _E: English:34
+
+START: 22
+Skill name: Dark reactor attack
+The specified name: アサシン
+Skill type: Ａスロット
+Icon type: Ｂアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 20
+Suicide:spearmen: 0
+Attack:cavalry: -20
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: Infantry Slayer+20% cavalry Slayer-20% ⏎opponent incapacitated to do the work even. For that weapon, and for power.
+Description short: 歩兵特効<#ffdd00>+20%<#ffffff>　騎兵特効<#ffdd00><#88aaff>-20%<#ffffff>　
+Skill name _E: skill40
+Description _E: English:40
+Description short _E: English:40
+
+START: 23
+Skill name: Melee complete
+The specified name: ソードマン
+Skill type: Ｂスロット
+Icon type: Ｃアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 20
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 20
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+20 spearmen Slayer+20% ⏎this General is in base to squarely plunge into a theater just raise the workmanship there.
+Description short: ATK<#ffdd00>+20<#ffffff>　槍兵特効<#ffdd00>+20%<#ffffff>　
+Skill name _E: skill3
+Description _E: English:3
+Description short _E: English:3
+
+START: 24
+Skill name: 散兵 Battle of DOS and don'ts
+The specified name: ハイロード
+Skill type: Ａスロット
+Icon type: Ｃアイコン
+Trigger conditions: 常時
+Conductor range: 1
+Commanding AT: 110
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: Command range+1 Command fix ATK+10% ⏎mobility, leveraging the base is stuck down on all friendly forces to strongly support the technology.
+Description short: 指揮範囲<#ffdd00>+1<#ffffff>　指揮修正ATK<#ffdd00>+10%<#ffffff>　
+Skill name _E: skill4
+Description _E: English:4
+Description short _E: English:4
+
+START: 25
+Skill name: Cut the assault to the Princess
+The specified name: ユニコーンナイト
+Skill type: Ａスロット
+Icon type: Ｃアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 110
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 20
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+20 command fix ATK+10% ⏎ferocious unicorn - - - - - - - - - - follow us on Twitter @ battlefield, stand at the forefront of the Princess to the officers and men love that.
+Description short: ATK<#ffdd00>+20<#ffffff>　指揮修正ATK<#ffdd00>+10%<#ffffff>　
+Skill name _E: skill14
+Description _E: English:14
+Description short _E: English:14
+
+START: 26
+Skill name: Assault medal
+The specified name: ハイランダー
+Skill type: Ｂスロット
+Icon type: Ｃアイコン
+Trigger conditions: 常時
+Conductor range: 1
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 20
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: DEF+20 command and+1 range ⏎enemy plunge into the veterans raised the relief to be applauded, given the Honor Medal.
+Description short: DEF<#ffdd00>+20<#ffffff>　指揮範囲<#ffdd00>+1<#ffffff>　
+Skill name _E: skill15
+Description _E: English:15
+Description short _E: English:15
+
+START: 27
+Skill name: 蜂矢 formation
+The specified name: ドラゴンナイト
+Skill type: Ｂスロット
+Icon type: Ｃアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 25
+DF: 0
+MAT: 0
+MDF: -20
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+25 MGR-20 ⏎Leo tells Were Soldiers at one point breaking through the enemy lines in fear and confusion and take.
+Description short: ATK<#ffdd00>+25<#ffffff>　MGR<#88aaff>-20<#ffffff>　
+Skill name _E: skill19
+Description _E: English:19
+Description short _E: English:19
+
+START: 28
+Skill name: Torrent down
+The specified name: サーペンナイト
+Skill type: Ｂスロット
+Icon type: Ｃアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 10
+MAT: 0
+MDF: 10
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 20
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: DEF+10 MGR+10 HP+20 ⏎it's a ride to the cataracts he moves ahead, whatever.
+Description short: DEF<#ffdd00>+10<#ffffff>　MGR<#ffdd00>+10<#ffffff>　HP<#ffdd00>+20<#ffffff>　
+Skill name _E: skill23
+Description _E: English:23
+Description short _E: English:23
+
+START: 29
+Skill name: Suppression
+The specified name: メイジ
+Skill type: Ａスロット
+Icon type: Ｃアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: -10
+MAT: 25
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 10
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: DEF-10 MAG+25 MP+10 ⏎March・suppression is friendly let. Anyway shot if the purpose is to play in......
+Description short: DEF<#88aaff>-10<#ffffff>　MAG<#ffdd00>+25<#ffffff>　MP<#ffdd00>+10<#ffffff>　
+Skill name _E: skill28
+Description _E: English:28
+Description short _E: English:28
+
+START: 30
+Skill name: The miasma of the wall
+The specified name: サモナー
+Skill type: Ｂスロット
+Icon type: Ｃアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 10
+MAT: 15
+MDF: 10
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 10
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: DEF+10 MAG+15 MGR+10 MP+10 ⏎necromancy was applied to the barrier. Action Force units morale will fall it.
+Description short: DEF<#ffdd00>+10<#ffffff>　MAG<#ffdd00>+15<#ffffff>　MGR<#ffdd00>+10<#ffffff>　MP<#ffdd00>+10<#ffffff>　
+Skill name _E: skill29
+Description _E: English:29
+Description short _E: English:29
+
+START: 31
+Skill name: A firm faith
+The specified name: セイント
+Skill type: Ｂスロット
+Icon type: Ｃアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 20
+MAT: 0
+MDF: 15
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 20
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: DEF+20 MGR+15 HP+20 ⏎sword nor bow nor magic nor to be afraid of, not enough. The last stand of faith is Strong who is.
+Description short: DEF<#ffdd00>+20<#ffffff>　MGR<#ffdd00>+15<#ffffff>　HP<#ffdd00>+20<#ffffff>　
+Skill name _E: skill35
+Description _E: English:35
+Description short _E: English:35
+
+START: 32
+Skill name: Charity of the heart
+The specified name: プリースト
+Skill type: Ａスロット
+Icon type: Ｃアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 110
+AT: 0
+DF: 0
+MAT: 0
+MDF: 20
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 5
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: MGR+20 MP+5 command fixes MGR+10% ⏎rough time,a miserable battlefield, if it's around the mind is required.
+Description short: MGR<#ffdd00>+20<#ffffff>　MP<#ffdd00>+5<#ffffff>⏎指揮修正MGR<#ffdd00>+10%<#ffffff>　
+Skill name _E: skill36
+Description _E: English:36
+Description short _E: English:36
+
+START: 33
+Skill name: 金城鉄壁
+The specified name: ジェネラル
+Skill type: Ｂスロット
+Icon type: Ｄアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 115
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 30
+MAT: 0
+MDF: 0
+The moving force: -1
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 20
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: DEF+30 MOV-1 conductor fixed DEF+15% cavalry Slayer+20% ⏎that 機鋒 any offensive force, flow,down an unexpected threat in the nick of time.
+Description short: DEF<#ffdd00>+30<#ffffff>　MOV<#88aaff>-1<#ffffff>⏎指揮修正DEF<#ffdd00>+15%<#ffffff>　騎兵特効<#ffdd00>+20%<#ffffff>　
+Skill name _E: skill5
+Description _E: English:5
+Description short _E: English:5
+
+START: 34
+Skill name: The sword of God Roar
+The specified name: ソードマスター
+Skill type: Ａスロット
+Icon type: Ｄアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 40
+DF: -30
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+40 DEF-30 ⏎to opportunity without any glitch. Promptly the enemy or destroy their supremacy proposition.
+Description short: ATK<#ffdd00>+40<#ffffff>　DEF<#88aaff>-30<#ffffff>　
+Skill name _E: skill6
+Description _E: English:6
+Description short _E: English:6
+
+START: 35
+Skill name: Knights of Honor
+The specified name: ナイトマスター
+Skill type: Ａスロット
+Icon type: Ｄアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 110
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 10
+MAT: 0
+MDF: 10
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: DEF+10 MGR+10 command fixed DEF+10% ⏎numerous battles through The grew up as a knight of consciousness,a more robust keep to realize.
+Description short: DEF<#ffdd00>+10<#ffffff>　MGR<#ffdd00>+10<#ffffff>⏎指揮修正DEF<#ffdd00>+10%<#ffffff>　
+Skill name _E: skill16
+Description _E: English:16
+Description short _E: English:16
+
+START: 36
+Skill name: Gale Manly, his
+The specified name: ドラゴンロード
+Skill type: Ａスロット
+Icon type: Ｄアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 20
+DF: 0
+MAT: 0
+MDF: -20
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 20
+Accuracy: 10
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+20 MGR-20 MP+20 DEX+10 ⏎it is a great relief to the enemy in like a storm blew up,and scorched earth spread.
+Description short: ATK<#ffdd00>+20<#ffffff>　MGR<#88aaff>-20<#ffffff>　MP<#ffdd00>+20<#ffffff>　DEX<#ffdd00>+10<#ffffff>　
+Skill name _E: skill20
+Description _E: English:20
+Description short _E: English:20
+
+START: 37
+Skill name: Atomic Energy
+The specified name: サーペンロード
+Skill type: Ａスロット
+Icon type: Ｄアイコン
+Trigger conditions: 常時
+Conductor range: 1
+Commanding AT: 110
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 20
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 20
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: Command range+1 Command fix ATK+10% sailor Slayer+20% monster water Slayer+20% ⏎land and is it of different water war by the high command capacity to the testimony.
+Description short: 指揮範囲<#ffdd00>+1<#ffffff>　指揮修正ATK<#ffdd00>+10%<#ffffff>⏎水兵特効<#ffdd00>+20%<#ffffff>　怪物水特効<#ffdd00>+20%<#ffffff>　
+Skill name _E: skill24
+Description _E: English:24
+Description short _E: English:24
+
+START: 38
+Skill name: Skull emblem
+The specified name: ザーヴェラー
+Skill type: Ａスロット
+Icon type: Ｄアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: -10
+MAT: 40
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: -30
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: DEF-10 MAG+40 HP-30 ⏎repellent that surgery is extremely If you can. The coat of arms of that testimony, and more.
+Description short: DEF<#88aaff>-10<#ffffff>　MAG<#ffdd00>+40<#ffffff>　HP<#88aaff>-30<#ffffff>　
+Skill name _E: skill30
+Description _E: English:30
+Description short _E: English:30
+
+START: 39
+Skill name: Mage of 碩学
+The specified name: アークメイジ
+Skill type: Ｂスロット
+Icon type: Ｄアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 20
+MDF: 30
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: -40
+Maximum MP: 20
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: MAG+20 MGR+30 HP-40 MP+20 ⏎better learn the fights well,for a deeper understanding you 碩学 with it.
+Description short: MAG<#ffdd00>+20<#ffffff>　MGR<#ffdd00>+30<#ffffff>　HP<#88aaff>-40<#ffffff>　MP<#ffdd00>+20<#ffffff>　
+Skill name _E: skill31
+Description _E: English:31
+Description short _E: English:31
+
+START: 40
+Skill name: Holy Shine
+The specified name: セージ
+Skill type: Ｂスロット
+Icon type: Ｄアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 10
+MAT: 20
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 20
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: DEF+10 MAG+20 MP+20 ⏎law and order, honoring the heart, the magic of the rise and in the light of the goddess and the blessing to bestow.
+Description short: DEF<#ffdd00>+10<#ffffff>　MAG<#ffdd00>+20<#ffffff>　MP<#ffdd00>+20<#ffffff>　
+Skill name _E: skill37
+Description _E: English:37
+Description short _E: English:37
+
+START: 41
+Skill name: The mystery of the veil
+The specified name: ハイプリースト
+Skill type: Ａスロット
+Icon type: Ｄアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 110
+AT: 0
+DF: 0
+MAT: 10
+MDF: 20
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: MAG+10 MGR+20 command fixes MGR+10% ⏎on the battlefield and even pray continually and not to the nature of it,the light of the goddess is smiling.
+Description short: MAG<#ffdd00>+10<#ffffff>　MGR<#ffdd00>+20<#ffffff>⏎指揮修正MGR<#ffdd00>+10%<#ffffff>　
+Skill name _E: skill38
+Description _E: English:38
+Description short _E: English:38
+
+START: 42
+Skill name: Covert mobile
+The specified name: レンジャー
+Skill type: Ｂスロット
+Icon type: Ｄアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 20
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 2
+Mercenary number of: -1
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+20 MOV+2 mercenaries number-1 ⏎put 1 in the battlefield for the enemy, after the back to push the commander to avenge the.
+Description short: ATK<#ffdd00>+20<#ffffff>　MOV<#ffdd00>+2<#ffffff>　傭兵数<#88aaff>-1<#ffffff>　
+Skill name _E: skill41
+Description _E: English:41
+Description short _E: English:41
+
+START: 43
+Skill name: Emperor of 威武
+The specified name: エンペラー
+Skill type: Ｂスロット
+Icon type: Ｅアイコン
+Trigger conditions: 常時
+Conductor range: 1
+Commanding AT: 125
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 20
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: -1
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+20 MOV-1 conductor range+1 Command fix ATK+25% ⏎it is the fear espoused, they are ideal for if you spare their lives, without the enemy cut from.
+Description short: ATK<#ffdd00>+20<#ffffff>　MOV<#88aaff>-1<#ffffff>⏎指揮範囲<#ffdd00>+1<#ffffff>　指揮修正ATK<#ffdd00>+25%<#ffffff>　
+Skill name _E: skill7
+Description _E: English:7
+Description short _E: English:7
+
+START: 44
+Skill name: King of Majesty
+The specified name: キング
+Skill type: Ａスロット
+Icon type: Ｅアイコン
+Trigger conditions: 常時
+Conductor range: 1
+Commanding AT: 0
+The command DF: 120
+Conductor MAT: 0
+Command MDF: 120
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: -1
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: MOV-1 conductor range+1 Command fix DEF+20% command fixes MGR+20% ⏎seek peace of the King patience, is the position lead the defense of the officers and men of loyalty are strongly evokes.
+Description short: MOV<#88aaff>-1<#ffffff>　指揮範囲<#ffdd00>+1<#ffffff>⏎指揮修正DEF<#ffdd00>+20%<#ffffff>⏎指揮修正MGR<#ffdd00>+20%<#ffffff>　
+Skill name _E: skill8
+Description _E: English:8
+Description short _E: English:8
+
+START: 45
+Skill name: Empress of encouragement
+The specified name: クィーン
+Skill type: Ｂスロット
+Icon type: Ｅアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 120
+The command DF: 110
+Conductor MAT: 0
+Command MDF: 0
+AT: 20
+DF: 0
+MAT: 30
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+20 MAG+30 Command fix ATK+20% command fixed DEF+10% ⏎soldiers line of sight and only rouse you. The defeat of the destination to death and.
+Description short: ATK<#ffdd00>+20<#ffffff>　MAG<#ffdd00>+30<#ffffff>⏎指揮修正ATK<#ffdd00>+20%<#ffffff>⏎指揮修正DEF<#ffdd00>+10%<#ffffff>　
+Skill name _E: skill9
+Description _E: English:9
+Description short _E: English:9
+
+START: 46
+Skill name: Of darkness protection
+The specified name: ダークプリンセス
+Skill type: Ａスロット
+Icon type: Ｅアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 125
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 25
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: MP+25 command fix ATK+25% ⏎Chaos God of him, and to accept the priestess's prayer, the officers and men to the destruction of power.
+Description short: MP<#ffdd00>+25<#ffffff>　指揮修正ATK<#ffdd00>+25%<#ffffff>　
+Skill name _E: skill10
+Description _E: English:10
+Description short _E: English:10
+
+START: 47
+Skill name: Courage
+The specified name: ヒーロー
+Skill type: Ｂスロット
+Icon type: Ｅアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 30
+DF: 30
+MAT: 0
+MDF: 0
+The moving force: 2
+Mercenary number of: -2
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 50
+Special effects: なし
+Description: ATK+30 DEF+30 MOV+2 mercenaries number-2 Dragon Slayer+50% ⏎predicament when faced with this,stronger power to produce soul Shine.
+Description short: ATK<#ffdd00>+30<#ffffff>　DEF<#ffdd00>+30<#ffffff>　MOV<#ffdd00>+2<#ffffff>⏎傭兵数<#88aaff>-2<#ffffff>　竜特効<#ffdd00>+50%<#ffffff>　
+Skill name _E: skill11
+Description _E: English:11
+Description short _E: English:11
+
+START: 48
+Skill name: Bright blessings
+The specified name: プリンセス
+Skill type: Ａスロット
+Icon type: Ｅアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 120
+Conductor MAT: 0
+Command MDF: 120
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 20
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: MP+20 command fixed DEF+20% command fixes MGR+20% ⏎light of the goddess to be blessed as a Shrine maiden prayers,the officers and men of that charity benefit.
+Description short: MP<#ffdd00>+20<#ffffff>　指揮修正DEF<#ffdd00>+20%<#ffffff>⏎指揮修正MGR<#ffdd00>+20%<#ffffff>　
+Skill name _E: skill12
+Description _E: English:12
+Description short _E: English:12
+
+START: 49
+Skill name: The Knights long and the size of the command
+The specified name: ロイヤルガード
+Skill type: Ｂスロット
+Icon type: Ｅアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 110
+The command DF: 110
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: -10
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 50
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: MGR-10 HP+50 command fix ATK+10% command fixed DEF+10% ⏎that the Scream is fear, hit pay,白刃 to exposing oneself with courage to the soldiers to give.
+Description short: MGR<#88aaff>-10<#ffffff>　HP<#ffdd00>+50<#ffffff>⏎指揮修正ATK<#ffdd00>+10%<#ffffff>⏎指揮修正DEF<#ffdd00>+10%<#ffffff>　
+Skill name _E: skill17
+Description _E: English:17
+Description short _E: English:17
+
+START: 50
+Skill name: 鎧袖一触
+The specified name: ドラゴンマスター
+Skill type: Ｂスロット
+Icon type: Ｅアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 50
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 10
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: -30
+Suicide:varistor: -10
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+50 DEX+10 bow Slayer-30% varistor Slayer-10% ⏎their enemies are 藁人形 no different. It is to withstand the attacks to those who don't.
+Description short: ATK<#ffdd00>+50<#ffffff>　DEX<#ffdd00>+10<#ffffff>　弓特効<#ffdd00><#88aaff>-30%<#ffffff>　バリスタ特効<#ffdd00><#88aaff>-10%<#ffffff>　
+Skill name _E: skill21
+Description _E: English:21
+Description short _E: English:21
+
+START: 51
+Skill name: Offshore of the devil
+The specified name: サーペンマスター
+Skill type: Ｂスロット
+Icon type: Ｅアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 20
+MAT: 20
+MDF: 20
+The moving force: 1
+Mercenary number of: -1
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: DEF+20 MAG+20 MGR+20 MOV+1 mercenary number-1 ⏎water to have enemies who, in the ages of some who fear that the great warrior of the title.
+Description short: DEF<#ffdd00>+20<#ffffff>　MAG<#ffdd00>+20<#ffffff>　MGR<#ffdd00>+20<#ffffff>　MOV<#ffdd00>+1<#ffffff>　傭兵数<#88aaff>-1<#ffffff>　
+Skill name _E: skill25
+Description _E: English:25
+Description short _E: English:25
+
+START: 52
+Skill name: Mage of the secret
+The specified name: ウィザード
+Skill type: Ａスロット
+Icon type: Ｅアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 40
+MDF: 20
+The moving force: 0
+Mercenary number of: -1
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: MAG+40 MGR+20 mercenary number-1 ⏎nature of truth and that led to you and her schoolmates may not be necessary.
+Description short: MAG<#ffdd00>+40<#ffffff>　MGR<#ffdd00>+20<#ffffff>　傭兵数<#88aaff>-1<#ffffff>　
+Skill name _E: skill32
+Description _E: English:32
+Description short _E: English:32
+
+START: 53
+Skill name: The dark greater magic
+The specified name: ダークマスター
+Skill type: Ｂスロット
+Icon type: Ｅアイコン
+Trigger conditions: 常時
+Conductor range: 1
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 50
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: -20
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: MAG+50 command range+1 Monk Slayer-20% ⏎all up I got this power even if no longer ideal also the honor to do what I wanted to.
+Description short: MAG<#ffdd00>+50<#ffffff>　指揮範囲<#ffdd00>+1<#ffffff>⏎僧侶特効<#ffdd00><#88aaff>-20%<#ffffff>　
+Skill name _E: skill33
+Description _E: English:33
+Description short _E: English:33
+
+START: 54
+Skill name: The Angels of heaven
+The specified name: エージェント
+Skill type: Ｂスロット
+Icon type: Ｅアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 20
+MAT: 30
+MDF: 20
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: DEF+20 MAG+30 MGR+20 ⏎light of the goddess of delegator as a world recognized certificate. You do the goddess's will.
+Description short: DEF<#ffdd00>+20<#ffffff>　MAG<#ffdd00>+30<#ffffff>　MGR<#ffdd00>+20<#ffffff>　
+Skill name _E: skill39
+Description _E: English:39
+Description short _E: English:39
+
+START: 55
+Skill name: Ikki
+The specified name: ハイマスター
+Skill type: Ａスロット
+Icon type: Ｅアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 20
+DF: 20
+MAT: 20
+MDF: 20
+The moving force: 0
+Mercenary number of: -2
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 10
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+20 DEF+20 MAG+20 MGR+20 DEX+10 mercenary number-2 ⏎or under, but tempered through his own force that is on the battlefield Yuuhi by.
+Description short: ATK<#ffdd00>+20<#ffffff>　DEF<#ffdd00>+20<#ffffff>　MAG<#ffdd00>+20<#ffffff>　MGR<#ffdd00>+20<#ffffff>　DEX<#ffdd00>+10<#ffffff>　傭兵数<#88aaff>-2<#ffffff>　
+Skill name _E: skill42
+Description _E: English:42
+Description short _E: English:42
+
+START: 56
+Skill name: Gel body
+The specified name: 未定
+Skill type: Ｂスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: Especially without⏎details are unclear‥‥
+Description short: 特になし
+Skill name _E: skill43
+Description _E: English:43
+Description short _E: English:43
+
+START: 57
+Skill name: 獣性 awakening
+The specified name: ウェアウルフ
+Skill type: Ａスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 110
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 10
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 20
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+10 HP+20 command fix ATK+10% ⏎blood and meat for the spring to urge their wisdom to discard it.
+Description short: ATK<#ffdd00>+10<#ffffff>　HP<#ffdd00>+20<#ffffff>⏎指揮修正ATK<#ffdd00>+10%<#ffffff>　
+Skill name _E: skill50
+Description _E: English:50
+Description short _E: English:50
+
+START: 58
+Skill name: Vamp invites
+The specified name: スキュラ
+Skill type: Ｂスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 110
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 10
+MAT: 0
+MDF: 10
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 5
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: DEF+10 MGR+10 AGL+5 command fixed DEF+10% ⏎color and scent in the deception, and bought a feed to eat. For effort just to live a simple surgery.
+Description short: DEF<#ffdd00>+10<#ffffff>　MGR<#ffdd00>+10<#ffffff>　AGL<#ffdd00>+5<#ffffff>⏎指揮修正DEF<#ffdd00>+10%<#ffffff>　
+Skill name _E: skill63
+Description _E: English:63
+Description short _E: English:63
+
+START: 59
+Skill name: Knowledge craving
+The specified name: リッチ
+Skill type: Ｂスロット
+Icon type: Ｂアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 20
+MDF: 15
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: -20
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: MAG+20 MGR+15 HP-20 ⏎physical presence is not a problem. Seek knowledge this soul even burn it.
+Description short: MAG<#ffdd00>+20<#ffffff>　MGR<#ffdd00>+15<#ffffff>　HP<#88aaff>-20<#ffffff>　
+Skill name _E: skill47
+Description _E: English:47
+Description short _E: English:47
+
+START: 60
+Skill name: The beast of war cry
+The specified name: ケルベロス
+Skill type: Ａスロット
+Icon type: Ｂアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 20
+DF: -10
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 20
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+20 DEF-10 spearmen Slayer+20% ⏎Body 1 at the head 3 One. Each devoured so being hungry is not met.
+Description short: ATK<#ffdd00>+20<#ffffff>　DEF<#88aaff>-10<#ffffff>　槍兵特効<#ffdd00>+20%<#ffffff>　
+Skill name _E: skill48
+Description _E: English:48
+Description short _E: English:48
+
+START: 61
+Skill name: 海嘯 assault
+The specified name: サーペント
+Skill type: Ｂスロット
+Icon type: Ｂアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 110
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 15
+DF: 10
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+15 DEF+10 command fix ATK+10% ⏎Coast sand and driftwood and sea serpent lunges,easily stop any.
+Description short: ATK<#ffdd00>+15<#ffffff>　DEF<#ffdd00>+10<#ffffff>⏎指揮修正ATK<#ffdd00>+10%<#ffffff>　
+Skill name _E: skill51
+Description _E: English:51
+Description short _E: English:51
+
+START: 62
+Skill name: Revenge of the sword
+The specified name: デュラハン
+Skill type: Ａスロット
+Icon type: Ｂアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 20
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: -10
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 20
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+20 MP-10 Infantry Slayer+20% ⏎flesh and blood, lost the body, and the sword of the destination, ranging from anger and resentment was imbued.
+Description short: ATK<#ffdd00>+20<#ffffff>　MP<#88aaff>-10<#ffffff>　歩兵特効<#ffdd00>+20%<#ffffff>　
+Skill name _E: skill56
+Description _E: English:56
+Description short _E: English:56
+
+START: 63
+Skill name: 怨嗟 armor
+The specified name: リビングアーマー
+Skill type: Ａスロット
+Icon type: Ｃアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 20
+DF: 20
+MAT: 0
+MDF: 20
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: -10
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+20 DEF+20 MGR+20 AGL-10 ⏎proud was definitely the armor of The Grudge and be more solid I have no idea what you are talking about.
+Description short: ATK<#ffdd00>+20<#ffffff>　DEF<#ffdd00>+20<#ffffff>　MGR<#ffdd00>+20<#ffffff>　AGL<#88aaff>-10<#ffffff>　
+Skill name _E: skill44
+Description _E: English:44
+Description short _E: English:44
+
+START: 64
+Skill name: The scorching blades
+The specified name: フェニックス
+Skill type: Ｂスロット
+Icon type: Ｃアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: -20
+MAT: 20
+MDF: 20
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 20
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: DEF-20 MAG+20 MGR+20 MP+20 ⏎sun, burning its wings, so each piece is strong magic is tinged with that.
+Description short: DEF<#88aaff>-20<#ffffff>　MAG<#ffdd00>+20<#ffffff>　MGR<#ffdd00>+20<#ffffff>　MP<#ffdd00>+20<#ffffff>　
+Skill name _E: skill53
+Description _E: English:53
+Description short _E: English:53
+
+START: 65
+Skill name: The ecstasy of the feast
+The specified name: サキュバス
+Skill type: Ｂスロット
+Icon type: Ｃアイコン
+Trigger conditions: 常時
+Conductor range: 1
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 110
+AT: 0
+DF: 0
+MAT: 20
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 10
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: MAG+20 AGL+10 command range+1 Command fixes MGR+10% ⏎the human spirit to withstand or temptation. 虜囚 and dying adventurers countless.
+Description short: MAG<#ffdd00>+20<#ffffff>　AGL<#ffdd00>+10<#ffffff>　指揮範囲<#ffdd00>+1<#ffffff>　指揮修正MGR<#ffdd00>+10%<#ffffff>　
+Skill name _E: skill59
+Description _E: English:59
+Description short _E: English:59
+
+START: 66
+Skill name: Raging touch arm
+The specified name: クラーケン
+Skill type: Ａスロット
+Icon type: Ｃアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 20
+DF: 15
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 10
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 20
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+20 DEF+15 DEX+10 sailors Slayer+20% ⏎from all sides the speed and not even slow their arm sailor even easier to fold.
+Description short: ATK<#ffdd00>+20<#ffffff>　DEF<#ffdd00>+15<#ffffff>　DEX<#ffdd00>+10<#ffffff>⏎水兵特効<#ffdd00>+20%<#ffffff>　
+Skill name _E: skill62
+Description _E: English:62
+Description short _E: English:62
+
+START: 67
+Skill name: 猛進
+The specified name: ミノタウロス
+Skill type: Ａスロット
+Icon type: Ｃアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 40
+DF: -20
+MAT: 0
+MDF: -20
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 40
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+40 DEF-20 MGR-20 HP+40 ⏎powerfully, as if he was about to burst of the muscles of the explosive throb. But before any wall with the Shield also helpless.
+Description short: ATK<#ffdd00>+40<#ffffff>　DEF<#88aaff>-20<#ffffff>　MGR<#88aaff>-20<#ffffff>　HP<#ffdd00>+40<#ffffff>　
+Skill name _E: skill64
+Description _E: English:64
+Description short _E: English:64
+
+START: 68
+Skill name: Maybe him
+The specified name: ストーンゴーレム
+Skill type: Ｂスロット
+Icon type: Ｄアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 20
+DF: -10
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 20
+Suicide:spearmen: 0
+Attack:cavalry: 20
+Suicide:jump infantry: -20
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+20 DEF-10 Infantry Slayer+20% cavalry Slayer+20% fly soldier Slayer-20% ⏎all began for one of the most famous video is unnecessary. Power left arm and wielding the their best behavior.
+Description short: ATK<#ffdd00>+20<#ffffff>　DEF<#88aaff>-10<#ffffff>　歩兵特効<#ffdd00>+20%<#ffffff>　騎兵特効<#ffdd00>+20%<#ffffff>　飛兵特効<#ffdd00><#88aaff>-20%<#ffffff>　
+Skill name _E: skill45
+Description _E: English:45
+Description short _E: English:45
+
+START: 69
+Skill name: Struggle instinct
+The specified name: マスターディーノ
+Skill type: Ｂスロット
+Icon type: Ｄアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 30
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 1
+Mercenary number of: -1
+Maximum HP: 40
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+30 MOV+1 HP+40 mercenary number-1 ⏎prey to keep you tearing pleasure. Otherwise it is not interested in you, and to think I really.
+Description short: ATK<#ffdd00>+30<#ffffff>　MOV<#ffdd00>+1<#ffffff>　HP<#ffdd00>+40<#ffffff>⏎傭兵数<#88aaff>-1<#ffffff>　
+Skill name _E: skill49
+Description _E: English:49
+Description short _E: English:49
+
+START: 70
+Skill name: Immortal King's command
+The specified name: バンパイアロード
+Skill type: Ｂスロット
+Icon type: Ｄアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 115
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 20
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 20
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: MAG+20 MP+20 command fix ATK+15% ⏎pain, terror, without feeling the undead king because he is the living attacked.
+Description short: MAG<#ffdd00>+20<#ffffff>　MP<#ffdd00>+20<#ffffff>⏎指揮修正ATK<#ffdd00>+15%<#ffffff>　
+Skill name _E: skill57
+Description _E: English:57
+Description short _E: English:57
+
+START: 71
+Skill name: RYUO scales
+The specified name: グレートドラゴン
+Skill type: Ａスロット
+Icon type: Ｄアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 30
+MAT: 0
+MDF: 30
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: -5
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: DEF+30 MGR+30 AGL-5 ⏎wicked Dragon, demon and the strongest for that reason extraordinary that the strength scales to the need.
+Description short: DEF<#ffdd00>+30<#ffffff>　MGR<#ffdd00>+30<#ffffff>　AGL<#88aaff>-5<#ffffff>　
+Skill name _E: skill60
+Description _E: English:60
+Description short _E: English:60
+
+START: 72
+Skill name: God killed a group of teenagers including Cindy
+The specified name: イェルムンガルド
+Skill type: Ｂスロット
+Icon type: Ｄアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 30
+DF: 20
+MAT: 0
+MDF: -20
+The moving force: 0
+Mercenary number of: -1
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+30 DEF+20 MGR-20 mercenary number-1 ⏎bulk to use for tightening, and then fall a victim to God even destroyed will.
+Description short: ATK<#ffdd00>+30<#ffffff>　DEF<#ffdd00>+20<#ffffff>　MGR<#88aaff>-20<#ffffff>⏎傭兵数<#88aaff>-1<#ffffff>　
+Skill name _E: skill61
+Description _E: English:61
+Description short _E: English:61
+
+START: 73
+Skill name: HP recovery (small)
+The specified name: ＨＰ回復（小）
+Skill type: Ａスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: ＨＰ回復（小）
+Description: Special effects HP recovery (small) ⏎every turn HP20%recovery
+Description short: 特殊効果ＨＰ回復（小）<#ffffff>　
+Skill name _E: skill46
+Description _E: English:46
+Description short _E: English:46
+
+START: 74
+Skill name: HP recovery (large)
+The specified name: ＨＰ回復（大）
+Skill type: Ａスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: ＨＰ回復（大）
+Description: Special effects HP recovery (large) ⏎every turn HP40%recovery
+Description short: 特殊効果ＨＰ回復（大）<#ffffff>　
+Skill name _E: skill52
+Description _E: English:52
+Description short _E: English:52
+
+START: 75
+Skill name: MP recovery (small)
+The specified name: ＭＰ回復（小）
+Skill type: Ａスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: ＭＰ回復（小）
+Description: Effects MP recovery (small) ⏎every turn MP10 recovery
+Description short: 特殊効果ＭＰ回復（小）<#ffffff>　
+Skill name _E: skill54
+Description _E: English:54
+Description short _E: English:54
+
+START: 76
+Skill name: MP recovery (large)
+The specified name: ＭＰ回復（大）
+Skill type: Ｂスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: ＭＰ回復（大）
+Description: Effects MP recovery (large) ⏎every turn MP20 recovery
+Description short: 特殊効果ＭＰ回復（大）<#ffffff>　
+Skill name _E: skill55
+Description _E: English:55
+Description short _E: English:55
+
+START: 77
+Skill name: MP consumption halved 
+The specified name: ＭＰ消費半減 
+Skill type: Ａスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: ＭＰ消費半減 
+Description: Special effects, MP consumption halved ⏎consumption MP halved
+Description short: 特殊効果ＭＰ消費半減 <#ffffff>　
+Skill name _E: skill58
+Description _E: English:58
+Description short _E: English:58
+
+START: 78
+Skill name: Skills 78:
+The specified name: スキル78：
+Skill type: Ａスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: Especially without⏎details are unclear‥‥
+Description short: 特になし
+Skill name _E: skill66
+Description _E: English:66
+Description short _E: English:66
+
+START: 79
+Skill name: Skill 79:
+The specified name: スキル79：
+Skill type: Ｂスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: Especially without⏎details are unclear‥‥
+Description short: 特になし
+Skill name _E: skill65
+Description _E: English:65
+Description short _E: English:65
+
+START: 80
+Skill name: Skill 80:
+The specified name: スキル80：
+Skill type: Ｂスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: Especially without⏎details are unclear‥‥
+Description short: 特になし
+Skill name _E: skill67
+Description _E: English:67
+Description short _E: English:67
+
+START: 81
+Skill name: Skills 81:
+The specified name: スキル81：
+Skill type: Ａスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: Especially without⏎details are unclear‥‥
+Description short: 特になし
+Skill name _E: skill68
+Description _E: English:68
+Description short _E: English:68
+
+START: 82
+Skill name: Skill 82:
+The specified name: スキル82：
+Skill type: Ｂスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: Especially without⏎details are unclear‥‥
+Description short: 特になし
+Skill name _E: skill69
+Description _E: English:69
+Description short _E: English:69
+
+START: 83
+Skill name: Skill 83:
+The specified name: スキル83：
+Skill type: Ａスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: Especially without⏎details are unclear‥‥
+Description short: 特になし
+Skill name _E: skill70
+Description _E: English:70
+Description short _E: English:70
+
+START: 84
+Skill name: Skill 84:
+The specified name: スキル84：
+Skill type: Ｂスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: Especially without⏎details are unclear‥‥
+Description short: 特になし
+Skill name _E: skill71
+Description _E: English:71
+Description short _E: English:71
+
+START: 85
+Skill name: Skills 85:
+The specified name: スキル85：
+Skill type: Ａスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: Especially without⏎details are unclear‥‥
+Description short: 特になし
+Skill name _E: skill72
+Description _E: English:72
+Description short _E: English:72
+
+START: 86
+Skill name: Skill 86:
+The specified name: スキル86：
+Skill type: Ｂスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: Especially without⏎details are unclear‥‥
+Description short: 特になし
+Skill name _E: skill73
+Description _E: English:73
+Description short _E: English:73
+
+START: 87
+Skill name: Skill 87:
+The specified name: スキル87：
+Skill type: Ａスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: Especially without⏎details are unclear‥‥
+Description short: 特になし
+Skill name _E: skill74
+Description _E: English:74
+Description short _E: English:74
+
+START: 88
+Skill name: Skill 88:
+The specified name: スキル88：
+Skill type: Ｂスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: Especially without⏎details are unclear‥‥
+Description short: 特になし
+Skill name _E: skill75
+Description _E: English:75
+Description short _E: English:75
+
+START: 89
+Skill name: Skills 89:
+The specified name: スキル89：
+Skill type: Ｂスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 1
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: DEX+1 ⏎details are unclear‥‥
+Description short: DEX<#ffdd00>+1<#ffffff>　
+Skill name _E: skill89
+Description _E: English:89
+Description short _E: English:89
+
+START: 90
+Skill name: Skills 90:
+The specified name: スキル90：
+Skill type: Ａスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 1
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: DEX+1 ⏎details are unclear‥‥
+Description short: DEX<#ffdd00>+1<#ffffff>　
+Skill name _E: skill90
+Description _E: English:90
+Description short _E: English:90
+
+START: 91
+Skill name: Skills 91:
+The specified name: スキル91：
+Skill type: Ａスロット
+Icon type: Ａアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 1
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: DEX+1 ⏎details are unclear‥‥
+Description short: DEX<#ffdd00>+1<#ffffff>　
+Skill name _E: skill91
+Description _E: English:91
+Description short _E: English:91
+
+START: 92
+Skill name: Barrel
+The specified name: 香箱
+Skill type: Ｂスロット
+Icon type: Ｅアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: -30
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 1
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: MOV-30 DEX+1 ⏎details are unclear‥‥
+Description short: MOV<#88aaff>-30<#ffffff>　DEX<#ffdd00>+1<#ffffff>　
+Skill name _E: skill92
+Description _E: English:92
+Description short _E: English:92
+
+START: 93
+Skill name: The air three times roll
+The specified name: 空中三回転
+Skill type: Ｂスロット
+Icon type: Ｅアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 500
+MAT: 0
+MDF: 500
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 500
+Avoid: 500
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: DEF+500 MGR+500 DEX+500 AGL+500 ⏎details are unclear‥‥
+Description short: DEF<#ffdd00>+500<#ffffff>　MGR<#ffdd00>+500<#ffffff>　DEX<#ffdd00>+500<#ffffff>　AGL<#ffdd00>+500<#ffffff>　
+Skill name _E: skill93
+Description _E: English:93
+Description short _E: English:93
+
+START: 94
+Skill name: This beard
+The specified name: ねこのひげ
+Skill type: Ｂスロット
+Icon type: Ｅアイコン
+Trigger conditions: 常時
+Conductor range: 4
+Commanding AT: 300
+The command DF: 400
+Conductor MAT: 200
+Command MDF: 400
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: Command range+4 command fix ATK+200% command fixed DEF+300% command fixed MAG+100% command fixes MGR+300% ⏎details are unclear‥‥
+Description short: 指揮範囲<#ffdd00>+4<#ffffff>　指揮修正ATK<#ffdd00>+200%<#ffffff>　指揮修正DEF<#ffdd00>+300%<#ffffff>　指揮修正MAG<#ffdd00>+100%<#ffffff>　指揮修正MGR<#ffdd00>+300%<#ffffff>　
+Skill name _E: skill94
+Description _E: English:94
+Description short _E: English:94
+
+START: 95
+Skill name: Meat ball
+The specified name: 肉球
+Skill type: Ｂスロット
+Icon type: Ｅアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 30
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: MOV+30 ⏎details are unclear‥‥
+Description short: MOV<#ffdd00>+30<#ffffff>　
+Skill name _E: skill95
+Description _E: English:95
+Description short _E: English:95
+
+START: 96
+Skill name: White cat hand
+The specified name: 白ねこの手
+Skill type: Ｂスロット
+Icon type: Ｅアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 500
+DF: 500
+MAT: 500
+MDF: 500
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+500 DEF+500 MAG+500 MGR+500 ⏎details are unclear‥‥
+Description short: ATK<#ffdd00>+500<#ffffff>　DEF<#ffdd00>+500<#ffffff>　MAG<#ffdd00>+500<#ffffff>　MGR<#ffdd00>+500<#ffffff>　
+Skill name _E: skill96
+Description _E: English:96
+Description short _E: English:96
+
+START: 97
+Skill name: Black cat hand
+The specified name: 黒ねこの手
+Skill type: Ａスロット
+Icon type: Ｅアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 500
+Maximum MP: 100
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: HP+500 MP+100 ⏎details are unclear‥‥
+Description short: HP<#ffdd00>+500<#ffffff>　MP<#ffdd00>+100<#ffffff>　
+Skill name _E: skill97
+Description _E: English:97
+Description short _E: English:97
+
+START: 98
+Skill name: Service
+The specified name: バジリスク用石化
+Skill type: Ａスロット
+Icon type: Ｅアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 0
+DF: 0
+MAT: 0
+MDF: 0
+The moving force: 0
+Mercenary number of: 0
+Maximum HP: 0
+Maximum MP: 0
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: 石化
+Description: Special effects petrified ⏎details are unclear‥‥
+Description short: 特殊効果石化<#ffffff>　
+Skill name _E: skill98
+Description _E: English:98
+Description short _E: English:98
+
+START: 99
+Skill name: Debugging enhancement
+The specified name: デバッグ強化
+Skill type: Ａスロット
+Icon type: Ｅアイコン
+Trigger conditions: 常時
+Conductor range: 0
+Commanding AT: 0
+The command DF: 0
+Conductor MAT: 0
+Command MDF: 0
+AT: 500
+DF: 500
+MAT: 0
+MDF: 0
+The moving force: 30
+Mercenary number of: 0
+Maximum HP: 500
+Maximum MP: 500
+Accuracy: 0
+Avoid: 0
+Attack:infantry: 0
+Suicide:spearmen: 0
+Attack:cavalry: 0
+Suicide:jump infantry: 0
+The Commando:a sailor who: 0
+Attack:Wizard: 0
+Suicide:the monk: 0
+Commando:bandits: 0
+Suicide:野伏: 0
+Suicide:bow: 0
+Suicide:varistor: 0
+Suicide:the Asmodians: 0
+Suicide:immortality: 0
+Study:high-level immortality: 0
+Attack:Monster gel: 0
+Attack:Monster Land: 0
+Attack:monster water: 0
+Attack:Monster fly: 0
+Suicide:the spirits: 0
+Attack:Dragon: 0
+Special effects: なし
+Description: ATK+500 DEF+500 MOV+30 HP+500 MP+500 ⏎details are unclear‥‥
+Description short: ATK<#ffdd00>+500<#ffffff>　DEF<#ffdd00>+500<#ffffff>　MOV<#ffdd00>+30<#ffffff>　HP<#ffdd00>+500<#ffffff>　MP<#ffdd00>+500<#ffffff>　
+Skill name _E: skill99
+Description _E: English:99
+Description short _E: English:99
+
+START: END
+
