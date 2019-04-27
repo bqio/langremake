@@ -1,0 +1,2210 @@
+START: 0
+Attribute: 説明
+Option 1: -
+Option 2: -
+Option 3: -
+The following questions 1: 0
+The following Question 2: 0
+The next question 3: 0
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_1000
+Question: El Sarria welcome to. My name is in the system.⏎ On the ground in the light of the goddess being referred to.
+Questions _E: English:0
+
+START: 1
+Attribute: 説明
+Option 1: -
+Option 2: -
+Option 3: -
+The following questions 1: 0
+The following Question 2: 0
+The next question 3: 0
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_1010
+Question: Now, this world is darkness, the threat of more on the way.
+Questions _E: English:1
+
+START: 2
+Attribute: 説明
+Option 1: -
+Option 2: -
+Option 3: -
+The following questions 1: 0
+The following Question 2: 0
+The next question 3: 0
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_1020
+Question: So I was⏎like you courageous, but it's in......
+Questions _E: English:2
+
+START: 3
+Attribute: 説明
+Option 1: -
+Option 2: -
+Option 3: -
+The following questions 1: 0
+The following Question 2: 0
+The next question 3: 0
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_1030
+Question: You really want to save this world whether we try for⏎this from some questions.
+Questions _E: English:3
+
+START: 4
+Attribute: ラング１説明
+Option 1: -
+Option 2: -
+Option 3: -
+The following questions 1: 10
+The following Question 2: 0
+The next question 3: 0
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_1040
+Question: It is the body. Answer my question please.
+Questions _E: English:4
+
+START: 5
+Attribute: ラング２説明
+Option 1: -
+Option 2: -
+Option 3: -
+The following questions 1: 6
+The following Question 2: 0
+The next question 3: 0
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_1050
+Question: It is the active application. Answer my question please.
+Questions _E: English:5
+
+START: 6
+Attribute: 質問
+Option 1: 後退する
+Option 2: 防御する
+Option 3: 反撃する
+The following questions 1: 7
+The following Question 2: 8
+The next question 3: 9
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 1
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 1
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_0010
+Question: Supplies of replenishing the enemy to a surprise attack as well.⏎ Without you, what would you do?
+Questions _E: English:6
+
+START: 7
+Attribute: 質問
+Option 1: 存在しない
+Option 2: 天上の世界
+Option 3: 己の心の中
+The following questions 1: 10
+The following Question 2: 10
+The next question 3: 8
+Skills A1: 1
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 1
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 1
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_0020
+Question: God Where do you think?
+Questions _E: English:7
+
+START: 8
+Attribute: 質問
+Option 1: 破壊力
+Option 2: 統率力
+Option 3: 機動力
+The following questions 1: 11
+The following Question 2: 11
+The next question 3: 9
+Skills A1: 1
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 1
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 1
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_0030
+Question: Invincible troops for⏎you are the most important think is what?
+Questions _E: English:8
+
+START: 9
+Attribute: 質問
+Option 1: 海の香のする潮風
+Option 2: やわらかな春の息吹
+Option 3: さわやかなそよ風
+The following questions 1: 12
+The following Question 2: 12
+The next question 3: 12
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_0040
+Question: The following of your favorite things?
+Questions _E: English:9
+
+START: 10
+Attribute: 質問
+Option 1: 偉大なる神々
+Option 2: 豊かな知識
+Option 3: 己の力
+The following questions 1: 13
+The following Question 2: 14
+The next question 3: 15
+Skills A1: 0
+Skills B1: 0
+Skills C1: 1
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 1
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 1
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 1
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_0050
+Question: The world is the ruin of the crisis, when we save things?
+Questions _E: English:10
+
+START: 11
+Attribute: 質問
+Option 1: 十分な兵力
+Option 2: 完全なる統制
+Option 3: 高い士気
+The following questions 1: 14
+The following Question 2: 15
+The next question 3: 16
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 10
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_0060
+Question: Your command of the forces to seek?
+Questions _E: English:11
+
+START: 12
+Attribute: 質問
+Option 1: 軍隊より己の力が重要
+Option 2: 鉄壁の守り
+Option 3: 敵を粉砕する破壊力
+The following questions 1: 15
+The following Question 2: 16
+The next question 3: 17
+Skills A1: 1
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 1
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 1
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 1
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 1
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 1
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_0070
+Question: As such the ability to an excellent Army ideals as you?
+Questions _E: English:12
+
+START: 13
+Attribute: 質問
+Option 1: 邪悪なる敵
+Option 2: 崇拝の対象
+Option 3: 取るに足りない存在
+The following questions 1: 18
+The following Question 2: 19
+The next question 3: 20
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 1
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 10
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 1
+Skill B3: 1
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_0080
+Question: Of darkness against whom you have the image?
+Questions _E: English:13
+
+START: 14
+Attribute: 質問
+Option 1: 愛する人を守るため
+Option 2: 己を高めるため
+Option 3: 夢をかなえるため
+The following questions 1: 18
+The following Question 2: 19
+The next question 3: 20
+Skills A1: 0
+Skills B1: 0
+Skills C1: 1
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 1
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 1
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 1
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 1
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_0090
+Question: You are in this world,for what is life going to be?
+Questions _E: English:14
+
+START: 15
+Attribute: 質問
+Option 1: 退却を命じる
+Option 2: 援軍を呼び、防戦する
+Option 3: 偵察部隊を助けに行く
+The following questions 1: 19
+The following Question 2: 20
+The next question 3: 21
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 10
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 1
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 1
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_0100
+Question: Now,ally's Scout troop is besieged it.⏎ However, your troops are also at risk.⏎ You are a commando for instructions as to how to do?
+Questions _E: English:15
+
+START: 16
+Attribute: 質問
+Option 1: 知識
+Option 2: 富
+Option 3: 権力
+The following questions 1: 20
+The following Question 2: 21
+The next question 3: 22
+Skills A1: 0
+Skills B1: 0
+Skills C1: 1
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 10
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 1
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_0110
+Question: Your life to seek what?
+Questions _E: English:16
+
+START: 17
+Attribute: 質問
+Option 1: 人々を守るため
+Option 2: 全てを支配するため
+Option 3: 正義を貫くため
+The following questions 1: 20
+The following Question 2: 21
+The next question 3: 22
+Skills A1: 0
+Skills B1: 0
+Skills C1: 1
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 1
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 1
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 1
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_0120
+Question: Mighty power was to hand at the time, what do you do for that power to use?
+Questions _E: English:17
+
+START: 18
+Attribute: 質問
+Option 1: 与え合うもの
+Option 2: 受けるもの
+Option 3: 無限の力のみなもと
+The following questions 1: 23
+The following Question 2: 23
+The next question 3: 23
+Skills A1: 0
+Skills B1: 1
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 1
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 1
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_0130
+Question: Your love and like?
+Questions _E: English:18
+
+START: 19
+Attribute: 質問
+Option 1: 愛と希望と勇気
+Option 2: 意のままに生きる自由
+Option 3: 秩序ある統一
+The following questions 1: 23
+The following Question 2: 23
+The next question 3: 23
+Skills A1: 0
+Skills B1: 1
+Skills C1: 0
+Skills D1: 0
+Item A1: 1
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 1
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 1
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_0140
+Question: You are to this world what you want is what?
+Questions _E: English:19
+
+START: 20
+Attribute: 質問
+Option 1: カリスマ
+Option 2: 決断力
+Option 3: 実行力
+The following questions 1: 23
+The following Question 2: 23
+The next question 3: 23
+Skills A1: 0
+Skills B1: 1
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 1
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 1
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_0150
+Question: The country to cure those who reject our signs, - them shall punishment touch, for that they need the ability?
+Questions _E: English:20
+
+START: 21
+Attribute: 質問
+Option 1: 不屈の精神
+Option 2: 統率力
+Option 3: 勇気
+The following questions 1: 23
+The following Question 2: 23
+The next question 3: 23
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 1
+Item A1: 0
+Item B1: 0
+Item C1: 1
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 1
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 1
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_0160
+Question: Heroes to think of is what?
+Questions _E: English:21
+
+START: 22
+Attribute: 質問
+Option 1: 全てをつつみ込む愛
+Option 2: 熱き魂
+Option 3: はがねのごとき肉体
+The following questions 1: 23
+The following Question 2: 23
+The next question 3: 23
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 1
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 1
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 1
+Item A3: 0
+Item B3: 0
+Item C3: 1
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_0170
+Question: Man!
+Questions _E: English:22
+
+START: 23
+Attribute: 質問
+Option 1: 豊富な戦術知識
+Option 2: 冷静な判断力
+Option 3: 強大な力
+The following questions 1: 24
+The following Question 2: 24
+The next question 3: 24
+Skills A1: 0
+Skills B1: 0
+Skills C1: 1
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 1
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 1
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_0180
+Question: The battle began when,on your own, for in its capacity is what?
+Questions _E: English:23
+
+START: 24
+Attribute: 質問
+Option 1: 少数精鋭
+Option 2: 個人の力は弱いが大部隊
+Option 3: 自分一人で十分
+The following questions 1: 25
+The following Question 2: 25
+The next question 3: 25
+Skills A1: 1
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 1
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 1
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_0190
+Question: You can create your ideal squad look like?
+Questions _E: English:24
+
+START: 25
+Attribute: 質問
+Option 1: 名誉を得るため
+Option 2: 祖国を守るため
+Option 3: 愛する人を守るため
+The following questions 1: -1
+The following Question 2: -1
+The next question 3: -1
+Skills A1: 0
+Skills B1: 1
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 1
+Item B2: 0
+Item C2: 1
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 1
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 1
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: lang_lusiris_question_0200
+Question: Finally, what do you fight for it?
+Questions _E: English:25
+
+START: 26
+Attribute: 説明
+Option 1: ラング１体験版用
+Option 2: -
+Option 3: -
+The following questions 1: 0
+The following Question 2: 0
+The next question 3: 0
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: -
+Question: Trial welcome.⏎ My name is in the system. On the ground in the light of the goddess being referred to.
+Questions _E: English:26
+
+START: 27
+Attribute: 説明
+Option 1: ラング１体験版用
+Option 2: -
+Option 3: -
+The following questions 1: 0
+The following Question 2: 0
+The next question 3: 0
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: -
+Question: In this mode,⏎"the I"of introduction to experience you can.
+Questions _E: English:27
+
+START: 28
+Attribute: 説明
+Option 1: ラング１体験版用
+Option 2: -
+Option 3: -
+The following questions 1: 0
+The following Question 2: 0
+The next question 3: 0
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: -
+Question: Story or play about⏎from the base system, let's understand.
+Questions _E: English:28
+
+START: 29
+Attribute: 説明
+Option 1: ラング１体験版用
+Option 2: -
+Option 3: -
+The following questions 1: 0
+The following Question 2: 0
+The next question 3: 0
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: -
+Question: Data leave⏎full of good things happen.
+Questions _E: English:29
+
+START: 30
+Attribute: 説明
+Option 1: ラング１体験版用
+Option 2: -
+Option 3: -
+The following questions 1: -1
+The following Question 2: -1
+The next question 3: -1
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: -
+Question: It is"the I"of the trial is started.
+Questions _E: English:30
+
+START: 31
+Attribute: 説明
+Option 1: ラング１体験版用
+Option 2: -
+Option 3: -
+The following questions 1: -1
+The following Question 2: -1
+The next question 3: -1
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: -
+Question: -
+Questions _E: English:31
+
+START: 32
+Attribute: 説明
+Option 1: ラング１体験版用
+Option 2: -
+Option 3: -
+The following questions 1: -1
+The following Question 2: -1
+The next question 3: -1
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: -
+Question: -
+Questions _E: English:32
+
+START: 33
+Attribute: 説明
+Option 1: ラング１体験版用
+Option 2: -
+Option 3: -
+The following questions 1: -1
+The following Question 2: -1
+The next question 3: -1
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: -
+Question: -
+Questions _E: English:33
+
+START: 34
+Attribute: 説明
+Option 1: ラング１体験版用
+Option 2: -
+Option 3: -
+The following questions 1: -1
+The following Question 2: -1
+The next question 3: -1
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: -
+Question: -
+Questions _E: English:34
+
+START: 35
+Attribute: 説明
+Option 1: ラング１体験版用
+Option 2: -
+Option 3: -
+The following questions 1: -1
+The following Question 2: -1
+The next question 3: -1
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: -
+Question: -
+Questions _E: English:35
+
+START: 36
+Attribute: 説明
+Option 1: ラング２体験版用
+Option 2: -
+Option 3: -
+The following questions 1: 0
+The following Question 2: 0
+The next question 3: 0
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: -
+Question: Trial welcome.⏎ My name is in the system. On the ground in the light of the goddess being referred to.
+Questions _E: English:36
+
+START: 37
+Attribute: 説明
+Option 1: ラング２体験版用
+Option 2: -
+Option 3: -
+The following questions 1: 0
+The following Question 2: 0
+The next question 3: 0
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: -
+Question: In this mode, the"the II"of the⏎4 chapters from Chapter 6 until you can experience it.⏎ Chapter 1 from Chapter 3 In Your was the the path is as follows.
+Questions _E: English:37
+
+START: 38
+Attribute: 説明
+Option 1: ラング２体験版用
+Option 2: -
+Option 3: -
+The following questions 1: 0
+The following Question 2: 0
+The next question 3: 0
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: -
+Question: Of the continent, where the strife of the constantly wet period.⏎ Your apprentice magician to help with the⏎unrestrained journey continues in......
+Questions _E: English:38
+
+START: 39
+Attribute: 説明
+Option 1: ラング２体験版用
+Option 2: -
+Option 3: -
+The following questions 1: 0
+The following Question 2: 0
+The next question 3: 0
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: -
+Question: When you,or I had to help at home⏎armed forces in the continent to unify the background and the"oil Empire"of the Knights from⏎help of a childhood friend of the girl,Liana fight to protect it.
+Questions _E: English:39
+
+START: 40
+Attribute: 説明
+Option 1: ラング２体験版用
+Option 2: -
+Option 3: -
+The following questions 1: 0
+The following Question 2: 0
+The next question 3: 0
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: -
+Question: Local lords Lauren with the help of the Imperial Knights more, but⏎Lauren only the power of the mighty military nation from the Empire⏎this app to keep impossible‥‥.
+Questions _E: English:40
+
+START: 41
+Attribute: 説明
+Option 1: ラング２体験版用
+Option 2: -
+Option 3: -
+The following questions 1: 0
+The following Question 2: 0
+The next question 3: 0
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: -
+Question: Therefore, you are of seeking protection⏎精強 your priest Warrior Foundation from which"the light of the Great Temple", The⏎Empire・Dragon Knights of the chase is the one for you.
+Questions _E: English:41
+
+START: 42
+Attribute: 説明
+Option 1: ラング２体験版用
+Option 2: -
+Option 3: -
+The following questions 1: 0
+The following Question 2: 0
+The next question 3: 0
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: -
+Question: Chase shook when the Great Temple to meet you guys in⏎Great Temple of the priest Warrior Foundation is a demon slaying for the pay out, and⏎from the darkness of religions"Al Hazard"secrets of the chasing the Imperial Army appear.
+Questions _E: English:42
+
+START: 43
+Attribute: 説明
+Option 1: ラング２体験版用
+Option 2: -
+Option 3: -
+The following questions 1: 0
+The following Question 2: 0
+The next question 3: 0
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: -
+Question: Flame outs troupe the Deputy chief of the zone system and black dragon on an epic dark fantasy in the Grand tradition Foundation Morgan repel but⏎combat by the Great Temple of the injury was very intense for⏎Into the anti-imperialist tract Falls power center of the Kingdom to rely on can.
+Questions _E: English:43
+
+START: 44
+Attribute: 説明
+Option 1: ラング２体験版用
+Option 2: -
+Option 3: -
+The following questions 1: 0
+The following Question 2: 0
+The next question 3: 0
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: -
+Question: The trial version of story is here from the start.⏎ Data leave⏎full of good things happen.
+Questions _E: English:44
+
+START: 45
+Attribute: 説明
+Option 1: ラング２体験版用
+Option 2: -
+Option 3: -
+The following questions 1: -1
+The following Question 2: -1
+The next question 3: -1
+Skills A1: 0
+Skills B1: 0
+Skills C1: 0
+Skills D1: 0
+Item A1: 0
+Item B1: 0
+Item C1: 0
+Item D1: 0
+Item E1: 0
+Item F1: 0
+Win magic 1: -
+Win mercenaries 1: -
+Skills A2: 0
+Skills B2: 0
+Skills C2: 0
+Skills D2: 0
+Item A2: 0
+Item B2: 0
+Item C2: 0
+Item D2: 0
+Item E2: 0
+Item F2: 0
+Win Magic 2: -
+Win the mercenary 2: -
+Skills A3: 0
+Skill B3: 0
+Skill C3: 0
+Skills D3: 0
+Item A3: 0
+Item B3: 0
+Item C3: 0
+Item D3: 0
+Item E3: 0
+Item F3: 0
+Win magic 3: -
+Win the mercenary 3: -
+Voice file name: -
+Question: It is"the II"of the trial is started.
+Questions _E: English:45
+
+START: END
+
